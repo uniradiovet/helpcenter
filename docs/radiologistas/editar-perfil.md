@@ -134,4 +134,4 @@ Após configurar seu perfil:
 
 ## Precisa de Ajuda?
 
-Se encontrar problemas ao editar seu perfil, confira nossas [Perguntas Frequentes](/perguntas-frequentes) ou entre em contato com o suporte.
+Se encontrar problemas ao editar seu perfil, confira nossas [Perguntas Frequentes](/perguntas-frequentes) ou entre em contato com o suporte
