@@ -4,6 +4,7 @@ export default defineConfig({
   title: 'Documentação UniRadio',
   description: 'Guia completo para radiologistas e clientes',
   lang: 'pt-BR',
+  base: '/app-ajuda-pt/',
   
   themeConfig: {
     logo: '/logo.svg',
