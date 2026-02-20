@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: 'Documentação UniRadio',
   description: 'Guia completo para radiologistas e clientes',
-  base: '/app-ajuda-pt/',
+  base: '/helpcenter/',
   ignoreDeadLinks: true,
 
   locales: {
