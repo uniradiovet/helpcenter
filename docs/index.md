@@ -8,10 +8,10 @@ hero:
   actions:
     - theme: brand
       text: Para Radiologistas
-      link: /radiologistas/
+      link: /radiologists/
     - theme: alt
       text: Para Clientes
-      link: /clientes/
+      link: /clients/
 
 features:
   - icon: 🩺

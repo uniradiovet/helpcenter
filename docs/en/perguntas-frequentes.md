@@ -166,4 +166,4 @@ Video tutorials are available throughout this documentation. Look for 📹 icons
 
 ## Still Have Questions?
 
-Contact our support team through the form above or check the detailed tutorials in the [Radiologists](/en/radiologistas/) or [Clients](/en/clientes/) sections.
+Contact our support team through the form above or check the detailed tutorials in the [Radiologists](/en/radiologists/) or [Clients](/en/clients/) sections.

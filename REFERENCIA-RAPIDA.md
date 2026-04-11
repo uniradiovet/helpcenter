@@ -24,10 +24,10 @@ npm run docs:dev
 
 ```bash
 # 1. Criar arquivo
-touch docs/radiologistas/novo-tutorial.md
+touch docs/radiologists/novo-tutorial.md
 
 # 2. Adicionar conteúdo
-cat > docs/radiologistas/novo-tutorial.md << 'EOF'
+cat > docs/radiologists/novo-tutorial.md << 'EOF'
 # Título do Tutorial
 
 ## Passo a Passo
@@ -44,10 +44,10 @@ EOF
 
 ```bash
 # 1. Salvar imagem
-cp ~/captura-tela.png docs/public/images/radiologistas/
+cp ~/captura-tela.png docs/public/images/radiologists/
 
 # 2. Referenciar no markdown
-![Descrição](/images/radiologistas/captura-tela.png)
+![Descrição](/images/radiologists/captura-tela.png)
 ```
 
 ### Implantando Alterações
@@ -64,8 +64,8 @@ git push
 
 | O Que | Onde |
 |------|-------|
-| Docs radiologistas | `docs/radiologistas/*.md` |
-| Docs clientes | `docs/clientes/*.md` |
+| Docs radiologistas | `docs/radiologists/*.md` |
+| Docs clientes | `docs/clients/*.md` |
 | Imagens | `docs/public/images/` |
 | Navegação | `docs/.vitepress/config.mjs` |
 | Página inicial | `docs/index.md` |
@@ -115,8 +115,8 @@ Aviso importante
 
 ```
 Página inicial:   https://seuusuario.github.io/uniradio-docs/
-Radiologistas:    https://seuusuario.github.io/uniradio-docs/radiologistas/
-Clientes:         https://seuusuario.github.io/uniradio-docs/clientes/
+Radiologistas:    https://seuusuario.github.io/uniradio-docs/radiologists/
+Clientes:         https://seuusuario.github.io/uniradio-docs/clients/
 FAQ:              https://seuusuario.github.io/uniradio-docs/perguntas-frequentes
 ```
 

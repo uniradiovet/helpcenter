@@ -13,21 +13,22 @@ Um site de documentação completo e pronto para produção para sua aplicação
 ## 📊 O Que Você Está Recebendo
 
 ### ✅ Estrutura Completa do Site
+
 ```
 uniradio-docs/
 ├── docs/
 │   ├── .vitepress/
 │   │   └── config.mjs           # Toda navegação configurada
-│   ├── radiologistas/           # Seção docs radiologistas
+│   ├── radiologists/            # Seção docs radiologistas
 │   │   ├── index.md             # Página de entrada
-│   │   └── editar-perfil.md     # Tutorial exemplo
-│   ├── clientes/                # Seção docs clientes
+│   │   └── my-profile.md        # Tutorial exemplo
+│   ├── clients/                 # Seção docs clientes
 │   │   ├── index.md             # Página de entrada
-│   │   └── criar-exame.md       # Tutorial exemplo
+│   │   └── exam-new.md          # Tutorial exemplo
 │   ├── public/images/           # Armazenamento de imagens
 │   ├── index.md                 # Página inicial
 │   └── perguntas-frequentes.md  # Página FAQ
-├── .github/workflows/           
+├── .github/workflows/
 │   └── deploy.yml               # Config auto-implantação
 ├── package.json                 # Dependências
 ├── README.md                    # Instruções de configuração
@@ -38,8 +39,8 @@ uniradio-docs/
 ### ✅ Recursos Principais Implementados
 
 1. **Duas Seções Principais**
-   - `/radiologistas/` - Para radiologistas (geração de laudos, PACS, etc.)
-   - `/clientes/` - Para clientes (envio de exames, visualização de laudos)
+   - `/radiologists/` - Para radiologistas (geração de laudos, PACS, etc.)
+   - `/clients/` - Para clientes (envio de exames, visualização de laudos)
 
 2. **Sistema de Navegação**
    - Barra de navegação superior com seleção de função
@@ -69,6 +70,7 @@ uniradio-docs/
 ### Imediato (Fazer Primeiro)
 
 1. **Configurar repositório GitHub**
+
    ```bash
    git init
    git add .
@@ -144,16 +146,19 @@ uniradio-docs/
 ### Onde Colocar as Coisas
 
 **Conteúdo Markdown**: `/docs/[secao]/[nome-pagina].md`
-- Docs radiologistas: `/docs/radiologistas/`
+
+- Docs radiologistas: `/docs/radiologists/`
 - Docs clientes: `/docs/clientes/`
 - Páginas gerais: `/docs/`
 
 **Imagens**: `/docs/public/images/[secao]/[nome-imagem].png`
-- Imagens radiologistas: `/docs/public/images/radiologistas/`
+
+- Imagens radiologistas: `/docs/public/images/radiologists/`
 - Imagens clientes: `/docs/public/images/clientes/`
 - Imagens compartilhadas: `/docs/public/images/shared/`
 
 **Configuração**: `/docs/.vitepress/config.mjs`
+
 - Menus de navegação
 - Estrutura da barra lateral
 - Metadados do site
@@ -161,11 +166,14 @@ uniradio-docs/
 ## 🎨 Guia de Personalização
 
 ### Alterar Logo
+
 1. Salve logo como `/docs/public/logo.svg`
 2. Já está configurado em config.mjs
 
 ### Alterar Cores
+
 Crie `/docs/.vitepress/theme/custom.css`:
+
 ```css
 :root {
   --vp-c-brand: #sua-cor-marca;
@@ -173,14 +181,15 @@ Crie `/docs/.vitepress/theme/custom.css`:
 ```
 
 ### Atualizar Navegação
+
 Edite `/docs/.vitepress/config.mjs`:
+
 ```javascript
-nav: [
-  { text: 'Seu Link', link: '/sua-pagina' }
-]
+nav: [{ text: "Seu Link", link: "/sua-pagina" }];
 ```
 
 ### Adicionar Nova Página
+
 1. Crie `/docs/secao/nova-pagina.md`
 2. Adicione à barra lateral em config.mjs
 3. Conteúdo aparece automaticamente
@@ -188,17 +197,20 @@ nav: [
 ## 🔧 Manutenção
 
 ### Adicionando Novos Tutoriais
+
 1. Crie arquivo markdown
 2. Adicione à navegação da barra lateral
 3. Git commit e push
 4. Auto-implanta em 2-3 minutos
 
 ### Atualizando Conteúdo Existente
+
 1. Edite arquivo markdown
 2. Git commit e push
 3. Alterações ao vivo em 2-3 minutos
 
 ### Gerenciando Imagens
+
 1. Adicione a `/docs/public/images/`
 2. Referencie como `/images/pasta/nome.png`
 3. Otimização automática no build
@@ -208,6 +220,7 @@ nav: [
 Use isto para acompanhar seu progresso de migração:
 
 ### Seção Radiologistas
+
 - [ ] Tutoriais Meu Perfil
 - [ ] Gerenciamento de conta
 - [ ] Registro de clientes
@@ -225,6 +238,7 @@ Use isto para acompanhar seu progresso de migração:
 - [ ] Configuração do sistema
 
 ### Seção Clientes
+
 - [ ] Meu perfil
 - [ ] Criar exame
 - [ ] Enviar via PACS
@@ -233,6 +247,7 @@ Use isto para acompanhar seu progresso de migração:
 - [ ] Acessar laudos
 
 ### Geral
+
 - [ ] FAQ (expandir versão atual)
 - [ ] Adicionar todas as imagens
 - [ ] Adicionar embeds de vídeo
@@ -249,6 +264,7 @@ R: Sim! Execute `npm run docs:dev` para ver alterações localmente.
 
 **P: Como adiciono vídeos?**
 R: Incorpore com HTML no markdown:
+
 ```html
 <iframe src="sua-url-video"></iframe>
 ```
@@ -268,6 +284,7 @@ R: Git permite reverter. Além disso, só implanta quando você faz push.
 ## 🎉 Você Está Pronto!
 
 Seu portal de documentação está pronto para produção. Apenas:
+
 1. Execute `./iniciar.sh` para configurar
 2. Faça push para GitHub
 3. Ative GitHub Pages

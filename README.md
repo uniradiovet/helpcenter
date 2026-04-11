@@ -18,13 +18,13 @@ uniradio-docs/
 ├── docs/
 │   ├── .vitepress/
 │   │   └── config.mjs          # Configuração VitePress
-│   ├── radiologistas/          # Documentação radiologistas
+│   ├── radiologists/           # Documentação radiologistas
 │   │   ├── index.md
-│   │   ├── editar-perfil.md
+│   │   ├── my-profile.md
 │   │   └── ...
-│   ├── clientes/               # Documentação clientes
+│   ├── clients/                # Documentação clientes
 │   │   ├── index.md
-│   │   ├── criar-exame.md
+│   │   ├── exam-new.md
 │   │   └── ...
 │   ├── public/                 # Assets estáticos (imagens, etc.)
 │   │   └── images/
@@ -38,23 +38,26 @@ uniradio-docs/
 
 ### Pré-requisitos
 
-- Node.js 18+ 
+- Node.js 18+
 - npm ou yarn
 
 ### Instalação
 
 1. Clone o repositório:
+
 ```bash
 git clone https://github.com/seuusuario/uniradio-docs.git
 cd uniradio-docs
 ```
 
 2. Instale as dependências:
+
 ```bash
 npm install
 ```
 
 3. Inicie o servidor de desenvolvimento:
+
 ```bash
 npm run docs:dev
 ```
@@ -66,10 +69,11 @@ O site estará disponível em `http://localhost:5173`
 ### Criando uma Nova Página
 
 1. Crie um novo arquivo `.md` no diretório apropriado:
-   - `/docs/radiologistas/` para documentação de radiologistas
-   - `/docs/clientes/` para documentação de clientes
+   - `/docs/radiologists/` para documentação de radiologistas
+   - `/docs/clients/` para documentação de clientes
 
 2. Adicione front matter (opcional):
+
 ```markdown
 ---
 title: Título da Sua Página
@@ -82,13 +86,14 @@ Seu conteúdo aqui...
 ```
 
 3. Adicione a página à barra lateral em `.vitepress/config.mjs`:
+
 ```javascript
 sidebar: {
-  '/radiologistas/': [
+  '/radiologists/': [
     {
       text: 'Sua Seção',
       items: [
-        { text: 'Sua Página', link: '/radiologistas/sua-pagina' }
+        { text: 'Sua Página', link: '/radiologists/sua-pagina' }
       ]
     }
   ]
@@ -99,8 +104,9 @@ sidebar: {
 
 1. Coloque imagens em `/docs/public/images/`
 2. Referencie-as no markdown:
+
 ```markdown
-![Texto alternativo](/images/radiologistas/captura-tela.png)
+![Texto alternativo](/images/radiologists/captura-tela.png)
 ```
 
 ### Usando Alertas e Dicas
@@ -166,9 +172,9 @@ Edite o array `nav` em `.vitepress/config.mjs`:
 
 ```javascript
 nav: [
-  { text: 'Início', link: '/' },
-  { text: 'Seu Link', link: '/sua-pagina' }
-]
+  { text: "Início", link: "/" },
+  { text: "Seu Link", link: "/sua-pagina" },
+];
 ```
 
 ## 📋 Lista de Tarefas

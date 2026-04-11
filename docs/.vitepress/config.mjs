@@ -13,90 +13,267 @@ export default defineConfig({
       themeConfig: {
         nav: [
           { text: 'Início', link: '/' },
-          { text: 'Para Radiologistas', link: '/radiologistas/' },
-          { text: 'Para Clientes', link: '/clientes/' },
+          { text: 'Para Radiologistas', link: '/radiologists/' },
+          { text: 'Para Clientes', link: '/clients/' },
           { text: 'Perguntas Frequentes', link: '/perguntas-frequentes' }
         ],
         sidebar: {
-          '/radiologistas/': [
+          '/radiologists/': [
             {
-              text: 'Primeiros Passos',
+              text: 'Início',
               items: [
-                { text: 'Introdução', link: '/radiologistas/' },
-                { text: 'Meu Perfil', link: '/radiologistas/meu-perfil' },
-                { text: 'Minha Conta', link: '/radiologistas/minha-conta' }
+                { text: 'Introdução', link: '/radiologists/' }
               ]
             },
             {
-              text: 'Gerenciamento de Conta',
+              text: 'Exames',
               items: [
-                { text: 'Editar Perfil', link: '/radiologistas/editar-perfil' },
-                { text: 'Alterar Senha', link: '/radiologistas/alterar-senha' },
-                { text: 'Cancelar Assinatura', link: '/radiologistas/cancelar-assinatura' }
-              ]
-            },
-            {
-              text: 'Gerenciamento de Clientes',
-              items: [
-                { text: 'Cadastrar Clientes', link: '/radiologistas/cadastrar-clientes' },
-                { text: 'Gerenciar Clientes', link: '/radiologistas/gerenciar-clientes' }
-              ]
-            },
-            {
-              text: 'Gerenciamento de Usuários',
-              items: [
-                { text: 'Adicionar Usuários', link: '/radiologistas/adicionar-usuarios' },
-                { text: 'Desativar Usuários', link: '/radiologistas/desativar-usuarios' }
+                { text: 'Criar exame', link: '/radiologists/exam/exam-new' },
+                { text: 'Criar via PACS', link: '/radiologists/exam/pacs-exam-new' },
+                { text: 'Editar exame', link: '/radiologists/exam/exam-edit' },
+                { text: 'Excluir exame', link: '/radiologists/exam/exam-delete' }
               ]
             },
             {
               text: 'Laudos',
               items: [
-                { text: 'Criar Modelos de Laudos', link: '/radiologistas/criar-modelos-laudos' },
-                { text: 'Emitir Laudos', link: '/radiologistas/emitir-laudos' },
-                { text: 'Acessar Laudos', link: '/radiologistas/acessar-laudos' },
-                { text: 'Editar Laudos', link: '/radiologistas/editar-laudos' }
+                { text: 'Emitir Laudo', link: '/radiologists/report/issue-reports' },
+                { text: 'Editar Laudo', link: '/radiologists/report/report-edit' },
+                { text: 'Anexar estudo PACS', link: '/radiologists/exam/exam-pacs-attach' },
+                { text: 'Anexar imagens', link: '/radiologists/exam/exam-upload-images' },
+                { text: 'Marcar pendente', link: '/radiologists/report/mark-as-pending' },
+                { text: 'Rejeitar laudo', link: '/radiologists/exam/exam-reject' },
+                { text: 'Acessar laudo', link: '/radiologists/report/report-access' },
+                { text: 'Compartilhar', link: '/radiologists/report/report-share' },
+                { text: 'Filtrar Laudos', link: '/radiologists/report/report-filter' },
+                { text: 'Versões do Laudo', link: '/radiologists/report/report-restore-version' },
+                { text: 'Comentário', link: '/radiologists/exam/exam-comment-new' }
               ]
             },
             {
-              text: 'Servidor PACS',
+              text: 'Modelos de Laudo',
               items: [
-                { text: 'Visão Geral PACS', link: '/radiologistas/pacs-visao-geral' },
-                { text: 'Integração VXvue', link: '/radiologistas/pacs-vxvue' },
-                { text: 'Integração Ultrassom', link: '/radiologistas/pacs-ultrassom' },
-                { text: 'Integração Carestream', link: '/radiologistas/pacs-carestream' },
-                { text: 'Integração Ultramedic', link: '/radiologistas/pacs-ultramedic' },
-                { text: 'Solução de Problemas PACS', link: '/radiologistas/pacs-solucao-problemas' }
+                { text: 'Criar modelo', link: '/radiologists/report/create-report-templates' },
+                { text: 'Inserir modelo', link: '/radiologists/report/insert-report-template' },
+                { text: 'Editar modelo', link: '/radiologists/report/edit-report-template' },
+                { text: 'Excluir modelo', link: '/radiologists/report/delete-report-template' }
+              ]
+            },
+            {
+              text: 'Clientes',
+              items: [
+                { text: 'Cadastrar Cliente', link: '/radiologists/clients/register-client' },
+                { text: 'Editar Cliente', link: '/radiologists/clients/edit-client' },
+                { text: 'Desativar Cliente', link: '/radiologists/clients/deactivate-client' },
+                { text: 'Desativar em massa', link: '/radiologists/clients/bulk-deactivate-clients' },
+                { text: 'Reativar Cliente', link: '/radiologists/clients/reactivate-client' },
+                { text: 'Reativar em massa', link: '/radiologists/clients/bulk-reactivate-clients' },
+                { text: 'Motivo de desativação', link: '/radiologists/clients/update-deactivation-reason' },
+                { text: 'Mesclar contas', link: '/radiologists/clients/merge-clients' },
+                { text: 'Comentários', link: '/radiologists/clients/client-comment' },
+                { text: 'Exportar contas', link: '/radiologists/clients/export-clients' },
+                { text: 'Exportações anteriores', link: '/radiologists/clients/export-clients-history' },
+                { text: 'Importar contas', link: '/radiologists/clients/import-clients' },
+                { text: 'Importações anteriores', link: '/radiologists/clients/import-clients-history' }
+              ]
+            },
+            {
+              text: 'Usuários',
+              items: [
+                { text: 'Convidar Usuário', link: '/radiologists/users/invite-account-user' },
+                { text: 'Editar Usuário', link: '/radiologists/users/edit-account-user' },
+                { text: 'Permissões', link: '/radiologists/users/edit-account-user-permissions' },
+                { text: 'Notificações', link: '/radiologists/users/edit-account-user-notifications' },
+                { text: 'Link redefinição', link: '/radiologists/users/account-user-password-reset-link' },
+                { text: 'Desativar Usuário', link: '/radiologists/users/deactivate-account-user' },
+                { text: 'Aceitar em massa', link: '/radiologists/users/bulk-accept-account-invitation' },
+                { text: 'Ativar em massa', link: '/radiologists/users/bulk-activate-account-users' },
+                { text: 'Desativar em massa', link: '/radiologists/users/bulk-deactivate-account-users' },
+                { text: 'Reenviar em massa', link: '/radiologists/users/bulk-resend-account-invitation' }
+              ]
+            },
+            {
+              text: 'Usuários dos Clientes',
+              items: [
+                { text: 'Convidar Usuário', link: '/radiologists/client-users/invite-user' },
+                { text: 'Editar Usuário', link: '/radiologists/client-users/edit-user' },
+                { text: 'Permissões', link: '/radiologists/client-users/edit-user-permissions' },
+                { text: 'Notificações', link: '/radiologists/client-users/edit-user-notifications' },
+                { text: 'Link ativação', link: '/radiologists/client-users/user-activation-link' },
+                { text: 'Link redefinição', link: '/radiologists/client-users/user-password-reset-link' },
+                { text: 'Desativar Usuário', link: '/radiologists/client-users/deactivate-user' },
+                { text: 'Aceitar em massa', link: '/radiologists/client-users/bulk-accept-invitation' },
+                { text: 'Ativar em massa', link: '/radiologists/client-users/bulk-activate-users' },
+                { text: 'Desativar em massa', link: '/radiologists/client-users/bulk-deactivate-users' },
+                { text: 'Reenviar em massa', link: '/radiologists/client-users/bulk-resend-invitation' }
+              ]
+            },
+            {
+              text: 'Meu perfil',
+              items: [
+                { text: 'Gerenciar perfil', link: '/radiologists/account/my-profile' },
+                { text: 'Alterar senha', link: '/radiologists/account/change-password' }
               ]
             },
             {
               text: 'Configurações',
               items: [
-                { text: 'Página de Configuração', link: '/radiologistas/configuracao' }
-              ]
-            }
-          ],
-          '/clientes/': [
-            {
-              text: 'Primeiros Passos',
-              items: [
-                { text: 'Introdução', link: '/clientes/' },
-                { text: 'Meu Perfil', link: '/clientes/meu-perfil' }
+                { text: 'Minha conta', link: '/radiologists/account/my-account' },
+                { text: 'Configurar laudos', link: '/radiologists/report/report-settings' },
+                { text: 'Configurar exames', link: '/radiologists/exam/exam-settings' },
+                { text: 'Pesquisa NPS', link: '/radiologists/settings/nps-settings' },
+                { text: 'Notificações conta', link: '/radiologists/account/account-notifications' }
               ]
             },
             {
-              text: 'Gerenciamento de Exames',
+              text: 'Tags',
               items: [
-                { text: 'Criar Exame', link: '/clientes/criar-exame' },
-                { text: 'Enviar via PACS', link: '/clientes/enviar-pacs' },
-                { text: 'Editar Exame', link: '/clientes/editar-exame' },
-                { text: 'Marcar como Pendente', link: '/clientes/marcar-pendente' }
+                { text: 'Criar tag', link: '/radiologists/settings/create-tag' },
+                { text: 'Editar tag', link: '/radiologists/settings/edit-tag' },
+                { text: 'Excluir tag', link: '/radiologists/settings/delete-tag' }
+              ]
+            },
+            {
+              text: 'PACS',
+              items: [
+                { text: 'Configurações PACS', link: '/radiologists/pacs/pacs-settings' },
+                { text: 'Visão geral', link: '/radiologists/pacs/pacs-settings' },
+                { text: 'Integração VXvue', link: '/radiologists/pacs/pacs-settings' },
+                { text: 'Integração ultrassom', link: '/radiologists/pacs/pacs-settings' },
+                { text: 'Integração Carestream', link: '/radiologists/pacs/pacs-settings' },
+                { text: 'Integração Ultramedic', link: '/radiologists/pacs/pacs-settings' },
+                { text: 'Solução problemas', link: '/radiologists/pacs/pacs-settings' }
+              ]
+            },
+            {
+              text: 'Relatórios',
+              items: [
+                { text: 'Painel analítico', link: '/radiologists/report/dashboard' },
+                { text: 'Gerar relatórios', link: '/radiologists/report/reports-generate' }
+              ]
+            },
+            {
+              text: 'Segurança',
+              items: [
+                { text: 'Ativar Autenticação 2FA', link: '/radiologists/security/2fa-enable' },
+                { text: 'Desativar Autenticação 2FA', link: '/radiologists/security/2fa-disable' }
+              ]
+            },
+            {
+              text: 'Assinatura',
+              items: [
+                { text: 'Gerenciar assinatura', link: '/radiologists/account/account-subscription' }
+              ]
+            },
+            {
+              text: 'Financeiro',
+              items: [
+                { text: 'Configurações', link: '/radiologists/settings/financial-settings' },
+                { text: 'Laudo', link: '/radiologists/exam/exam-financial' }
+              ]
+            },
+            {
+              text: 'Webhooks',
+              items: [
+                { text: 'Cadastrar Webhook', link: '/radiologists/integrations/webhooks-new' },
+                { text: 'Editar Webhook', link: '/radiologists/integrations/webhooks-edit' },
+                { text: 'Logs de Webhooks', link: '/radiologists/integrations/webhooks-logs' },
+                { text: 'Excluir Webhook', link: '/radiologists/integrations/webhooks-delete' }
+              ]
+            },
+            {
+              text: 'Definição de Campos',
+              items: [
+                { text: 'Exame', link: '/radiologists/exam/exam-fields' },
+                { text: 'Conta', link: '/radiologists/fields/fields-account-radiologist' },
+                { text: 'Usuário da Conta', link: '/radiologists/fields/fields-invite-user-account' },
+                { text: 'Usuário do Cliente', link: '/radiologists/fields/fields-invite-user-client' },
+                { text: 'Novo Cliente', link: '/radiologists/fields/fields-new-client' },
+                { text: 'Importação de Clientes', link: '/radiologists/fields/fields-clients-import' },
+                { text: 'Notificações', link: '/radiologists/fields/fields-notifications' },
+                { text: 'Perfil', link: '/radiologists/fields/fields-profile-user' },
+                { text: 'Laudo', link: '/radiologists/fields/fields-report' },
+                { text: 'Configurações do Laudo', link: '/radiologists/fields/fields-settings-report' },
+                { text: 'Webhook', link: '/radiologists/fields/fields-webhook' }
+              ]
+            }
+          ],
+          '/clients/': [
+            {
+              text: 'Início',
+              items: [
+                { text: 'Introdução', link: '/clients/' }
+              ]
+            },
+            {
+              text: 'Exames',
+              items: [
+                { text: 'Enviar Exame', link: '/clients/exam/exam-new' },
+                { text: 'Enviar via PACS', link: '/clients/exam/pacs-exam-new' },
+                { text: 'Editar Exame', link: '/clients/exam/exam-edit' },
+                { text: 'Excluir Exame', link: '/clients/exam/exam-delete' },
+                { text: 'Campos de Exame', link: '/clients/exam/exam-fields' },
+                { text: 'Filtrar Laudos', link: '/clients/report/report-filter' }
               ]
             },
             {
               text: 'Laudos',
               items: [
-                { text: 'Acessar Laudos', link: '/clientes/acessar-laudos' }
+                { text: 'Acessar Laudos', link: '/clients/report/report-access' },
+                { text: 'Compartilhar Laudos', link: '/clients/report/report-share' }
+              ]
+            },
+            {
+              text: 'Usuários',
+              items: [
+                { text: 'Convidar', link: '/clients/users/users-invite' },
+                { text: 'Editar', link: '/clients/users/users-edit' },
+                { text: 'Permissões', link: '/clients/users/users-permissions' },
+                { text: 'Notificações', link: '/clients/users/users-notifications' }
+              ]
+            },
+            {
+              text: 'Meu Perfil',
+              items: [
+                { text: 'Editar Perfil', link: '/clients/account/my-profile' },
+                { text: 'Alterar Senha', link: '/clients/security/password-change' }
+              ]
+            },
+            {
+              text: 'Configurações',
+              items: [
+                { text: 'Notificações', link: '/clients/settings/notifications' }
+              ]
+            },
+            {
+              text: 'PACS',
+              items: [
+                { text: 'Configurações PACS', link: '/clients/pacs/pacs-settings' }
+              ]
+            },
+            {
+              text: 'Segurança',
+              items: [
+                { text: 'Ativar 2 Fatores', link: '/clients/security/2fa-enable' },
+                { text: 'Desativar 2 Fatores', link: '/clients/security/2fa-disable' }
+              ]
+            },
+            {
+              text: 'Webhooks',
+              items: [
+                { text: 'Cadastrar', link: '/clients/integrations/webhooks-new' },
+                { text: 'Editar', link: '/clients/integrations/webhooks-edit' },
+                { text: 'Logs', link: '/clients/integrations/webhooks-logs' },
+                { text: 'Excluir', link: '/clients/integrations/webhooks-delete' }
+              ]
+            },
+            {
+              text: 'Definição de Campos',
+              items: [
+                { text: 'Exame', link: '/clients/exam/exam-fields' },
+                { text: 'Conta', link: '/clients/fields/fields-account-clinic' },
+                { text: 'Convite', link: '/clients/fields/fields-invite-user' },
+                { text: 'Notificações', link: '/clients/fields/fields-notifications' }
               ]
             }
           ]
@@ -143,90 +320,237 @@ export default defineConfig({
       themeConfig: {
         nav: [
           { text: 'Home', link: '/en/' },
-          { text: 'For Radiologists', link: '/en/radiologistas/' },
-          { text: 'For Clients', link: '/en/clientes/' },
+          { text: 'For Radiologists', link: '/en/radiologists/' },
+          { text: 'Fields - Client Import', link: '/en/radiologists/fields/fields-clients-import' },
+          { text: 'For Clients', link: '/en/clients/' },
           { text: 'FAQ', link: '/en/perguntas-frequentes' }
         ],
         sidebar: {
-          '/en/radiologistas/': [
+          '/en/radiologists/': [
             {
               text: 'Getting Started',
               items: [
-                { text: 'Introduction', link: '/en/radiologistas/' },
-                { text: 'My Profile', link: '/en/radiologistas/meu-perfil' },
-                { text: 'My Account', link: '/en/radiologistas/minha-conta' }
+                { text: 'Introduction', link: '/en/radiologists/' },
+                { text: 'My Profile', link: '/en/radiologists/my-profile' },
+                { text: 'My Account', link: '/en/radiologists/account/my-account' }
+              ]
+            },
+            {
+              text: 'Dashboard',
+              items: [
+                { text: 'Analytics Dashboard', link: '/en/radiologists/report/dashboard' }
               ]
             },
             {
               text: 'Account Management',
               items: [
-                { text: 'Edit Profile', link: '/en/radiologistas/editar-perfil' },
-                { text: 'Change Password', link: '/en/radiologistas/alterar-senha' },
-                { text: 'Cancel Subscription', link: '/en/radiologistas/cancelar-assinatura' }
+                { text: 'Edit Profile', link: '/en/radiologists/my-profile' },
+                { text: 'Change Password', link: '/en/radiologists/account/change-password' },
+                { text: 'Enable Two-Factor Authentication', link: '/en/radiologists/security/2fa-enable' },
+                { text: 'Disable Two-Factor Authentication', link: '/en/radiologists/security/2fa-disable' },
+                { text: 'Invite User to Account', link: '/en/radiologists/users/invite-account-user' },
+                { text: 'Edit Account User', link: '/en/radiologists/users/edit-account-user' },
+                { text: 'Edit Account User Permissions', link: '/en/radiologists/users/edit-account-user-permissions' },
+                { text: 'Edit Account User Notifications', link: '/en/radiologists/users/edit-account-user-notifications' },
+                { text: 'Get User Password Reset Link', link: '/en/radiologists/users/account-user-password-reset-link' },
+                { text: 'Deactivate Account User', link: '/en/radiologists/users/deactivate-account-user' },
+                { text: 'Account Notifications', link: '/en/radiologists/account/account-notifications' },
+                { text: 'Account Subscription', link: '/en/radiologists/account/account-subscription' },
+                { text: 'Bulk Accept Invitations', link: '/en/radiologists/users/bulk-accept-account-invitation' },
+                { text: 'Bulk Activate Users', link: '/en/radiologists/users/bulk-activate-account-users' },
+                { text: 'Bulk Deactivate Users', link: '/en/radiologists/users/bulk-deactivate-account-users' },
+                { text: 'Bulk Resend Invitation', link: '/en/radiologists/users/bulk-resend-account-invitation' }
               ]
             },
             {
               text: 'Client Management',
               items: [
-                { text: 'Register Clients', link: '/en/radiologistas/cadastrar-clientes' },
-                { text: 'Manage Clients', link: '/en/radiologistas/gerenciar-clientes' }
+                { text: 'Register Clients', link: '/en/radiologists/clients/register-client' },
+                { text: 'Edit Client', link: '/en/radiologists/clients/edit-client' },
+                { text: 'Deactivate Client', link: '/en/radiologists/clients/deactivate-client' },
+                { text: 'Bulk Deactivate Clients', link: '/en/radiologists/clients/bulk-deactivate-clients' },
+                { text: 'Reactivate Client', link: '/en/radiologists/clients/reactivate-client' },
+                { text: 'Bulk Reactivate Clients', link: '/en/radiologists/clients/bulk-reactivate-clients' },
+                { text: 'Update Deactivation Reason', link: '/en/radiologists/clients/update-deactivation-reason' },
+                { text: 'Import Clients', link: '/en/radiologists/clients/import-clients' },
+                { text: 'Import History', link: '/en/radiologists/clients/import-clients-history' },
+                { text: 'Comment on Client Profile', link: '/en/radiologists/clients/client-comment' },
+                { text: 'Delete Client Comment', link: '/en/radiologists/clients/client-comment' },
+                { text: 'Merge Clients', link: '/en/radiologists/clients/merge-clients' },
+                { text: 'Manage Clients', link: '/en/radiologists/clients/register-client' }
               ]
             },
             {
               text: 'User Management',
               items: [
-                { text: 'Add Users', link: '/en/radiologistas/adicionar-usuarios' },
-                { text: 'Deactivate Users', link: '/en/radiologistas/desativar-usuarios' }
-              ]
-            },
-            {
-              text: 'Reports',
-              items: [
-                { text: 'Create Report Templates', link: '/en/radiologistas/criar-modelos-laudos' },
-                { text: 'Issue Reports', link: '/en/radiologistas/emitir-laudos' },
-                { text: 'Access Reports', link: '/en/radiologistas/acessar-laudos' },
-                { text: 'Edit Reports', link: '/en/radiologistas/editar-laudos' }
-              ]
-            },
-            {
-              text: 'PACS Server',
-              items: [
-                { text: 'PACS Overview', link: '/en/radiologistas/pacs-visao-geral' },
-                { text: 'VXvue Integration', link: '/en/radiologistas/pacs-vxvue' },
-                { text: 'Ultrasound Integration', link: '/en/radiologistas/pacs-ultrassom' },
-                { text: 'Carestream Integration', link: '/en/radiologistas/pacs-carestream' },
-                { text: 'Ultramedic Integration', link: '/en/radiologistas/pacs-ultramedic' },
-                { text: 'PACS Troubleshooting', link: '/en/radiologistas/pacs-solucao-problemas' }
-              ]
-            },
-            {
-              text: 'Settings',
-              items: [
-                { text: 'Configuration Page', link: '/en/radiologistas/configuracao' }
-              ]
-            }
-          ],
-          '/en/clientes/': [
-            {
-              text: 'Getting Started',
-              items: [
-                { text: 'Introduction', link: '/en/clientes/' },
-                { text: 'My Profile', link: '/en/clientes/meu-perfil' }
+                { text: 'Invite User', link: '/en/radiologists/client-users/invite-user' },
+                { text: 'Edit User', link: '/en/radiologists/client-users/edit-user' },
+                { text: 'Edit User Permissions', link: '/en/radiologists/client-users/edit-user-permissions' },
+                { text: 'Edit User Notifications', link: '/en/radiologists/client-users/edit-user-notifications' },
+                { text: 'Get Activation Link', link: '/en/radiologists/client-users/user-activation-link' },
+                { text: 'Get Password Reset Link', link: '/en/radiologists/client-users/user-password-reset-link' },
+                { text: 'Deactivate User', link: '/en/radiologists/client-users/deactivate-user' },
+                { text: 'Bulk Accept Invitations', link: '/en/radiologists/client-users/bulk-accept-invitation' },
+                { text: 'Bulk Activate Users', link: '/en/radiologists/client-users/bulk-activate-users' },
+                { text: 'Bulk Deactivate Users', link: '/en/radiologists/client-users/bulk-deactivate-users' },
+                { text: 'Bulk Resend Invitation', link: '/en/radiologists/client-users/bulk-resend-invitation' },
+                { text: 'Add Users', link: '/en/radiologists/client-users/invite-user' },
+                { text: 'Deactivate Users', link: '/en/radiologists/client-users/deactivate-user' }
               ]
             },
             {
               text: 'Exam Management',
               items: [
-                { text: 'Create Exam', link: '/en/clientes/criar-exame' },
-                { text: 'Send via PACS', link: '/en/clientes/enviar-pacs' },
-                { text: 'Edit Exam', link: '/en/clientes/editar-exame' },
-                { text: 'Mark as Pending', link: '/en/clientes/marcar-pendente' }
+                { text: 'Create Exam', link: '/en/radiologists/exam/exam-new' },
+                { text: 'Create Exam via PACS', link: '/en/radiologists/exam/pacs-exam-new' },
+                { text: 'Edit Exam', link: '/en/radiologists/exam/exam-edit' },
+                { text: 'Access Exam Results', link: '/en/radiologists/exam/exam-delete' },
+                { text: 'Reject Exam', link: '/en/radiologists/exam/exam-reject' },
+                { text: 'Add Comment to Exam', link: '/en/radiologists/exam/exam-comment-new' },
+                { text: 'Attach PACS Study to Exam', link: '/en/radiologists/exam/exam-pacs-attach' },
+                { text: 'Exam Financial Management', link: '/en/radiologists/exam/exam-financial' },
+                { text: 'Attach Images to Exam', link: '/en/radiologists/exam/exam-upload-images' }
               ]
             },
             {
               text: 'Reports',
               items: [
-                { text: 'Access Reports', link: '/en/clientes/acessar-laudos' }
+                { text: 'Filter Reports', link: '/en/radiologists/report/report-filter' },
+                { text: 'Create Report Templates', link: '/en/radiologists/report/create-report-templates' },
+                { text: 'Edit Report Templates', link: '/en/radiologists/report/edit-report-template' },
+                { text: 'Delete Report Templates', link: '/en/radiologists/report/delete-report-template' },
+                { text: 'Apply Report Template', link: '/en/radiologists/report/insert-report-template' },
+                { text: 'Issue Reports', link: '/en/radiologists/report/issue-reports' },
+                { text: 'Edit Reports', link: '/en/radiologists/report/report-edit' },
+                { text: 'Restore Report Version', link: '/en/radiologists/report/report-restore-version' },
+                { text: 'Mark as Pending', link: '/en/radiologists/report/mark-as-pending' },
+                { text: 'Access Reports', link: '/en/radiologists/report/report-access' },
+                { text: 'Share Reports', link: '/en/radiologists/report/report-share' },
+                { text: 'Generate Reports', link: '/en/radiologists/report/reports-generate' }
+              ]
+            },
+            {
+              text: 'PACS Server',
+              items: [
+                { text: 'PACS Settings', link: '/en/radiologists/pacs/pacs-settings' },
+                { text: 'PACS Overview', link: '/en/radiologists/pacs/pacs-settings' },
+                { text: 'VXvue Integration', link: '/en/radiologists/pacs/pacs-settings' },
+                { text: 'Ultrasound Integration', link: '/en/radiologists/pacs/pacs-settings' },
+                { text: 'Carestream Integration', link: '/en/radiologists/pacs/pacs-settings' },
+                { text: 'Ultramedic Integration', link: '/en/radiologists/pacs/pacs-settings' },
+                { text: 'PACS Troubleshooting', link: '/en/radiologists/pacs/pacs-settings' }
+              ]
+            },
+            {
+              text: 'Settings',
+              items: [
+                { text: 'Configuration Page', link: '/en/radiologists/account/my-account' },
+                { text: 'Create Tag', link: '/en/radiologists/settings/create-tag' },
+                { text: 'Edit Tag', link: '/en/radiologists/settings/edit-tag' },
+                { text: 'Delete Tag', link: '/en/radiologists/settings/delete-tag' },
+                { text: 'Exam Settings', link: '/en/radiologists/exam/exam-settings' },
+                { text: 'Report Settings', link: '/en/radiologists/report/report-settings' },
+                { text: 'NPS Survey', link: '/en/radiologists/settings/nps-settings' },
+                { text: 'Financial Management', link: '/en/radiologists/settings/financial-settings' },
+                { text: 'Register Webhook', link: '/en/radiologists/integrations/webhooks-new' },
+                { text: 'Edit Webhook', link: '/en/radiologists/integrations/webhooks-edit' },
+                { text: 'Webhook Logs', link: '/en/radiologists/integrations/webhooks-logs' },
+                { text: 'Delete Webhook', link: '/en/radiologists/integrations/webhooks-delete' }
+              ]
+            },
+            {
+              text: 'Field Definitions',
+              items: [
+                { text: 'Exam', link: '/en/radiologists/exam/exam-fields' },
+                { text: 'Account', link: '/en/radiologists/fields/fields-account-radiologist' },
+                { text: 'Account User', link: '/en/radiologists/fields/fields-invite-user-account' },
+                { text: 'Client User', link: '/en/radiologists/fields/fields-invite-user-client' },
+                { text: 'New Client', link: '/en/radiologists/fields/fields-new-client' },
+                { text: 'Client Import', link: '/en/radiologists/fields/fields-clients-import' },
+                { text: 'Notifications', link: '/en/radiologists/fields/fields-notifications' },
+                { text: 'User Profile', link: '/en/radiologists/fields/fields-profile-user' },
+                { text: 'Report', link: '/en/radiologists/fields/fields-report' },
+                { text: 'Report Settings', link: '/en/radiologists/fields/fields-settings-report' },
+                { text: 'Webhook', link: '/en/radiologists/fields/fields-webhook' }
+              ]
+            }
+          ],
+          '/en/clients/': [
+            {
+              text: 'Getting Started',
+              items: [
+                { text: 'Introduction', link: '/en/clients/' }
+              ]
+            },
+            {
+              text: 'Exams',
+              items: [
+                { text: 'Create Exam', link: '/en/clients/exam/exam-new' },
+                { text: 'Edit Exam', link: '/en/clients/exam/exam-edit' },
+                { text: 'Delete Exam', link: '/en/clients/exam/exam-delete' },
+                { text: 'Exam Fields', link: '/en/clients/exam/exam-fields' },
+                { text: 'Filter Reports', link: '/en/clients/report/report-filter' }
+              ]
+            },
+            {
+              text: 'Reports',
+              items: [
+                { text: 'Access Reports', link: '/en/clients/report/report-access' },
+                { text: 'Share Reports', link: '/en/clients/report/report-share' }
+              ]
+            },
+            {
+              text: 'Users',
+              items: [
+                { text: 'Invite Users', link: '/en/clients/users/users-invite' },
+                { text: 'Edit Users', link: '/en/clients/users/users-edit' },
+                { text: 'User Permissions', link: '/en/clients/users/users-permissions' },
+                { text: 'User Notifications', link: '/en/clients/users/users-notifications' }
+              ]
+            },
+            {
+              text: 'My Profile',
+              items: [
+                { text: 'Edit Profile', link: '/en/clients/account/my-profile' },
+                { text: 'Change Password', link: '/en/clients/security/password-change' }
+              ]
+            },
+            {
+              text: 'Settings',
+              items: [
+                { text: 'Notifications', link: '/en/clients/settings/notifications' }
+              ]
+            },
+            {
+              text: 'PACS',
+              items: [
+                { text: 'PACS Settings', link: '/en/clients/pacs/pacs-settings' },
+                { text: 'Send via PACS', link: '/en/clients/exam/pacs-exam-new' }
+              ]
+            },
+            {
+              text: 'Security',
+              items: [
+                { text: 'Enable Two-Factor Auth', link: '/en/clients/security/2fa-enable' },
+                { text: 'Disable Two-Factor Auth', link: '/en/clients/security/2fa-disable' }
+              ]
+            },
+            {
+              text: 'Webhooks',
+              items: [
+                { text: 'Create Webhook', link: '/en/clients/integrations/webhooks-new' },
+                { text: 'Edit Webhook', link: '/en/clients/integrations/webhooks-edit' },
+                { text: 'Webhook Logs', link: '/en/clients/integrations/webhooks-logs' },
+                { text: 'Delete Webhook', link: '/en/clients/integrations/webhooks-delete' }
+              ]
+            },
+            {
+              text: 'Field Definitions',
+              items: [
+                { text: 'Exam', link: '/en/clients/exam/exam-fields' },
+                { text: 'Account', link: '/en/clients/fields/fields-account-clinic' },
+                { text: 'Invite', link: '/en/clients/fields/fields-invite-user' },
+                { text: 'Notifications', link: '/en/clients/fields/fields-notifications' }
               ]
             }
           ]

@@ -166,4 +166,4 @@ Tutoriais em vídeo estão disponíveis ao longo desta documentação. Procure p
 
 ## Ainda Tem Dúvidas?
 
-Entre em contato com nossa equipe de suporte através do formulário acima ou confira os tutoriais detalhados nas seções [Radiologistas](/radiologistas/) ou [Clientes](/clientes/).
+Entre em contato com nossa equipe de suporte através do formulário acima ou confira os tutoriais detalhados nas seções [Radiologistas](/radiologists/) ou [Clientes](/clients/).
