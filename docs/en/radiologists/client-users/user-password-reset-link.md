@@ -52,4 +52,4 @@ Clique em **"Copiar Link"** para copiar o link e enviá-lo ao usuário.
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/perguntas-frequentes) ou entre em contato com o suporte se encontrar problemas ao gerar links de redefinição de senha.
+Confira nossas [FAQ](/en/faq) ou entre em contato com o suporte se encontrar problemas ao gerar links de redefinição de senha.

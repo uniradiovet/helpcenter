@@ -25,10 +25,11 @@ No menu de configurações, clique em **"Laudos"** para acessar as definições 
 Ajuste as configurações conforme a necessidade da sua conta.
 
 :::tip Opções disponíveis
+
 - **Logomarca do início do PDF** — Adicione a imagem que será exibida no cabeçalho dos laudos em PDF.
 - **Assinatura de e-mails** — Personalize a assinatura exibida nos e-mails enviados aos clientes.
 - **Título do laudo** — Defina o título padrão que aparecerá nos laudos emitidos.
-:::
+  :::
 
 ![Editar informações](/images/en/radiologists/report/report-settings/03-edit.jpeg)
 
@@ -40,4 +41,4 @@ Após realizar as alterações desejadas, clique em **"Salvar"** para confirmar 
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/perguntas-frequentes) ou entre em contato com o suporte se encontrar problemas ao configurar as definições do laudo.
+Confira nossas [FAQ](/en/faq) ou entre em contato com o suporte se encontrar problemas ao configurar as definições do laudo.

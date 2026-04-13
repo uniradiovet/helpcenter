@@ -32,4 +32,4 @@ Você terá acesso às informações completas da sua assinatura, incluindo o pl
 
 ## Precisa de Ajuda?
 
-Confira nossas [Perguntas Frequentes](/perguntas-frequentes) ou entre em contato com o suporte se encontrar problemas ao gerenciar sua assinatura.
+Confira nossas [Perguntas Frequentes](/faq) ou entre em contato com o suporte se encontrar problemas ao gerenciar sua assinatura.

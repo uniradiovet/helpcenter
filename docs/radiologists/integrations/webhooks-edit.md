@@ -50,4 +50,4 @@ Após realizar as alterações desejadas, clique em **"Salvar"** para confirmar.
 
 ## Precisa de Ajuda?
 
-Confira nossas [Perguntas Frequentes](/perguntas-frequentes) ou entre em contato com o suporte se encontrar problemas ao editar webhooks.
+Confira nossas [Perguntas Frequentes](/faq) ou entre em contato com o suporte se encontrar problemas ao editar webhooks.

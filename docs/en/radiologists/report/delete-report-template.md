@@ -34,4 +34,4 @@ Confirme a exclusão clicando em **"Continuar"**. O modelo será removido perman
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/perguntas-frequentes) ou entre em contato com o suporte se encontrar problemas ao excluir modelos de laudos.
+Confira nossas [FAQ](/en/faq) ou entre em contato com o suporte se encontrar problemas ao excluir modelos de laudos.

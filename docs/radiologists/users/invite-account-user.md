@@ -44,4 +44,4 @@ Para entender o significado de cada campo deste formulário, consulte [Convidar 
 
 ## Precisa de Ajuda?
 
-Confira nossas [Perguntas Frequentes](/perguntas-frequentes) ou entre em contato com o suporte se encontrar problemas ao convidar novos usuários.
+Confira nossas [Perguntas Frequentes](/faq) ou entre em contato com o suporte se encontrar problemas ao convidar novos usuários.

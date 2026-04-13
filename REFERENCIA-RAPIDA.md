@@ -62,14 +62,14 @@ git push
 
 ## 🎯 Localizações de Arquivos
 
-| O Que | Onde |
-|------|-------|
-| Docs radiologistas | `docs/radiologists/*.md` |
-| Docs clientes | `docs/clients/*.md` |
-| Imagens | `docs/public/images/` |
-| Navegação | `docs/.vitepress/config.mjs` |
-| Página inicial | `docs/index.md` |
-| FAQ | `docs/perguntas-frequentes.md` |
+| O Que              | Onde                         |
+| ------------------ | ---------------------------- |
+| Docs radiologistas | `docs/radiologists/*.md`     |
+| Docs clientes      | `docs/clients/*.md`          |
+| Imagens            | `docs/public/images/`        |
+| Navegação          | `docs/.vitepress/config.mjs` |
+| Página inicial     | `docs/index.md`              |
+| FAQ                | `docs/faq.md`                |
 
 ## 🔨 Comandos
 
@@ -83,10 +83,12 @@ npm run docs:preview  # Preview do build de produção
 
 ```markdown
 # Título H1
+
 ## Seção H2
+
 ### Subseção H3
 
-**negrito** e *itálico*
+**negrito** e _itálico_
 
 [Texto do link](/caminho/para/pagina)
 
@@ -107,7 +109,7 @@ Aviso importante
 2. Item 2
 
 | Coluna 1 | Coluna 2 |
-|----------|----------|
+| -------- | -------- |
 | Dado 1   | Dado 2   |
 ```
 
@@ -117,7 +119,7 @@ Aviso importante
 Página inicial:   https://seuusuario.github.io/uniradio-docs/
 Radiologistas:    https://seuusuario.github.io/uniradio-docs/radiologists/
 Clientes:         https://seuusuario.github.io/uniradio-docs/clients/
-FAQ:              https://seuusuario.github.io/uniradio-docs/perguntas-frequentes
+FAQ:              https://seuusuario.github.io/uniradio-docs/faq
 ```
 
 ## ✅ Checklist Antes de Implantar
@@ -133,33 +135,37 @@ FAQ:              https://seuusuario.github.io/uniradio-docs/perguntas-frequente
 ## 🆘 Solução Rápida de Problemas
 
 **Build falha:**
+
 ```bash
 npm install  # Reinstalar dependências
 npm run docs:dev  # Verificar erros
 ```
 
 **Imagens não aparecem:**
+
 - Verifique o caminho: `/images/` não `./images/`
 - Verifique se o arquivo existe em `docs/public/images/`
 - Nomes de arquivos são case-sensitive
 
 **404 no site implantado:**
+
 - Verifique se `base` em config.mjs corresponde ao nome do repo
 - Verifique se GitHub Pages está ativado
 - Aguarde alguns minutos para propagação
 
 **Busca não funciona:**
+
 ```javascript
 // Em config.mjs
 search: {
-  provider: 'local'  // Certifique-se de que está configurado
+  provider: "local"; // Certifique-se de que está configurado
 }
 ```
 
 ## 📞 Recursos
 
 - **Este Projeto**: Leia VISAO-GERAL-PROJETO.md
-- **Migração**: Leia MIGRACAO.md  
+- **Migração**: Leia MIGRACAO.md
 - **Implantação**: Leia IMPLANTACAO.md
 - **VitePress**: https://vitepress.dev
 - **Markdown**: https://www.markdownguide.org

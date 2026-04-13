@@ -58,4 +58,4 @@ You can track previous imports in [Previous Imports](/en/radiologists/clients/im
 
 ## Need Help?
 
-Check our [FAQ](/en/perguntas-frequentes) or contact support if you have issues while importing data.
+Check our [FAQ](/en/faq) or contact support if you have issues while importing data.

@@ -29,7 +29,7 @@ uniradio-docs/
 │   ├── public/                 # Assets estáticos (imagens, etc.)
 │   │   └── images/
 │   ├── index.md                # Página inicial
-│   └── perguntas-frequentes.md # Página FAQ
+│   └── faq.md # Página FAQ
 ├── package.json
 └── README.md
 ```

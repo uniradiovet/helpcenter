@@ -48,4 +48,4 @@ Se a opção **"Pular envio de e-mail de convite"** for marcada, o usuário conv
 
 ## Precisa de Ajuda?
 
-Confira nossas [Perguntas Frequentes](/perguntas-frequentes) ou entre em contato com seu radiologista se encontrar problemas.
+Confira nossas [Perguntas Frequentes](/faq) ou entre em contato com seu radiologista se encontrar problemas.

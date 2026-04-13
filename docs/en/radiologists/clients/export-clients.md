@@ -49,4 +49,4 @@ Você pode visualizar a lista das exportações realizadas na seção [Exportaç
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/perguntas-frequentes) ou entre em contato com o suporte se encontrar problemas ao exportar os dados.
+Confira nossas [FAQ](/en/faq) ou entre em contato com o suporte se encontrar problemas ao exportar os dados.

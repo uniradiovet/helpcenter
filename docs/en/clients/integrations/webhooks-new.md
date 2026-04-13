@@ -32,13 +32,14 @@ Informe a URL de destino do webhook e selecione os eventos que deseja monitorar.
 
 ::: tip Eventos disponíveis
 Selecione um ou mais eventos para acionar o webhook automaticamente:
+
 - **Exame enviado** — notificado quando um novo exame é enviado à plataforma.
 - **Exame atualizado** — notificado quando os dados de um exame são alterados.
 - **Laudo enviado** — notificado quando um laudo é emitido.
 - **Laudo atualizado** — notificado quando um laudo existente é modificado.
 - **Novo usuário cadastrado** — notificado quando um novo usuário é criado na conta.
 - **Usuário atualizado** — notificado quando os dados de um usuário são alterados.
-:::
+  :::
 
 ![Formulário de webhook](/images/en/clients/integrations/webhooks/05-formulario.jpeg)
 
@@ -48,4 +49,4 @@ Selecione um ou mais eventos para acionar o webhook automaticamente:
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/perguntas-frequentes) ou entre em contato com seu radiologista se encontrar problemas.
+Confira nossas [FAQ](/en/faq) ou entre em contato com seu radiologista se encontrar problemas.

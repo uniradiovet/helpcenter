@@ -40,4 +40,4 @@ Clique em **"Confirmar"** para concluir a alteração de status do exame.
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/perguntas-frequentes) ou entre em contato com o suporte se encontrar problemas.
+Confira nossas [FAQ](/en/faq) ou entre em contato com o suporte se encontrar problemas.

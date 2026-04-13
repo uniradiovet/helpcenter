@@ -44,4 +44,4 @@ Após preencher todas as informações, clique em **"Salvar"** para registrar o 
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/perguntas-frequentes) ou entre em contato com o suporte se encontrar problemas ao criar modelos de laudos.
+Confira nossas [FAQ](/en/faq) ou entre em contato com o suporte se encontrar problemas ao criar modelos de laudos.

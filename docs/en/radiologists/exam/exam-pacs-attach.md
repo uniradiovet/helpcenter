@@ -38,4 +38,4 @@ Clique neste botão para sincronizar as imagens do PACS ao laudo. As imagens fic
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/perguntas-frequentes) ou entre em contato com o suporte se encontrar problemas ao anexar imagens do PACS a um exame.
+Confira nossas [FAQ](/en/faq) ou entre em contato com o suporte se encontrar problemas ao anexar imagens do PACS a um exame.

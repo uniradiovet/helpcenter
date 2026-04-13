@@ -32,4 +32,4 @@ Clique no ícone de engrenagem no canto superior direito para acessar as configu
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/perguntas-frequentes) ou entre em contato com seu radiologista se encontrar problemas.
+Confira nossas [FAQ](/en/faq) ou entre em contato com seu radiologista se encontrar problemas.

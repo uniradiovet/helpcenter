@@ -38,4 +38,4 @@ Para entender o significado de cada campo desta tela, consulte [Campos para adic
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/perguntas-frequentes) ou entre em contato com o suporte se encontrar problemas ao editar as informações de um cliente.
+Confira nossas [FAQ](/en/faq) ou entre em contato com o suporte se encontrar problemas ao editar as informações de um cliente.

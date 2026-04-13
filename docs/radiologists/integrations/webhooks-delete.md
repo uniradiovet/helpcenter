@@ -36,4 +36,4 @@ Dentro das integrações, clique em **"Webhooks"** para visualizar os webhooks c
 
 ## Precisa de Ajuda?
 
-Confira nossas [Perguntas Frequentes](/perguntas-frequentes) ou entre em contato com o suporte se encontrar problemas ao excluir webhooks.
+Confira nossas [Perguntas Frequentes](/faq) ou entre em contato com o suporte se encontrar problemas ao excluir webhooks.

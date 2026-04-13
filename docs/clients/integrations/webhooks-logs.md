@@ -46,4 +46,4 @@ Visualize as informações técnicas completas do evento selecionado, como paylo
 
 ## Precisa de Ajuda?
 
-Confira nossas [Perguntas Frequentes](/perguntas-frequentes) ou entre em contato com seu radiologista se encontrar problemas.
+Confira nossas [Perguntas Frequentes](/faq) ou entre em contato com seu radiologista se encontrar problemas.

@@ -38,4 +38,4 @@ Para entender o significado de cada opção de notificação, consulte [Preferê
 
 ## Precisa de Ajuda?
 
-Confira nossas [Perguntas Frequentes](/perguntas-frequentes) ou entre em contato com o suporte se encontrar problemas ao configurar as notificações da conta.
+Confira nossas [Perguntas Frequentes](/faq) ou entre em contato com o suporte se encontrar problemas ao configurar as notificações da conta.

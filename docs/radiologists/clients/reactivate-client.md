@@ -46,4 +46,4 @@ Clique em **"Continuar"** para confirmar a reativação. O cliente voltará a te
 
 ## Precisa de Ajuda?
 
-Confira nossas [Perguntas Frequentes](/perguntas-frequentes) ou entre em contato com o suporte se encontrar problemas ao reativar contas de clientes.
+Confira nossas [Perguntas Frequentes](/faq) ou entre em contato com o suporte se encontrar problemas ao reativar contas de clientes.

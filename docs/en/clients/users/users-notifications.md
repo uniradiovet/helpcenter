@@ -40,4 +40,4 @@ Marque ou desmarque as opções de notificação conforme desejado, como alertas
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/perguntas-frequentes) ou entre em contato com seu radiologista se encontrar problemas.
+Confira nossas [FAQ](/en/faq) ou entre em contato com seu radiologista se encontrar problemas.

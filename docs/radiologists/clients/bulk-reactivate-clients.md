@@ -46,4 +46,4 @@ Clique em **"Executar Ação"** para confirmar. Todas as contas selecionadas ser
 
 ## Precisa de Ajuda?
 
-Confira nossas [Perguntas Frequentes](/perguntas-frequentes) ou entre em contato com o suporte se encontrar problemas ao reativar contas em massa.
+Confira nossas [Perguntas Frequentes](/faq) ou entre em contato com o suporte se encontrar problemas ao reativar contas em massa.

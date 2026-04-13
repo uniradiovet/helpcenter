@@ -30,4 +30,4 @@ Utilize as informações exibidas (endereço do servidor, porta e AE Title) para
 
 ## Precisa de Ajuda?
 
-Confira nossas [Perguntas Frequentes](/perguntas-frequentes) ou entre em contato com seu radiologista se encontrar problemas.
+Confira nossas [Perguntas Frequentes](/faq) ou entre em contato com seu radiologista se encontrar problemas.

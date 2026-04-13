@@ -191,4 +191,4 @@ If you have digital imaging equipment, you can send exams directly via PACS inte
 
 ## Need Help?
 
-Check our [FAQ](/en/perguntas-frequentes) or contact your radiologist if you encounter problems.
+Check our [FAQ](/en/faq) or contact your radiologist if you encounter problems.

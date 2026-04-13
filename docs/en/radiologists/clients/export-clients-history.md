@@ -40,4 +40,4 @@ A lista exibirá todas as exportações anteriores com informações como data, 
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/perguntas-frequentes) ou entre em contato com o suporte se encontrar problemas ao acessar o histórico de exportações.
+Confira nossas [FAQ](/en/faq) ou entre em contato com o suporte se encontrar problemas ao acessar o histórico de exportações.

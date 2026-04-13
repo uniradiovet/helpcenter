@@ -88,4 +88,4 @@ As a client on UniRadio, you can:
 
 ## Need Help?
 
-If you can't find what you're looking for, check our [FAQ](/en/perguntas-frequentes) or contact your radiologist.
+If you can't find what you're looking for, check our [FAQ](/en/faq) or contact your radiologist.

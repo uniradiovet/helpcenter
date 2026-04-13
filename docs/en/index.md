@@ -37,4 +37,4 @@ Choose your role to get started:
 
 ## Need Help?
 
-Check our [FAQ](/en/perguntas-frequentes) section or browse the documentation according to your role above.
+Check our [FAQ](/en/faq) section or browse the documentation according to your role above.

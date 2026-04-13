@@ -34,4 +34,4 @@ Edite os dados financeiros do exame, como método de pagamento e informações d
 
 ## Precisa de Ajuda?
 
-Confira nossas [Perguntas Frequentes](/perguntas-frequentes) ou entre em contato com o suporte se encontrar problemas ao gerenciar o financeiro de um exame.
+Confira nossas [Perguntas Frequentes](/faq) ou entre em contato com o suporte se encontrar problemas ao gerenciar o financeiro de um exame.

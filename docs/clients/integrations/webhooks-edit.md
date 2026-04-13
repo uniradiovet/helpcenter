@@ -46,4 +46,4 @@ O formulário possui uma opção para desmarcar a ativação do webhook. Ao desa
 
 ## Precisa de Ajuda?
 
-Confira nossas [Perguntas Frequentes](/perguntas-frequentes) ou entre em contato com seu radiologista se encontrar problemas.
+Confira nossas [Perguntas Frequentes](/faq) ou entre em contato com seu radiologista se encontrar problemas.

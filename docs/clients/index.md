@@ -88,4 +88,4 @@ Como cliente no UniRadio, você pode:
 
 ## Precisa de Ajuda?
 
-Se você não encontrar o que procura, confira nossa seção de [Perguntas Frequentes](/perguntas-frequentes) ou entre em contato com seu radiologista.
+Se você não encontrar o que procura, confira nossa seção de [Perguntas Frequentes](/faq) ou entre em contato com seu radiologista.

@@ -44,4 +44,4 @@ Após realizar a alteração, clique em **"Salvar"** para confirmar.
 
 ## Precisa de Ajuda?
 
-Confira nossas [Perguntas Frequentes](/perguntas-frequentes) ou entre em contato com o suporte se encontrar problemas ao editar tags.
+Confira nossas [Perguntas Frequentes](/faq) ou entre em contato com o suporte se encontrar problemas ao editar tags.

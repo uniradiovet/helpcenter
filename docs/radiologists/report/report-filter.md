@@ -52,4 +52,4 @@ Os laudos serão listados de acordo com os filtros selecionados.
 
 ## Precisa de Ajuda?
 
-Confira nossas [Perguntas Frequentes](/perguntas-frequentes) ou entre em contato com o suporte se encontrar problemas ao filtrar laudos.
+Confira nossas [Perguntas Frequentes](/faq) ou entre em contato com o suporte se encontrar problemas ao filtrar laudos.

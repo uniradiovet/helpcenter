@@ -152,4 +152,4 @@ After configuring your profile:
 
 ## Need Help?
 
-If you encounter problems editing your profile, check our [FAQ](/en/perguntas-frequentes) or contact support.
+If you encounter problems editing your profile, check our [FAQ](/en/faq) or contact support.

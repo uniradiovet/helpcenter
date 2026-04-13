@@ -25,9 +25,10 @@ No menu de configurações, clique em **"Pesquisa NPS"** para acessar as configu
 Ajuste as configurações de acordo com a necessidade da sua conta.
 
 :::tip Opções disponíveis
+
 - **Ativar Pesquisa NPS** — Habilita o envio automático da pesquisa de satisfação NPS (Net Promoter Score) aos seus clientes a cada três meses.
 - **Ativar Avaliação do Laudo** — Permite que os clientes avaliem individualmente os laudos emitidos pelo radiologista.
-:::
+  :::
 
 ![Editar informações](/images/radiologists/settings/nps-settings/03-edit.jpeg)
 
@@ -39,4 +40,4 @@ Após realizar as alterações desejadas, clique em **"Salvar"** para confirmar 
 
 ## Precisa de Ajuda?
 
-Confira nossas [Perguntas Frequentes](/perguntas-frequentes) ou entre em contato com o suporte se encontrar problemas ao configurar a pesquisa NPS.
+Confira nossas [Perguntas Frequentes](/faq) ou entre em contato com o suporte se encontrar problemas ao configurar a pesquisa NPS.

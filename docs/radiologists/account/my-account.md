@@ -34,4 +34,4 @@ Após realizar as alterações, clique no botão **"Salvar"** para confirmar as 
 
 ## Precisa de Ajuda?
 
-Confira nossas [Perguntas Frequentes](/perguntas-frequentes) ou entre em contato com o suporte se encontrar problemas ao atualizar sua conta.
+Confira nossas [Perguntas Frequentes](/faq) ou entre em contato com o suporte se encontrar problemas ao atualizar sua conta.

@@ -40,4 +40,4 @@ Selecione o motivo da desativação e clique em **"Desativar Conta"** para confi
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/perguntas-frequentes) ou entre em contato com o suporte se encontrar problemas ao desativar contas de clientes.
+Confira nossas [FAQ](/en/faq) ou entre em contato com o suporte se encontrar problemas ao desativar contas de clientes.

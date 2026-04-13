@@ -44,4 +44,4 @@ Após inserir o nome, clique em **"Salvar Tag"** para confirmar a criação.
 
 ## Precisa de Ajuda?
 
-Confira nossas [Perguntas Frequentes](/perguntas-frequentes) ou entre em contato com o suporte se encontrar problemas ao criar tags.
+Confira nossas [Perguntas Frequentes](/faq) ou entre em contato com o suporte se encontrar problemas ao criar tags.

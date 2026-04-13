@@ -4,6 +4,7 @@ Melhore a segurança da sua conta ativando a autenticação de dois fatores (2FA
 
 ::: tip Métodos disponíveis
 O App da UniRadio oferece dois métodos de autenticação de dois fatores:
+
 - **E-mail** — um código de verificação será enviado para o e-mail cadastrado no seu perfil.
 - **WhatsApp** — um código de verificação será enviado para o número de telefone cadastrado no seu perfil.
 
@@ -52,4 +53,4 @@ Clique em **"Confirmar"** para concluir a ativação da autenticação de dois f
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/perguntas-frequentes) ou entre em contato com o suporte se encontrar problemas ao ativar a autenticação de dois fatores.
+Confira nossas [FAQ](/en/faq) ou entre em contato com o suporte se encontrar problemas ao ativar a autenticação de dois fatores.

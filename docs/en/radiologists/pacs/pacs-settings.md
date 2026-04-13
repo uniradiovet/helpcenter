@@ -25,10 +25,10 @@ No menu de configurações, clique em **"Servidor PACS"** para acessar as config
 Preencha as informações necessárias e selecione as opções de integração conforme sua necessidade.
 
 :::tip Opções disponíveis
+
 - **Habilitar PACS** — Ative esta opção para permitir a criação de exames utilizando o servidor PACS.
 - **Habilitar Porta do PACS** — Ative para integrar seu equipamento de imagem ou software PACS ao App da UniRadio, utilizando as informações exibidas (endereço do servidor, porta e AE Title).
-:::
-
+  :::
 
 ![Configurações PACS](/images/en/radiologists/pacs/pacs-settings/03-settings.jpeg)
 
@@ -40,4 +40,4 @@ Após configurar as opções desejadas, clique em **"Salvar"** para confirmar as
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/perguntas-frequentes) ou entre em contato com o suporte se encontrar problemas ao configurar o servidor PACS.
+Confira nossas [FAQ](/en/faq) ou entre em contato com o suporte se encontrar problemas ao configurar o servidor PACS.

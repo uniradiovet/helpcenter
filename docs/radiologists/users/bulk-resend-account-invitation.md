@@ -46,4 +46,4 @@ Confirme a operação clicando em **"Executar Ação"** para reenviar os convite
 
 ## Precisa de Ajuda?
 
-Confira nossas [Perguntas Frequentes](/perguntas-frequentes) ou entre em contato com o suporte se encontrar problemas ao reenviar convites em massa.
+Confira nossas [Perguntas Frequentes](/faq) ou entre em contato com o suporte se encontrar problemas ao reenviar convites em massa.

@@ -42,4 +42,4 @@ As a radiologist on UniRadio, you can:
 
 ## Need Help?
 
-If you can't find what you're looking for, check our [FAQ](/en/perguntas-frequentes) or contact support.
+If you can't find what you're looking for, check our [FAQ](/en/faq) or contact support.

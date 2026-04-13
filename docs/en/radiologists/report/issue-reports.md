@@ -64,4 +64,4 @@ Para entender o significado de cada campo do editor de laudo, consulte [Campos d
 
 ## Need Help?
 
-Se encontrar problemas ao emitir laudos, confira nossas [FAQ](/en/perguntas-frequentes) or contact support.
+Se encontrar problemas ao emitir laudos, confira nossas [FAQ](/en/faq) or contact support.

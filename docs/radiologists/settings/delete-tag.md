@@ -34,4 +34,4 @@ Na janela de confirmação, clique em **"Continuar"** para confirmar a exclusão
 
 ## Precisa de Ajuda?
 
-Confira nossas [Perguntas Frequentes](/perguntas-frequentes) ou entre em contato com o suporte se encontrar problemas ao excluir tags.
+Confira nossas [Perguntas Frequentes](/faq) ou entre em contato com o suporte se encontrar problemas ao excluir tags.

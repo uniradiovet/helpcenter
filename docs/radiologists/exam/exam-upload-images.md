@@ -34,4 +34,4 @@ Após a seleção, as imagens serão carregadas e exibidas como anexos do exame.
 
 ## Precisa de Ajuda?
 
-Confira nossas [Perguntas Frequentes](/perguntas-frequentes) ou entre em contato com o suporte se encontrar problemas ao anexar imagens a um exame.
+Confira nossas [Perguntas Frequentes](/faq) ou entre em contato com o suporte se encontrar problemas ao anexar imagens a um exame.

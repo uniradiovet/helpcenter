@@ -37,4 +37,4 @@ Escolha sua função para começar:
 
 ## Precisa de Ajuda?
 
-Confira nossa seção de [Perguntas Frequentes](/perguntas-frequentes) ou navegue pela documentação de acordo com sua função acima.
+Confira nossa seção de [Perguntas Frequentes](/faq) ou navegue pela documentação de acordo com sua função acima.

@@ -46,4 +46,4 @@ Clique em **"Confirmar"** para registrar o novo motivo de desativação.
 
 ## Precisa de Ajuda?
 
-Confira nossas [Perguntas Frequentes](/perguntas-frequentes) ou entre em contato com o suporte se encontrar problemas ao atualizar o motivo de desativação.
+Confira nossas [Perguntas Frequentes](/faq) ou entre em contato com o suporte se encontrar problemas ao atualizar o motivo de desativação.

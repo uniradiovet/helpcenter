@@ -32,4 +32,4 @@ Após preencher os campos, clique em **"Salvar"** para confirmar a alteração.
 
 ## Precisa de Ajuda?
 
-Confira nossas [Perguntas Frequentes](/perguntas-frequentes) ou entre em contato com o suporte se encontrar problemas ao alterar sua senha.
+Confira nossas [Perguntas Frequentes](/faq) ou entre em contato com o suporte se encontrar problemas ao alterar sua senha.

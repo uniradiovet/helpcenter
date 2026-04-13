@@ -62,4 +62,4 @@ A conta selecionada será mantida. **Todos os dados das demais contas serão tra
 
 ## Precisa de Ajuda?
 
-Confira nossas [Perguntas Frequentes](/perguntas-frequentes) ou entre em contato com o suporte se encontrar problemas ao mesclar contas de clientes.
+Confira nossas [Perguntas Frequentes](/faq) ou entre em contato com o suporte se encontrar problemas ao mesclar contas de clientes.

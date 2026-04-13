@@ -26,6 +26,7 @@ Clique no status de "Finalizado" para visualizar a lista dos laudos.
 
 Utilize um ou mais campos para refinar os resultados. Não é necessário preencher todos.
 ::: tip Campos disponíveis
+
 - **Médico Solicitante** — nome do médico que solicitou o exame.
 - **Tutor** — nome do responsável pelo animal.
 - **Nome do Paciente** — nome do animal.
@@ -38,7 +39,7 @@ Utilize um ou mais campos para refinar os resultados. Não é necessário preenc
 - **Categoria do exame** — classificação atribuída ao exame.
 - **De / Até (envio do exame)** — intervalo de datas em que o exame foi enviado à plataforma.
 - **De / Até (envio do laudo)** — intervalo de datas em que o laudo foi emitido.
-:::
+  :::
 
 ![Campos de filtro](/images/clients/report/report-filter/03-fields-filter.jpeg)
 
@@ -48,4 +49,4 @@ Utilize um ou mais campos para refinar os resultados. Não é necessário preenc
 
 ## Precisa de Ajuda?
 
-Confira nossas [Perguntas Frequentes](/perguntas-frequentes) ou entre em contato com seu radiologista se encontrar problemas.
+Confira nossas [Perguntas Frequentes](/faq) ou entre em contato com seu radiologista se encontrar problemas.

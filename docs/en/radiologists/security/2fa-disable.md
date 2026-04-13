@@ -34,4 +34,4 @@ Localize a opção de autenticação de dois fatores e clique em **"Desativar"**
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/perguntas-frequentes) ou entre em contato com o suporte se encontrar problemas ao desativar a autenticação de dois fatores.
+Confira nossas [FAQ](/en/faq) ou entre em contato com o suporte se encontrar problemas ao desativar a autenticação de dois fatores.

@@ -46,4 +46,4 @@ Clique em **"Desativar Contas"** para confirmar. Todas as contas selecionadas se
 
 ## Precisa de Ajuda?
 
-Confira nossas [Perguntas Frequentes](/perguntas-frequentes) ou entre em contato com o suporte se encontrar problemas ao desativar contas em massa.
+Confira nossas [Perguntas Frequentes](/faq) ou entre em contato com o suporte se encontrar problemas ao desativar contas em massa.

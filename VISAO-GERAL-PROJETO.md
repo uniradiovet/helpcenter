@@ -27,7 +27,7 @@ uniradio-docs/
 │   │   └── exam-new.md          # Tutorial exemplo
 │   ├── public/images/           # Armazenamento de imagens
 │   ├── index.md                 # Página inicial
-│   └── perguntas-frequentes.md  # Página FAQ
+│   └── faq.md  # Página FAQ
 ├── .github/workflows/
 │   └── deploy.yml               # Config auto-implantação
 ├── package.json                 # Dependências

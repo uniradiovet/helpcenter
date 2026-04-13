@@ -25,10 +25,11 @@ No menu de configurações, clique em **"Exames"** para acessar as configuraçõ
 Ajuste as configurações de acordo com a necessidade da sua conta.
 
 :::tip Opções disponíveis
+
 - **Configurações de Exames** — Selecione os tipos de exames disponíveis para os seus clientes.
 - **Exames Urgentes** — Ative esta opção para permitir que os clientes marquem exames como urgentes. Você pode adicionar uma descrição opcional, como o valor cobrado pelo atendimento de emergência.
 - **Personalizar Campos** — Defina quais campos serão exibidos e quais serão obrigatórios durante a criação ou edição de um exame.
-:::
+  :::
 
 ![Configurações de exames](/images/en/radiologists/exam/exam-settings/03-settings.jpeg)
 
@@ -40,4 +41,4 @@ Após realizar as alterações desejadas, clique em **"Salvar"** para confirmar 
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/perguntas-frequentes) ou entre em contato com o suporte se encontrar problemas ao configurar os exames.
+Confira nossas [FAQ](/en/faq) ou entre em contato com o suporte se encontrar problemas ao configurar os exames.

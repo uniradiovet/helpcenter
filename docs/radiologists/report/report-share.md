@@ -34,4 +34,4 @@ Copie a URL do laudo para enviar a quem desejar, ou escaneie o QR Code diretamen
 
 ## Precisa de Ajuda?
 
-Confira nossas [Perguntas Frequentes](/perguntas-frequentes) ou entre em contato com o suporte se encontrar problemas ao compartilhar laudos.
+Confira nossas [Perguntas Frequentes](/faq) ou entre em contato com o suporte se encontrar problemas ao compartilhar laudos.

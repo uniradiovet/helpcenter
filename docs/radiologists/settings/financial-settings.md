@@ -25,11 +25,12 @@ No menu de configurações, clique em **"Financeiro"** para acessar as configura
 Ajuste as configurações de acordo com a necessidade da sua conta.
 
 :::tip Ao ativar a Gestão Financeira você poderá:
+
 - **Definir o valor de cada laudo** — Cadastre o preço cobrado por cada tipo de exame laudado.
 - **Configurar métodos de pagamento** — Selecione as formas de pagamento aceitas pelos seus clientes.
 - **Gerar relatórios financeiros** — Acompanhe o faturamento e o histórico de cobranças diretamente na plataforma.
 - **Selecionar a moeda** — Escolha entre **Real (BRL)** ou **Dólar (USD)** para exibição dos valores.
-:::
+  :::
 
 ![Editar informações](/images/radiologists/settings/financial-settings/03-edit.jpeg)
 
@@ -41,4 +42,4 @@ Após realizar as alterações desejadas, clique em **"Salvar"** para confirmar 
 
 ## Precisa de Ajuda?
 
-Confira nossas [Perguntas Frequentes](/perguntas-frequentes) ou entre em contato com o suporte se encontrar problemas ao configurar a gestão financeira.
+Confira nossas [Perguntas Frequentes](/faq) ou entre em contato com o suporte se encontrar problemas ao configurar a gestão financeira.

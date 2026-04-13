@@ -26,4 +26,4 @@ Clique em **"Continuar"** para confirmar a exclusão do exame.
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/perguntas-frequentes) ou entre em contato com o suporte se encontrar problemas ao excluir um exame.
+Confira nossas [FAQ](/en/faq) ou entre em contato com o suporte se encontrar problemas ao excluir um exame.

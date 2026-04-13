@@ -42,4 +42,4 @@ Para entender o significado de cada campo deste formulário, consulte [Campos da
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/perguntas-frequentes) ou entre em contato com o suporte se encontrar problemas ao criar um novo exame.
+Confira nossas [FAQ](/en/faq) ou entre em contato com o suporte se encontrar problemas ao criar um novo exame.

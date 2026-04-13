@@ -41,6 +41,7 @@ Navegue pelas versões do laudo que foram salvas anteriormente. Cada versão exi
 ![Comparar versões](/images/en/radiologists/report/report-restore-version/06-compare-versions.jpeg)
 
 ### 8. Clique em "Restaurar esta versão"
+
 ::: tip Dica
 Ao restaurar uma versão anterior, o sistema cria automaticamente uma nova versão. Isso garante que as alterações atuais não sejam perdidas.
 :::
@@ -51,4 +52,4 @@ Selecione a versão desejada e clique em **"Restaurar esta versão"** para rever
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/perguntas-frequentes) ou entre em contato com o suporte se encontrar problemas ao restaurar uma versão do laudo.
+Confira nossas [FAQ](/en/faq) ou entre em contato com o suporte se encontrar problemas ao restaurar uma versão do laudo.

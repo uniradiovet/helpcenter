@@ -58,4 +58,4 @@ Confirme a exclusão do comentário clicando em **"Continuar"**.
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/perguntas-frequentes) ou entre em contato com o suporte se encontrar problemas ao adicionar ou excluir comentários em um exame.
+Confira nossas [FAQ](/en/faq) ou entre em contato com o suporte se encontrar problemas ao adicionar ou excluir comentários em um exame.

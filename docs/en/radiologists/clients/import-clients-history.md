@@ -40,4 +40,4 @@ The list shows all previous imports with details such as date, status, and numbe
 
 ## Need Help?
 
-Check our [FAQ](/en/perguntas-frequentes) or contact support if you have issues accessing import history.
+Check our [FAQ](/en/faq) or contact support if you have issues accessing import history.

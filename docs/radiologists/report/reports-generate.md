@@ -19,9 +19,10 @@ No menu lateral, clique em **"Relatórios"** para acessar a área de geração d
 Selecione o tipo de relatório que deseja gerar.
 
 :::tip Tipos de relatório disponíveis
+
 - **Laudos: Resumido** — exibe um resumo dos laudos emitidos no período, ideal para uma visão geral rápida das cobranças por cliente.
 - **Laudos: Detalhado** — apresenta informações completas de cada laudo, incluindo dados do paciente, tipo de exame e valores, útil para faturamento detalhado aos clientes.
-:::
+  :::
 
 ![Tipos de relatórios](/images/radiologists/report/reports-generate/02-tipos-relatorios.jpeg)
 
@@ -30,10 +31,11 @@ Selecione o tipo de relatório que deseja gerar.
 Preencha os filtros desejados para refinar os resultados e clique em **"Ver Relatório"**.
 
 :::tip Filtros disponíveis
+
 - **Data** — define o tipo de data utilizado como referência para o filtro:
-  - *Data do laudo* — data em que o laudo foi emitido.
-  - *Data da requisição* — data em que o exame foi enviado.
-  - *Data do exame* — data especificada no formulário de envio do exame.
+  - _Data do laudo_ — data em que o laudo foi emitido.
+  - _Data da requisição_ — data em que o exame foi enviado.
+  - _Data do exame_ — data especificada no formulário de envio do exame.
 - **De** — data de início do período.
 - **Até** — data de fim do período.
 - **Cliente** — filtra pelos exames de uma clínica ou instituição específica.
@@ -42,10 +44,10 @@ Preencha os filtros desejados para refinar os resultados e clique em **"Ver Rela
 - **Status Pagamento** — filtra pela situação de pagamento do laudo (ex.: Pago, Pendente).
 - **Categoria do Exame** — filtra pela classificação atribuída ao exame.
 - **Tipo do Exame** — filtra pela modalidade do exame (ex.: Radiografia, Ultrassom).
-:::
+  :::
 
 ![Ver relatório](/images/radiologists/report/reports-generate/03-ver-relatorio.jpeg)
 
 ## Precisa de Ajuda?
 
-Confira nossas [Perguntas Frequentes](/perguntas-frequentes) ou entre em contato com o suporte se encontrar problemas ao gerar relatórios.
+Confira nossas [Perguntas Frequentes](/faq) ou entre em contato com o suporte se encontrar problemas ao gerar relatórios.

@@ -34,4 +34,4 @@ Copie a URL do laudo para enviar a quem desejar, ou escaneie o QR Code diretamen
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/perguntas-frequentes) ou entre em contato com seu radiologista se encontrar problemas.
+Confira nossas [FAQ](/en/faq) ou entre em contato com seu radiologista se encontrar problemas.
