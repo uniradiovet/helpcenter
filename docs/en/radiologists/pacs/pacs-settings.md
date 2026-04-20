@@ -1,6 +1,6 @@
-# How to Configurar o Servidor PACS
+# How to Configure the PACS Server
 
-Aprenda como acessar e configurar as opções de integração do servidor PACS na sua conta da plataforma UniRadio.
+Learn how to access and configure the PACS server integration options in your UniRadio account.
 
 ## Step by Step
 
@@ -8,36 +8,45 @@ Aprenda como acessar e configurar as opções de integração do servidor PACS n
 
 Sign in to your account and go to [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
 
-### 2. Acesse o menu de configurações
+### 2. Open the settings menu
 
-No menu lateral, clique no ícone de configurações para abrir as opções da conta.
+In the side menu, click the settings icon to open the account options.
 
-![Menu de configurações](/images/en/radiologists/pacs/pacs-settings/01-menu.jpeg)
+![Settings menu](/images/en/radiologists/pacs/pacs-settings/01-menu.jpeg)
 
-### 3. Clique em "Servidor PACS"
+### 3. Click "PACS Server"
 
-No menu de configurações, clique em **"Servidor PACS"** para acessar as configurações de integração.
+In the settings menu, click **"PACS Server"** to access the integration settings.
 
-![Servidor PACS](/images/en/radiologists/pacs/pacs-settings/02-server-pacs.jpeg)
+![PACS Server](/images/en/radiologists/pacs/pacs-settings/02-server-pacs.jpeg)
 
-### 4. Configure as opções do servidor PACS
+### 4. Configure the PACS server options
 
-Preencha as informações necessárias e selecione as opções de integração conforme sua necessidade.
+Fill in the required information and select the integration options according to your needs.
 
-:::tip Opções disponíveis
+:::tip Available options
 
-- **Habilitar PACS** — Ative esta opção para permitir a criação de exames utilizando o servidor PACS.
-- **Habilitar Porta do PACS** — Ative para integrar seu equipamento de imagem ou software PACS ao App da UniRadio, utilizando as informações exibidas (endereço do servidor, porta e AE Title).
+- **Enable PACS** — Turn this on to allow exam creation using the PACS server.
+- **Enable PACS Port** — Turn this on to integrate your imaging equipment or PACS software with the UniRadio App, using the displayed information (server address, port and AE Title).
   :::
 
-![Configurações PACS](/images/en/radiologists/pacs/pacs-settings/03-settings.jpeg)
+![PACS settings](/images/en/radiologists/pacs/pacs-settings/03-settings.jpeg)
 
-### 5. Clique em "Salvar"
+### 5. Click "Save"
 
-Após configurar as opções desejadas, clique em **"Salvar"** para confirmar as alterações.
+After configuring the desired options, click **"Save"** to confirm the changes.
 
-![Salvar](/images/en/radiologists/pacs/pacs-settings/04-save.jpeg)
+![Save](/images/en/radiologists/pacs/pacs-settings/04-save.jpeg)
+
+## Which software do you use?
+
+After configuring the PACS server on the platform, follow the tutorial for your imaging software to connect it to UniRadio:
+
+- [Carestream](/en/radiologists/pacs/carestream-pacs-config)
+- [Ultramedic](/en/radiologists/pacs/ultramedic-pacs-config)
+- [DR Tech](/en/radiologists/pacs/drtech-pacs-config)
+- [VXVue](/en/radiologists/pacs/vxvue-pacs-config)
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/faq) ou entre em contato com o suporte se encontrar problemas ao configurar o servidor PACS.
+Check our [FAQ](/en/faq) or contact support if you run into issues configuring the PACS server.

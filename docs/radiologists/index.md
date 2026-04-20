@@ -1,24 +1,27 @@
 # Para Radiologistas
 
-Bem-vindo à documentação UniRadio para radiologistas! Este guia irá ajudá-lo a dominar todos os recursos disponíveis para gerenciar sua prática radiológica.
+Bem-vindo à documentação do App UniRadio para radiologistas! Este guia irá ajudá-lo a dominar todos os recursos disponíveis para gerenciar sua prática radiológica.
 
 ## O Que Você Pode Fazer
 
 Como radiologista no UniRadio, você pode:
 
+- 📋 **Criar Exames e Laudos** - Emita, edite e gerencie laudos radiológicos
+- 👥 **Colaborar em Equipe** - Adicione membros da equipe e gerencie permissões de usuários
+- 🏥 **Gerenciar Clientes** - Convide seus parceiros (Clínicas e Hospitais) para enviar exames pelo App
 - 👤 **Gerenciar Seu Perfil** - Configure suas informações profissionais, assinatura e preferências
-- 🏥 **Gerenciamento de Clientes** - Registre e gerencie suas clínicas clientes
-- 👥 **Colaboração em Equipe** - Adicione membros da equipe e gerencie permissões de usuários
-- 📋 **Criação de Laudos** - Emita, edite e gerencie laudos radiológicos
-- 🖼️ **Integração PACS** - Conecte seus equipamentos de imagem para um fluxo de trabalho integrado
-- ⚙️ **Personalização** - Configure modelos de laudos, logos e configurações do sistema
+- 🖼️ **Integrar com o Servidor PACS** - Conecte seus equipamentos de imagem para um fluxo de trabalho integrado
+- ⚙️ **Personalizar a sua experiência** - Configure modelos de laudos, logos e configurações do sistema
 
 ## Primeiros Passos
 
-1. [Configure seu perfil](/radiologists/account/my-profile) com suas informações profissionais
-2. [Registre seu primeiro cliente](/radiologists/clients/register-client)
-3. [Crie modelos de laudos](/radiologists/report/create-report-templates) para acelerar seu fluxo de trabalho
-4. [Configure a integração PACS](/radiologists/pacs/pacs-settings) se você tiver equipamento de imagem digital
+1. [Crie seu primeiro Laudo](/radiologists/report/issue-reports) no App.
+2. [Adicione sua equipe](/radiologists/users/invite-account-user) para laudar com você.
+3. [Configure sua conta](/radiologists/account/my-account).
+4. [Configure seu perfil](/radiologists/account/my-profile) com suas informações profissionais
+5. [Convide seus clientes/parceiros](/radiologists/clients/register-client) para enviarem exames para você.
+6. [Crie modelos de laudos](/radiologists/report/create-report-templates) para acelerar seu fluxo de trabalho
+7. [Configure a integração PACS](/radiologists/pacs/pacs-settings) se você tiver equipamento de imagem digital
 
 ## Links Rápidos
 

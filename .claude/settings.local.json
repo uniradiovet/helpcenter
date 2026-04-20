@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cp -r /Users/felipemuller/Development/uniradio-helpcenter/docs/public/images/radiologists/pacs/carestream /Users/felipemuller/Development/uniradio-helpcenter/docs/public/images/en/radiologists/pacs/carestream)",
+      "Bash(cp -r /Users/felipemuller/Development/uniradio-helpcenter/docs/public/images/radiologists/pacs/ultramedic /Users/felipemuller/Development/uniradio-helpcenter/docs/public/images/en/radiologists/pacs/ultramedic)",
+      "Bash(cp -r /Users/felipemuller/Development/uniradio-helpcenter/docs/public/images/radiologists/pacs/drtech /Users/felipemuller/Development/uniradio-helpcenter/docs/public/images/en/radiologists/pacs/drtech)",
+      "Bash(cp -r /Users/felipemuller/Development/uniradio-helpcenter/docs/public/images/radiologists/pacs/vxvuew /Users/felipemuller/Development/uniradio-helpcenter/docs/public/images/en/radiologists/pacs/vxvuew)"
+    ]
+  }
+}

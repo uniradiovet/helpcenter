@@ -38,6 +38,15 @@ Após configurar as opções desejadas, clique em **"Salvar"** para confirmar as
 
 ![Salvar](/images/radiologists/pacs/pacs-settings/04-save.jpeg)
 
+## Qual software você utiliza?
+
+Após configurar o servidor PACS na plataforma, siga o tutorial do seu software de captura para conectá-lo à UniRadio:
+
+- [Carestream](/radiologists/pacs/carestream-pacs-config)
+- [Ultramedic](/radiologists/pacs/ultramedic-pacs-config)
+- [DR Tech](/radiologists/pacs/drtech-pacs-config)
+- [VXVue](/radiologists/pacs/vxvue-pacs-config)
+
 ## Precisa de Ajuda?
 
 Confira nossas [Perguntas Frequentes](/faq) ou entre em contato com o suporte se encontrar problemas ao configurar o servidor PACS.

@@ -137,12 +137,11 @@ export default defineConfig({
               text: 'PACS',
               items: [
                 { text: 'Configurações PACS', link: '/radiologists/pacs/pacs-settings' },
-                { text: 'Visão geral', link: '/radiologists/pacs/pacs-settings' },
-                { text: 'Integração VXvue', link: '/radiologists/pacs/pacs-settings' },
-                { text: 'Integração ultrassom', link: '/radiologists/pacs/pacs-settings' },
-                { text: 'Integração Carestream', link: '/radiologists/pacs/pacs-settings' },
-                { text: 'Integração Ultramedic', link: '/radiologists/pacs/pacs-settings' },
-                { text: 'Solução problemas', link: '/radiologists/pacs/pacs-settings' }
+                { text: 'Integração Carestream', link: '/radiologists/pacs/carestream-pacs-config' },
+                { text: 'Integração Dr.Tech', link: '/radiologists/pacs/drtech-pacs-config' },
+                { text: 'Integração Ultramedic', link: '/radiologists/pacs/ultramedic-pacs-config' },
+                { text: 'Integração VXVue', link: '/radiologists/pacs/vxvue-pacs-config' }
+
               ]
             },
             {
@@ -321,7 +320,6 @@ export default defineConfig({
         nav: [
           { text: 'Home', link: '/en/' },
           { text: 'For Radiologists', link: '/en/radiologists/' },
-          { text: 'Fields - Client Import', link: '/en/radiologists/fields/fields-clients-import' },
           { text: 'For Clients', link: '/en/clients/' },
           { text: 'FAQ', link: '/en/faq' }
         ],
@@ -433,12 +431,10 @@ export default defineConfig({
               text: 'PACS Server',
               items: [
                 { text: 'PACS Settings', link: '/en/radiologists/pacs/pacs-settings' },
-                { text: 'PACS Overview', link: '/en/radiologists/pacs/pacs-settings' },
-                { text: 'VXvue Integration', link: '/en/radiologists/pacs/pacs-settings' },
-                { text: 'Ultrasound Integration', link: '/en/radiologists/pacs/pacs-settings' },
-                { text: 'Carestream Integration', link: '/en/radiologists/pacs/pacs-settings' },
-                { text: 'Ultramedic Integration', link: '/en/radiologists/pacs/pacs-settings' },
-                { text: 'PACS Troubleshooting', link: '/en/radiologists/pacs/pacs-settings' }
+                { text: 'Integração Carestream', link: '/en/radiologists/pacs/carestream-pacs-config' },
+                { text: 'Integração Dr.Tech', link: '/en/radiologists/pacs/drtech-pacs-config' },
+                { text: 'Integração Ultramedic', link: '/en/radiologists/pacs/ultramedic-pacs-config' },
+                { text: 'Integração VXVue', link: '/en/radiologists/pacs/vxvue-pacs-config' }
               ]
             },
             {
@@ -595,7 +591,7 @@ export default defineConfig({
   themeConfig: {
     logo: '/logo.svg',
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/seuusuario/uniradio-docs' }
+      // { icon: 'github', link: 'https://github.com/seuusuario/uniradio-docs' }
     ],
     footer: {
       message: 'Lançado sob a Licença MIT.',
