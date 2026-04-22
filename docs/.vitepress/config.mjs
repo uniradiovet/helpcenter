@@ -1,11 +1,10 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  title: 'Documentação UniRadio',
+  title: 'App UniRadio - Docs',
   description: 'Guia completo para radiologistas e clientes',
-  base: '/helpcenter/',
+  base: '/',
   ignoreDeadLinks: true,
-
   locales: {
     root: {
       label: 'Português',
@@ -247,7 +246,11 @@ export default defineConfig({
             {
               text: 'PACS',
               items: [
-                { text: 'Configurações PACS', link: '/clients/pacs/pacs-settings' }
+                { text: 'Configurações PACS', link: '/clients/pacs/pacs-settings' },
+                { text: 'Integração Carestream', link: '/clients/pacs/carestream-pacs-config' },
+                { text: 'Integração Dr.Tech', link: '/clients/pacs/drtech-pacs-config' },
+                { text: 'Integração Ultramedic', link: '/clients/pacs/ultramedic-pacs-config' },
+                { text: 'Integração VXVue', link: '/clients/pacs/vxvue-pacs-config' }
               ]
             },
             {
@@ -431,10 +434,10 @@ export default defineConfig({
               text: 'PACS Server',
               items: [
                 { text: 'PACS Settings', link: '/en/radiologists/pacs/pacs-settings' },
-                { text: 'Integração Carestream', link: '/en/radiologists/pacs/carestream-pacs-config' },
-                { text: 'Integração Dr.Tech', link: '/en/radiologists/pacs/drtech-pacs-config' },
-                { text: 'Integração Ultramedic', link: '/en/radiologists/pacs/ultramedic-pacs-config' },
-                { text: 'Integração VXVue', link: '/en/radiologists/pacs/vxvue-pacs-config' }
+                { text: 'Carestream Integration', link: '/en/radiologists/pacs/carestream-pacs-config' },
+                { text: 'DR Tech Integration', link: '/en/radiologists/pacs/drtech-pacs-config' },
+                { text: 'Ultramedic Integration', link: '/en/radiologists/pacs/ultramedic-pacs-config' },
+                { text: 'VXVue Integration', link: '/en/radiologists/pacs/vxvue-pacs-config' }
               ]
             },
             {
@@ -521,7 +524,11 @@ export default defineConfig({
               text: 'PACS',
               items: [
                 { text: 'PACS Settings', link: '/en/clients/pacs/pacs-settings' },
-                { text: 'Send via PACS', link: '/en/clients/exam/pacs-exam-new' }
+                { text: 'Send via PACS', link: '/en/clients/exam/pacs-exam-new' },
+                { text: 'Carestream Integration', link: '/en/clients/pacs/carestream-pacs-config' },
+                { text: 'DR Tech Integration', link: '/en/clients/pacs/drtech-pacs-config' },
+                { text: 'Ultramedic Integration', link: '/en/clients/pacs/ultramedic-pacs-config' },
+                { text: 'VXVue Integration', link: '/en/clients/pacs/vxvue-pacs-config' }
               ]
             },
             {
@@ -589,13 +596,24 @@ export default defineConfig({
   },
 
   themeConfig: {
-    logo: '/logo.svg',
+    logo: '/images/favicon-blue.svg',
+    search: {
+      provider: 'local'
+    },
     socialLinks: [
       // { icon: 'github', link: 'https://github.com/seuusuario/uniradio-docs' }
+      {
+        icon: {
+          svg: '<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64.95 58.54"><path d="M32.48 58.54c-9.41 0-17.25-3.02-23.31-8.98C3.08 43.6 0 35.09 0 24.27V2.97C0 1.28 1.37 0 3.05 0h58.85c1.69 0 3.05 1.28 3.05 2.97v21.3c0 10.81-3.08 19.32-9.16 25.29-6.06 5.96-13.9 8.98-23.31 8.98ZM6.03 6.03v18.24c0 9.11 2.51 16.16 7.38 20.93 4.95 4.86 11.19 7.23 19.05 7.23s14.13-2.37 19.08-7.23c4.87-4.78 7.39-11.82 7.39-20.93V6.03H6.03Z"/><path d="M17.3 25.64c-.91-.7-3.64-4.91.37-7.41 3.25-2.03 6.34 2.35 6.91 3.64 2.95.38 14.67.62 17.54 0 .16-.03.64-5.07 5.17-3.31 4.36 1.69.61 6.99-.49 7.01 3.73 1.13 3.07 6.84.66 7.56-4.79 1.43-6.17-3.72-6.37-3.74-2.19-.23-16.31-.22-17.71 0-.26.04-1.99 5.71-6.22 3.41-2.93-1.6-1.78-5.45-.05-7 .05-.05.11-.1.19-.16Z"/></svg>'
+        },
+        link: 'https://app.uniradio.vet.br',
+        // Você também pode incluir um rótulo personalizado para acessibilidade (opcional mas recomendado):
+        ariaLabel: 'App UniRadio'
+      }
     ],
     footer: {
-      message: 'Lançado sob a Licença MIT.',
-      copyright: 'Copyright © 2026 UniRadio'
+      message: 'Site de ajuda para o App UniRadio.',
+      copyright: 'Copyright © 2026 App UniRadio'
     }
   }
 })

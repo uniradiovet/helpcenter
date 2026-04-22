@@ -2,7 +2,7 @@
 layout: home
 
 hero:
-  name: UniRadio
+  name: App UniRadio
   text: Portal de Documentação
   tagline: Guias completos para radiologistas e clientes
   actions:
@@ -16,16 +16,16 @@ hero:
 features:
   - icon: 🩺
     title: Para Radiologistas
+    link: /radiologists/
     details: Guias completos sobre gerenciamento de conta, clientes, usuários, criação de laudos e integração com servidores PACS.
   - icon: 🏥
     title: Para Clientes
+    link: /clients/
     details: Aprenda como enviar exames, gerenciar seu perfil e acessar seus laudos radiológicos.
   - icon: 🔍
-    title: Busca Integrada
-    details: Encontre rapidamente a informação que você precisa com nossa funcionalidade de busca integrada.
-  - icon: 📱
-    title: Mobile Friendly
-    details: Acesse a documentação em qualquer dispositivo, em qualquer lugar, a qualquer momento.
+    title: Perguntas Frequentes
+    link: /faq/
+    details: Encontre respostas para perguntas communs de outros usuários do App UniRadio
 ---
 
 ## Início Rápido
