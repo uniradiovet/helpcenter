@@ -25,7 +25,11 @@ features:
   - icon: 🔍
     title: Frequently Asked Questions
     link: /en/faq/
-    details: Find answers to common questions from other App UniRadio users
+    details: Find answers to common questions from other UniRadio App users
+  - icon: 📰
+    title: What's New
+    link: /blog/
+    details: Stay up to date with UniRadio App updates
 ---
 
 ## Quick Start

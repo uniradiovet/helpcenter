@@ -26,6 +26,10 @@ features:
     title: Perguntas Frequentes
     link: /faq/
     details: Encontre respostas para perguntas communs de outros usuários do App UniRadio
+  - icon: 📰
+    title: Novidades
+    link: /blog/
+    details: Fique por dentro das atualizações do App UniRadio
 ---
 
 ## Início Rápido

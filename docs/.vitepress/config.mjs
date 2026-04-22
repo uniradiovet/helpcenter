@@ -14,7 +14,8 @@ export default defineConfig({
           { text: 'Início', link: '/' },
           { text: 'Para Radiologistas', link: '/radiologists/' },
           { text: 'Para Clientes', link: '/clients/' },
-          { text: 'Perguntas Frequentes', link: '/faq' }
+          { text: 'Perguntas Frequentes', link: '/faq' },
+          { text: 'Novidades', link: '/blog/' }
         ],
         sidebar: {
           '/radiologists/': [
@@ -324,7 +325,8 @@ export default defineConfig({
           { text: 'Home', link: '/en/' },
           { text: 'For Radiologists', link: '/en/radiologists/' },
           { text: 'For Clients', link: '/en/clients/' },
-          { text: 'FAQ', link: '/en/faq' }
+          { text: 'FAQ', link: '/en/faq' },
+          { text: "What's New", link: '/en/blog/' }
         ],
         sidebar: {
           '/en/radiologists/': [
