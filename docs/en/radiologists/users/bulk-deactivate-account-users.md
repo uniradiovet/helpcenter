@@ -1,6 +1,6 @@
-# How to Desativar Usuários da Conta em Massa
+# How to Bulk Deactivate Account Users
 
-Aprenda como desativar o acesso de múltiplos usuários da sua própria conta na plataforma UniRadio.
+Learn how to deactivate access for multiple users in your own account on the UniRadio platform.
 
 ## Step by Step
 
@@ -8,42 +8,42 @@ Aprenda como desativar o acesso de múltiplos usuários da sua própria conta na
 
 Sign in to your account and go to [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
 
-### 2. Acesse o menu de configurações
+### 2. Open the settings menu
 
-No menu lateral, clique no ícone de configurações para abrir as opções da conta.
+In the side menu, click the settings icon to open the account options.
 
-![Menu de configurações](/images/en/radiologists/users/bulk-deactivate-account-users/01-menu.jpeg)
+![Settings menu](/images/en/radiologists/users/bulk-deactivate-account-users/01-menu.jpeg)
 
-### 3. Acesse os usuários da conta
+### 3. Access the account users
 
-Clique em **"Usuários"** para visualizar os usuários cadastrados na sua conta.
+Click **"Users"** to view the users registered in your account.
 
-![Usuários](/images/en/radiologists/users/bulk-deactivate-account-users/02-users.jpeg)
+![Users](/images/en/radiologists/users/bulk-deactivate-account-users/02-users.jpeg)
 
-### 4. Selecione os usuários desejados
+### 4. Select the desired users
 
-Marque as caixas de seleção dos usuários que deseja desativar.
+Check the selection boxes of the users you want to deactivate.
 
-![Selecionar usuários](/images/en/radiologists/users/bulk-deactivate-account-users/03-select-users.jpeg)
+![Select users](/images/en/radiologists/users/bulk-deactivate-account-users/03-select-users.jpeg)
 
-### 5. Clique no dropdown de ações
+### 5. Click the actions dropdown
 
-Com os usuários selecionados, clique no menu suspenso de ações em massa.
+With the users selected, click the bulk actions dropdown menu.
 
-![Dropdown de ações](/images/en/radiologists/users/bulk-deactivate-account-users/04-dropdown.jpeg)
+![Actions dropdown](/images/en/radiologists/users/bulk-deactivate-account-users/04-dropdown.jpeg)
 
-### 6. Selecione "Desativar Usuários Selecionados"
+### 6. Select "Deactivate Selected Users"
 
-No menu, escolha a opção **"Desativar Usuários Selecionados"**.
+In the menu, choose the **"Deactivate Selected Users"** option.
 
-![Desativar usuários](/images/en/radiologists/users/bulk-deactivate-account-users/05-deactivate-users.jpeg)
+![Deactivate users](/images/en/radiologists/users/bulk-deactivate-account-users/05-deactivate-users.jpeg)
 
-### 7. Clique em "Executar Ação"
+### 7. Click "Execute Action"
 
-Confirme a operação clicando em **"Executar Ação"** para desativar o acesso dos usuários selecionados.
+Confirm the operation by clicking **"Execute Action"** to deactivate access for the selected users.
 
-![Executar ação](/images/en/radiologists/users/bulk-deactivate-account-users/06-executar-acao.jpeg)
+![Execute action](/images/en/radiologists/users/bulk-deactivate-account-users/06-executar-acao.jpeg)
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/faq) ou entre em contato com o suporte se encontrar problemas ao desativar usuários em massa.
+Check our [FAQ](/en/faq) or contact support if you have trouble bulk deactivating users.

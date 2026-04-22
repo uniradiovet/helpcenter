@@ -1,6 +1,6 @@
-# How to Restaurar uma Versão Anterior do Laudo
+# How to Restore a Previous Report Version
 
-Aprenda como acessar, comparar e restaurar versões anteriores de um laudo na plataforma UniRadio, garantindo que seus registros estejam sempre precisos.
+Learn how to access, compare, and restore previous versions of a report on the UniRadio platform, ensuring your records are always accurate.
 
 ## Step by Step
 
@@ -8,48 +8,48 @@ Aprenda como acessar, comparar e restaurar versões anteriores de um laudo na pl
 
 Sign in to your account and go to [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
 
-### 2. Clique em "Finalizado"
+### 2. Click "Completed"
 
-Filtre os exames pelo status **"Finalizado"** para localizar o exame cujo laudo deseja restaurar.
+Filter exams by the **"Completed"** status to locate the exam whose report you want to restore.
 
-![Finalizado](/images/en/radiologists/report/report-restore-version/01-finalizado.jpeg)
+![Completed](/images/en/radiologists/report/report-restore-version/01-finalizado.jpeg)
 
-### 3. Selecione o exame desejado
+### 3. Select the desired exam
 
-Clique sobre o exame para abrir os detalhes do caso.
+Click the exam to open the case details.
 
-![Selecionar exame](/images/en/radiologists/report/report-restore-version/02-select-exam.jpeg)
+![Select exam](/images/en/radiologists/report/report-restore-version/02-select-exam.jpeg)
 
-### 4. Clique em "Editar Laudo"
+### 4. Click "Edit Report"
 
-![Editar Laudo](/images/en/radiologists/report/report-restore-version/03-edit-report.jpeg)
+![Edit Report](/images/en/radiologists/report/report-restore-version/03-edit-report.jpeg)
 
-### 5. Clique em "Ações"
+### 5. Click "Actions"
 
-Abra o menu de ações disponíveis no editor de laudos.
+Open the actions menu available in the report editor.
 
-![Ações](/images/en/radiologists/report/report-restore-version/04-acoes.jpeg)
+![Actions](/images/en/radiologists/report/report-restore-version/04-acoes.jpeg)
 
-### 6. Clique em "Visualizar versões"
+### 6. Click "View versions"
 
-![Visualizar versões](/images/en/radiologists/report/report-restore-version/05-view-versions.jpeg)
+![View versions](/images/en/radiologists/report/report-restore-version/05-view-versions.jpeg)
 
-### 7. Compare as versões disponíveis
+### 7. Compare the available versions
 
-Navegue pelas versões do laudo que foram salvas anteriormente. Cada versão exibe o conteúdo registrado naquele momento, permitindo comparar as alterações feitas ao longo do tempo.
+Browse through the previously saved report versions. Each version displays the content recorded at that time, allowing you to compare changes made over time.
 
-![Comparar versões](/images/en/radiologists/report/report-restore-version/06-compare-versions.jpeg)
+![Compare versions](/images/en/radiologists/report/report-restore-version/06-compare-versions.jpeg)
 
-### 8. Clique em "Restaurar esta versão"
+### 8. Click "Restore this version"
 
-::: tip Dica
-Ao restaurar uma versão anterior, o sistema cria automaticamente uma nova versão. Isso garante que as alterações atuais não sejam perdidas.
+::: tip Tip
+When restoring a previous version, the system automatically creates a new version. This ensures that your current changes are not lost.
 :::
 
-Selecione a versão desejada e clique em **"Restaurar esta versão"** para reverter o laudo ao conteúdo salvo naquele ponto.
+Select the desired version and click **"Restore this version"** to revert the report to the content saved at that point.
 
-![Restaurar versão](/images/en/radiologists/report/report-restore-version/07-restaurar.jpeg)
+![Restore version](/images/en/radiologists/report/report-restore-version/07-restaurar.jpeg)
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/faq) ou entre em contato com o suporte se encontrar problemas ao restaurar uma versão do laudo.
+Check our [FAQ](/en/faq) or contact support if you have trouble restoring a report version.

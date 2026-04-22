@@ -1,67 +1,67 @@
-# How to Emitir um Laudo
+# How to Issue a Report
 
-Aprenda como acessar, revisar e liberar laudos para seus clientes na plataforma UniRadio.
+Learn how to access, review, and release reports to your clients on the UniRadio platform.
 
 ## Step by Step
 
 ### 1. Access the UniRadio platform
 
-Navegue até [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
+Go to [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
 
-### 2. Clique em "Rex/João Silva"
+### 2. Click "Rex/João Silva"
 
-Na lista de exames, clique sobre o exame que deseja avaliar.
+In the exam list, click the exam you want to review.
 
-![Selecionar exame](/images/en/radiologists/report/issue-reports/01-rex-joao-silva.jpeg)
+![Select exam](/images/en/radiologists/report/issue-reports/01-rex-joao-silva.jpeg)
 
-### 3. Clique em "Aceitar e Editar Laudo"
+### 3. Click "Accept and Edit Report"
 
-![Aceitar e Editar Laudo](/images/en/radiologists/report/issue-reports/02-accept-edit.jpeg)
+![Accept and Edit Report](/images/en/radiologists/report/issue-reports/02-accept-edit.jpeg)
 
-### 4. Preencha o laudo do paciente
+### 4. Fill in the patient report
 
-Utilize o editor para redigir o laudo do paciente, preenchendo todas as informações necessárias.
+Use the editor to write the patient report, filling in all the required information.
 
-![Preencher laudo](/images/en/radiologists/report/issue-reports/03-fill-report.jpeg)
+![Fill in report](/images/en/radiologists/report/issue-reports/03-fill-report.jpeg)
 
-### 5. Clique em "Visualizar Imagens (Viewer 3.9.2)"
+### 5. Click "View Images (Viewer 3.9.2)"
 
-O radiologista poderá visualizar as imagens se for um exame do PACS.
+The radiologist can view images if it is a PACS exam.
 
-![Visualizar imagens](/images/en/radiologists/report/issue-reports/04-view-images.jpeg)
+![View images](/images/en/radiologists/report/issue-reports/04-view-images.jpeg)
 
-### 6. Clique na imagem para visualizar os anexos
+### 6. Click the image to view attachments
 
-![Imagem anexada](/images/en/radiologists/report/issue-reports/05-image-attached.jpeg)
+![Attached image](/images/en/radiologists/report/issue-reports/05-image-attached.jpeg)
 
-### 7. Clique no arquivo anexado
+### 7. Click the attached file
 
-Para ver os arquivos anexados ao exame, clique em cima do arquivo para realizar o download.
+To view files attached to the exam, click the file to download it.
 
-![Arquivos](/images/en/radiologists/report/issue-reports/06-files.jpeg)
+![Files](/images/en/radiologists/report/issue-reports/06-files.jpeg)
 
-### 8. Clique em "Detalhes"
+### 8. Click "Details"
 
-Para ver as informações do exame, clique na aba **"Detalhes"**.
+To view exam information, click the **"Details"** tab.
 
-![Detalhes](/images/en/radiologists/report/issue-reports/07-details.jpeg)
+![Details](/images/en/radiologists/report/issue-reports/07-details.jpeg)
 
-### 9. Clique em "Salvar e enviar"
+### 9. Click "Save and send"
 
-Após concluir o preenchimento, clique no botão **"Salvar e enviar"** para enviar o laudo.
+After completing the report, click the **"Save and send"** button to submit the report.
 
-![Salvar e enviar](/images/en/radiologists/report/issue-reports/08-save-send.jpeg)
+![Save and send](/images/en/radiologists/report/issue-reports/08-save-send.jpeg)
 
-### 10. Clique em "Sim, salvar e liberar" para confirmar
+### 10. Click "Yes, save and release" to confirm
 
-Clique no botão de salvar e liberar para confirmar e liberar o laudo para seu cliente.
+Click the save and release button to confirm and release the report to your client.
 
-![Confirmar liberação do laudo](/images/en/radiologists/report/issue-reports/09-confirm.jpeg)
+![Confirm report release](/images/en/radiologists/report/issue-reports/09-confirm.jpeg)
 
-## Descrição dos campos
+## Field Descriptions
 
-Para entender o significado de cada campo do editor de laudo, consulte [Campos do laudo](/en/radiologists/fields/fields-report).
+To understand the meaning of each field in the report editor, see [Report Fields](/en/radiologists/fields/fields-report).
 
 ## Need Help?
 
-Se encontrar problemas ao emitir laudos, confira nossas [FAQ](/en/faq) or contact support.
+If you have trouble issuing reports, check our [FAQ](/en/faq) or contact support.

@@ -1,6 +1,6 @@
-# How to Editar as Informações de um Cliente
+# How to Edit a Client's Information
 
-Aprenda como acessar e atualizar os dados cadastrais de um cliente na plataforma UniRadio.
+Learn how to access and update a client's registration data on the UniRadio platform.
 
 ## Step by Step
 
@@ -8,34 +8,34 @@ Aprenda como acessar e atualizar os dados cadastrais de um cliente na plataforma
 
 Sign in to your account and go to [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
 
-### 2. Acesse "Clientes"
+### 2. Open "Clients"
 
-No menu lateral, clique em **"Clientes"** para visualizar a lista de clientes cadastrados.
+In the side menu, click **"Clients"** to view the list of registered clients.
 
-![Clientes](/images/en/radiologists/clients/edit-client/01-clients.jpeg)
+![Clients](/images/en/radiologists/clients/edit-client/01-clients.jpeg)
 
-### 3. Selecione a clínica
+### 3. Select the clinic
 
-Clique sobre o cliente que deseja editar para abrir as informações da conta.
+Click on the client you want to edit to open the account information.
 
-![Selecionar clínica](/images/en/radiologists/clients/edit-client/02-select-clinic.jpeg)
+![Select clinic](/images/en/radiologists/clients/edit-client/02-select-clinic.jpeg)
 
-### 4. Edite os campos desejados
+### 4. Edit the desired fields
 
-Atualize as informações que deseja alterar, como nome, e-mail, telefone ou logotipo da clínica.
+Update the information you want to change, such as name, email, phone number, or clinic logo.
 
-![Editar campos](/images/en/radiologists/clients/edit-client/03-edit-fields.jpeg)
+![Edit fields](/images/en/radiologists/clients/edit-client/03-edit-fields.jpeg)
 
-### 5. Clique em "Salvar"
+### 5. Click "Save"
 
-Após realizar as alterações, clique em **"Salvar"** para confirmar as mudanças.
+After making the changes, click **"Save"** to confirm the updates.
 
-![Salvar](/images/en/radiologists/clients/edit-client/04-save.jpeg)
+![Save](/images/en/radiologists/clients/edit-client/04-save.jpeg)
 
-## Descrição dos campos
+## Field Descriptions
 
-Para entender o significado de cada campo desta tela, consulte [Campos para adicionar novo cliente (clínica)](/en/radiologists/fields/fields-new-client).
+To understand what each field on this screen means, see [Fields for adding a new client (clinic)](/en/radiologists/fields/fields-new-client).
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/faq) ou entre em contato com o suporte se encontrar problemas ao editar as informações de um cliente.
+Check our [FAQ](/en/faq) or contact support if you have issues editing a client's information.

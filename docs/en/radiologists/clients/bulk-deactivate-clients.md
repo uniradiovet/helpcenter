@@ -1,6 +1,6 @@
-# How to Desativar Vários Clientes em Massa
+# How to Bulk Deactivate Multiple Clients
 
-Aprenda como selecionar e desativar múltiplas contas de clientes de uma só vez na plataforma UniRadio.
+Learn how to select and deactivate multiple client accounts at once on the UniRadio platform.
 
 ## Step by Step
 
@@ -8,42 +8,42 @@ Aprenda como selecionar e desativar múltiplas contas de clientes de uma só vez
 
 Sign in to your account and go to [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
 
-### 2. Acesse "Clientes"
+### 2. Open "Clients"
 
-No menu lateral, clique em **"Clientes"** para visualizar a lista de clientes cadastrados.
+In the side menu, click **"Clients"** to view the list of registered clients.
 
-![Clientes](/images/en/radiologists/clients/bulk-deactivate-clients/01-clients.jpeg)
+![Clients](/images/en/radiologists/clients/bulk-deactivate-clients/01-clients.jpeg)
 
-### 3. Selecione as contas que deseja desativar
+### 3. Select the accounts you want to deactivate
 
-Marque o checkbox de cada cliente que deseja desativar. Você pode selecionar quantos clientes precisar.
+Check the checkbox next to each client you want to deactivate. You can select as many clients as needed.
 
-![Selecionar contas](/images/en/radiologists/clients/bulk-deactivate-clients/02-select-accounts.jpeg)
+![Select accounts](/images/en/radiologists/clients/bulk-deactivate-clients/02-select-accounts.jpeg)
 
-### 4. Abra o menu de ações em massa
+### 4. Open the bulk actions menu
 
-Clique no dropdown de ações em massa para visualizar as opções disponíveis.
+Click the bulk actions dropdown to view the available options.
 
-![Menu dropdown](/images/en/radiologists/clients/bulk-deactivate-clients/03-dropdown.jpeg)
+![Dropdown menu](/images/en/radiologists/clients/bulk-deactivate-clients/03-dropdown.jpeg)
 
-### 5. Selecione "Desativar contas selecionadas"
+### 5. Select "Deactivate selected accounts"
 
-Escolha a opção de desativar as contas selecionadas no menu.
+Choose the option to deactivate the selected accounts from the menu.
 
-![Desativar selecionados](/images/en/radiologists/clients/bulk-deactivate-clients/04-deactivate-selecionados.jpeg)
+![Deactivate selected](/images/en/radiologists/clients/bulk-deactivate-clients/04-deactivate-selecionados.jpeg)
 
-### 6. Clique em "Executar Ação"
+### 6. Click "Execute Action"
 
-Clique em **"Executar Ação"** para prosseguir com a desativação em massa.
+Click **"Execute Action"** to proceed with the bulk deactivation.
 
-![Executar Ação](/images/en/radiologists/clients/bulk-deactivate-clients/05-executar-acao.jpeg)
+![Execute Action](/images/en/radiologists/clients/bulk-deactivate-clients/05-executar-acao.jpeg)
 
-### 7. Confirme clicando em "Desativar Contas"
+### 7. Confirm by clicking "Deactivate Accounts"
 
-Clique em **"Desativar Contas"** para confirmar. Todas as contas selecionadas serão desativadas imediatamente.
+Click **"Deactivate Accounts"** to confirm. All selected accounts will be deactivated immediately.
 
-![Confirmar desativação](/images/en/radiologists/clients/bulk-deactivate-clients/06-deactivate-accounts.jpeg)
+![Confirm deactivation](/images/en/radiologists/clients/bulk-deactivate-clients/06-deactivate-accounts.jpeg)
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/faq) ou entre em contato com o suporte se encontrar problemas ao desativar contas em massa.
+Check our [FAQ](/en/faq) or contact support if you have issues deactivating accounts in bulk.

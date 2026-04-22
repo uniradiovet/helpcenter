@@ -1,6 +1,6 @@
-# How to Exportar as Contas dos Clientes
+# How to Export Client Accounts
 
-Aprenda como exportar os dados de clientes e usuários da sua conta na plataforma UniRadio para relatórios ou backup.
+Learn how to export client and user data from your account on the UniRadio platform for reporting or backup purposes.
 
 ## Step by Step
 
@@ -8,45 +8,45 @@ Aprenda como exportar os dados de clientes e usuários da sua conta na plataform
 
 Sign in to your account and go to [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
 
-### 2. Acesse a seção de Clientes
+### 2. Open the Clients section
 
-Clique em **"Clientes"** no menu de navegação para acessar a lista de contas dos seus clientes.
+Click **"Clients"** in the navigation menu to open your client account list.
 
-![Seção Clientes](/images/en/radiologists/clients/export-clients/01-clientes.jpeg)
+![Clients Section](/images/en/radiologists/clients/export-clients/01-clientes.jpeg)
 
-### 3. Abra o menu de opções
+### 3. Open the options menu
 
-Clique no botão de opções (dropdown) para exibir as ações disponíveis para a listagem de clientes.
+Click the options button (dropdown) to display the available actions for the client list.
 
 ![Toggle Dropdown](/images/en/radiologists/clients/export-clients/02-dropdown.jpeg)
 
-### 4. Clique em "Exportar Clientes"
+### 4. Click "Export Clients"
 
-Selecione a opção **"Exportar Clientes"** no menu para iniciar o processo de exportação.
+Select the **"Export Clients"** option from the menu to start the export process.
 
-![Exportar Clientes](/images/en/radiologists/clients/export-clients/03-exportar-clientes.jpeg)
+![Export Clients](/images/en/radiologists/clients/export-clients/03-exportar-clientes.jpeg)
 
-### 5. Selecione o tipo de exportação
+### 5. Select the export type
 
-Escolha o formato de exportação de acordo com sua necessidade:
+Choose the export format according to your needs:
 
-- **Somente contas** — exporta apenas os dados cadastrais de cada conta de cliente.
-- **Contas com usuários** — exporta os dados das contas junto com os usuários vinculados a cada uma delas.
+- **Accounts only** — exports only the registration data for each client account.
+- **Accounts with users** — exports account data along with the users linked to each account.
 
-Você também pode marcar a opção **"Incluir contas inativas"** para que contas desativadas sejam incluídas na exportação. Se essa opção não for marcada, apenas as contas ativas serão exportadas.
+You can also check the **"Include inactive accounts"** option to include deactivated accounts in the export. If this option is not checked, only active accounts will be exported.
 
-![Tipo de Exportação](/images/en/radiologists/clients/export-clients/04-tipo-exportacao.jpeg)
+![Export Type](/images/en/radiologists/clients/export-clients/04-tipo-exportacao.jpeg)
 
-### 6. Clique em "Exportar"
+### 6. Click "Export"
 
-Clique no botão **"Exportar"** para confirmar. A exportação será processada em segundo plano e, ao final, você receberá um e-mail com o arquivo exportado em anexo.
+Click the **"Export"** button to confirm. The export will be processed in the background and, when complete, you will receive an email with the exported file as an attachment.
 
-![Exportar](/images/en/radiologists/clients/export-clients/05-exportar.jpeg)
+![Export](/images/en/radiologists/clients/export-clients/05-exportar.jpeg)
 
-::: tip Dica
-Você pode visualizar a lista das exportações realizadas na seção [Exportações anteriores](/en/radiologists/clients/export-clients-history)
+::: tip Tip
+You can view the list of completed exports in the [Previous Exports](/en/radiologists/clients/export-clients-history) section.
 :::
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/faq) ou entre em contato com o suporte se encontrar problemas ao exportar os dados.
+Check our [FAQ](/en/faq) or contact support if you have issues exporting data.

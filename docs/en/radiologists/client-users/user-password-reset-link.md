@@ -1,6 +1,6 @@
-# How to Obter o Link de Redefinição de Senha de um Usuário
+# How to Get a User's Password Reset Link
 
-Aprenda como gerar e copiar o link de redefinição de senha de um usuário vinculado à conta de um cliente na plataforma UniRadio.
+Learn how to generate and copy the password reset link for a user linked to a client account on the UniRadio platform.
 
 ## Step by Step
 
@@ -8,48 +8,48 @@ Aprenda como gerar e copiar o link de redefinição de senha de um usuário vinc
 
 Sign in to your account and go to [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
 
-### 2. Acesse "Clientes"
+### 2. Access "Clients"
 
-No menu lateral, clique em **"Clientes"** para visualizar a lista de clientes cadastrados.
+In the side menu, click on **"Clients"** to view the list of registered clients.
 
-![Clientes](/images/en/radiologists/client-users/user-password-reset-link/01-clients.jpeg)
+![Clients](/images/en/radiologists/client-users/user-password-reset-link/01-clients.jpeg)
 
-### 3. Selecione a clínica
+### 3. Select the clinic
 
-Clique sobre a clínica para abrir a página de gerenciamento.
+Click on the clinic to open its management page.
 
-![Selecionar clínica](/images/en/radiologists/client-users/user-password-reset-link/02-select-clinic.jpeg)
+![Select clinic](/images/en/radiologists/client-users/user-password-reset-link/02-select-clinic.jpeg)
 
-### 4. Acesse "Usuários da Conta"
+### 4. Access "Account Users"
 
-Dentro do perfil do cliente, clique em **"Usuários da Conta"** para visualizar os usuários vinculados a ele.
+Inside the client profile, click on **"Account Users"** to view the users linked to it.
 
-![Usuários da Conta](/images/en/radiologists/client-users/user-password-reset-link/03-users-account.jpeg)
+![Account Users](/images/en/radiologists/client-users/user-password-reset-link/03-users-account.jpeg)
 
-### 5. Selecione o usuário
+### 5. Select the user
 
-Clique sobre o nome do usuário para o qual deseja gerar o link de redefinição de senha.
+Click on the name of the user for whom you want to generate the password reset link.
 
-![Selecionar usuário](/images/en/radiologists/client-users/user-password-reset-link/04-select-user.jpeg)
+![Select user](/images/en/radiologists/client-users/user-password-reset-link/04-select-user.jpeg)
 
-### 6. Clique em "Ações"
+### 6. Click on "Actions"
 
-Na página do usuário, clique no botão **"Ações"** para exibir as opções disponíveis.
+On the user page, click the **"Actions"** button to display the available options.
 
-![Ações](/images/en/radiologists/client-users/user-password-reset-link/05-acoes.jpeg)
+![Actions](/images/en/radiologists/client-users/user-password-reset-link/05-acoes.jpeg)
 
-### 7. Clique em "Link de Redefinição de Senha"
+### 7. Click on "Password Reset Link"
 
-No menu de ações, selecione **"Link de Redefinição de Senha"** para gerar o link de redefinição.
+In the actions menu, select **"Password Reset Link"** to generate the reset link.
 
-![Link de Redefinição de Senha](/images/en/radiologists/client-users/user-password-reset-link/06-link-reset-password.jpeg)
+![Password Reset Link](/images/en/radiologists/client-users/user-password-reset-link/06-link-reset-password.jpeg)
 
-### 8. Clique em "Copiar Link"
+### 8. Click "Copy Link"
 
-Clique em **"Copiar Link"** para copiar o link e enviá-lo ao usuário.
+Click **"Copy Link"** to copy the link and send it to the user.
 
-![Copiar Link](/images/en/radiologists/client-users/user-password-reset-link/07-copiar-link.jpeg)
+![Copy Link](/images/en/radiologists/client-users/user-password-reset-link/07-copiar-link.jpeg)
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/faq) ou entre em contato com o suporte se encontrar problemas ao gerar links de redefinição de senha.
+Check our [FAQ](/en/faq) or contact support if you encounter any issues generating password reset links.

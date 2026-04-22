@@ -1,6 +1,6 @@
-# How to Gerar Relatórios
+# How to Generate Reports
 
-Aprenda como acessar e gerar relatórios de exames na plataforma UniRadio para auxiliar na gestão e cobrança dos seus clientes.
+Learn how to access and generate exam reports on the UniRadio platform to assist with management and billing for your clients.
 
 ## Step by Step
 
@@ -8,46 +8,46 @@ Aprenda como acessar e gerar relatórios de exames na plataforma UniRadio para a
 
 Sign in to your account and go to [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
 
-### 2. Clique em "Relatórios"
+### 2. Click "Reports"
 
-No menu lateral, clique em **"Relatórios"** para acessar a área de geração de relatórios.
+In the side menu, click **"Reports"** to access the report generation area.
 
-![Relatórios](/images/en/radiologists/report/reports-generate/01-relatorios.jpeg)
+![Reports](/images/en/radiologists/report/reports-generate/01-relatorios.jpeg)
 
-### 3. Escolha o tipo de relatório
+### 3. Choose the report type
 
-Selecione o tipo de relatório que deseja gerar.
+Select the type of report you want to generate.
 
-:::tip Tipos de relatório disponíveis
+:::tip Available report types
 
-- **Laudos: Resumido** — exibe um resumo dos laudos emitidos no período, ideal para uma visão geral rápida das cobranças por cliente.
-- **Laudos: Detalhado** — apresenta informações completas de cada laudo, incluindo dados do paciente, tipo de exame e valores, útil para faturamento detalhado aos clientes.
+- **Reports: Summary** — displays a summary of reports issued during the period, ideal for a quick overview of billing per client.
+- **Reports: Detailed** — presents complete information for each report, including patient data, exam type, and values, useful for detailed client billing.
   :::
 
-![Tipos de relatórios](/images/en/radiologists/report/reports-generate/02-tipos-relatorios.jpeg)
+![Report types](/images/en/radiologists/report/reports-generate/02-tipos-relatorios.jpeg)
 
-### 4. Configure os filtros e clique em "Ver Relatório"
+### 4. Configure the filters and click "View Report"
 
-Preencha os filtros desejados para refinar os resultados e clique em **"Ver Relatório"**.
+Fill in the desired filters to refine the results and click **"View Report"**.
 
-:::tip Filtros disponíveis
+:::tip Available filters
 
-- **Data** — define o tipo de data utilizado como referência para o filtro:
-  - _Data do laudo_ — data em que o laudo foi emitido.
-  - _Data da requisição_ — data em que o exame foi enviado.
-  - _Data do exame_ — data especificada no formulário de envio do exame.
-- **De** — data de início do período.
-- **Até** — data de fim do período.
-- **Cliente** — filtra pelos exames de uma clínica ou instituição específica.
-- **Tags** — filtra por etiquetas atribuídas aos laudos.
-- **Status do Exame** — filtra pelo status atual do exame (ex.: Em Andamento, Finalizado).
-- **Status Pagamento** — filtra pela situação de pagamento do laudo (ex.: Pago, Pendente).
-- **Categoria do Exame** — filtra pela classificação atribuída ao exame.
-- **Tipo do Exame** — filtra pela modalidade do exame (ex.: Radiografia, Ultrassom).
+- **Date** — defines the type of date used as a reference for the filter:
+  - _Report date_ — date the report was issued.
+  - _Request date_ — date the exam was submitted.
+  - _Exam date_ — date specified in the exam submission form.
+- **From** — start date of the period.
+- **To** — end date of the period.
+- **Client** — filters by exams from a specific clinic or institution.
+- **Tags** — filters by tags assigned to reports.
+- **Exam Status** — filters by the current exam status (e.g., In Progress, Completed).
+- **Payment Status** — filters by the payment status of the report (e.g., Paid, Pending).
+- **Exam Category** — filters by the classification assigned to the exam.
+- **Exam Type** — filters by the exam modality (e.g., Radiography, Ultrasound).
   :::
 
-![Ver relatório](/images/en/radiologists/report/reports-generate/03-ver-relatorio.jpeg)
+![View report](/images/en/radiologists/report/reports-generate/03-ver-relatorio.jpeg)
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/faq) ou entre em contato com o suporte se encontrar problemas ao gerar relatórios.
+Check our [FAQ](/en/faq) or contact support if you have trouble generating reports.

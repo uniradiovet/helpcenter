@@ -1,6 +1,6 @@
-# How to Editar as Configurações de Exames
+# How to Edit Exam Settings
 
-Aprenda como acessar e personalizar as configurações de exames da sua conta na plataforma UniRadio.
+Learn how to access and customize the exam settings for your account in the UniRadio platform.
 
 ## Step by Step
 
@@ -8,37 +8,37 @@ Aprenda como acessar e personalizar as configurações de exames da sua conta na
 
 Sign in to your account and go to [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
 
-### 2. Acesse o menu de configurações
+### 2. Access the settings menu
 
-No menu lateral, clique no ícone de configurações para abrir as opções da conta.
+In the sidebar menu, click the settings icon to open the account options.
 
-![Menu de configurações](/images/en/radiologists/exam/exam-settings/01-menu.jpeg)
+![Settings menu](/images/en/radiologists/exam/exam-settings/01-menu.jpeg)
 
-### 3. Clique em "Exames"
+### 3. Click on "Exams"
 
-No menu de configurações, clique em **"Exames"** para acessar as configurações de exames.
+In the settings menu, click on **"Exams"** to access the exam settings.
 
-![Exames](/images/en/radiologists/exam/exam-settings/02-exams.jpeg)
+![Exams](/images/en/radiologists/exam/exam-settings/02-exams.jpeg)
 
-### 4. Configure as opções desejadas
+### 4. Configure the desired options
 
-Ajuste as configurações de acordo com a necessidade da sua conta.
+Adjust the settings according to your account's needs.
 
-:::tip Opções disponíveis
+:::tip Available options
 
-- **Configurações de Exames** — Selecione os tipos de exames disponíveis para os seus clientes.
-- **Exames Urgentes** — Ative esta opção para permitir que os clientes marquem exames como urgentes. Você pode adicionar uma descrição opcional, como o valor cobrado pelo atendimento de emergência.
-- **Personalizar Campos** — Defina quais campos serão exibidos e quais serão obrigatórios durante a criação ou edição de um exame.
+- **Exam Settings** — Select the exam types available to your clients.
+- **Urgent Exams** — Enable this option to allow clients to mark exams as urgent. You can add an optional description, such as the fee charged for emergency services.
+- **Customize Fields** — Define which fields will be displayed and which will be required when creating or editing an exam.
   :::
 
-![Configurações de exames](/images/en/radiologists/exam/exam-settings/03-settings.jpeg)
+![Exam settings](/images/en/radiologists/exam/exam-settings/03-settings.jpeg)
 
-### 5. Clique em "Salvar"
+### 5. Click "Save"
 
-Após realizar as alterações desejadas, clique em **"Salvar"** para confirmar as configurações.
+After making the desired changes, click **"Save"** to confirm the settings.
 
-![Salvar](/images/en/radiologists/exam/exam-settings/04-save.jpeg)
+![Save](/images/en/radiologists/exam/exam-settings/04-save.jpeg)
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/faq) ou entre em contato com o suporte se encontrar problemas ao configurar os exames.
+Check our [FAQ](/en/faq) or contact support if you encounter any issues when configuring exams.

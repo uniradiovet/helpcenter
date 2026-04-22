@@ -1,6 +1,6 @@
-# How to Editar uma Tag
+# How to Edit a Tag
 
-Aprenda como alterar o nome de uma tag existente na plataforma UniRadio.
+Learn how to change the name of an existing tag on the UniRadio platform.
 
 ## Step by Step
 
@@ -8,40 +8,40 @@ Aprenda como alterar o nome de uma tag existente na plataforma UniRadio.
 
 Sign in to your account and go to [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
 
-### 2. Acesse o menu de configurações
+### 2. Open the settings menu
 
-No menu lateral, clique no ícone de configurações para abrir as opções da conta.
+In the side menu, click the settings icon to open the account options.
 
-![Menu de configurações](/images/en/radiologists/settings/edit-tag/01-menu.jpeg)
+![Settings menu](/images/en/radiologists/settings/edit-tag/01-menu.jpeg)
 
-### 3. Clique em "Tags"
+### 3. Click "Tags"
 
-No menu de configurações, clique em **"Tags"** para visualizar as tags cadastradas.
+In the settings menu, click **"Tags"** to view the registered tags.
 
 ![Tags](/images/en/radiologists/settings/edit-tag/02-tags.jpeg)
 
-### 4. Clique em "Editar"
+### 4. Click "Edit"
 
-Ao lado da tag que deseja modificar, clique em **"Editar"**.
+Next to the tag you want to modify, click **"Edit"**.
 
-![Editar](/images/en/radiologists/settings/edit-tag/03-edit.jpeg)
+![Edit](/images/en/radiologists/settings/edit-tag/03-edit.jpeg)
 
-### 5. Edite o nome da tag
+### 5. Edit the tag name
 
-Altere o nome da tag conforme desejado.
+Change the tag name as desired.
 
-:::warning Atenção
-Ao editar uma tag, não é possível adicionar outras tags separando por vírgula. Para criar múltiplas tags de uma vez, siga esse tutorial [Criar Tags](/en/radiologists/settings/create-tag)
+:::warning Note
+When editing a tag, it is not possible to add other tags by separating with a comma. To create multiple tags at once, follow this tutorial: [Create Tags](/en/radiologists/settings/create-tag)
 :::
 
-![Editar tag](/images/en/radiologists/settings/edit-tag/04-edit-tag.jpeg)
+![Edit tag](/images/en/radiologists/settings/edit-tag/04-edit-tag.jpeg)
 
-### 6. Clique em "Salvar"
+### 6. Click "Save"
 
-Após realizar a alteração, clique em **"Salvar"** para confirmar.
+After making the change, click **"Save"** to confirm.
 
-![Salvar](/images/en/radiologists/settings/edit-tag/05-save.jpeg)
+![Save](/images/en/radiologists/settings/edit-tag/05-save.jpeg)
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/faq) ou entre em contato com o suporte se encontrar problemas ao editar tags.
+Check our [FAQ](/en/faq) or contact support if you have trouble editing tags.

@@ -1,6 +1,6 @@
-# How to Compartilhar o Link do Laudo com seu Cliente
+# How to Share the Report Link with Your Client
 
-Aprenda como localizar e compartilhar o link URL de um laudo finalizado diretamente com seus clientes na plataforma UniRadio.
+Learn how to locate and share the URL link of a completed report directly with your clients on the UniRadio platform.
 
 ## Step by Step
 
@@ -8,30 +8,30 @@ Aprenda como localizar e compartilhar o link URL de um laudo finalizado diretame
 
 Sign in to your account and go to [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
 
-### 2. Filtre pelos exames finalizados
+### 2. Filter by completed exams
 
-Clique na aba **"Finalizado"** para listar apenas os exames que já possuem laudo emitido.
+Click the **"Completed"** tab to list only the exams that already have an issued report.
 
-![Aba Finalizado](/images/en/radiologists/report/report-share/01-finalizado.jpeg)
+![Completed tab](/images/en/radiologists/report/report-share/01-finalizado.jpeg)
 
-### 3. Selecione o exame
+### 3. Select the exam
 
-Clique sobre o exame cujo laudo deseja compartilhar com seu cliente.
+Click the exam whose report you want to share with your client.
 
-![Selecionar exame](/images/en/radiologists/report/report-share/02-select-exam.jpeg)
+![Select exam](/images/en/radiologists/report/report-share/02-select-exam.jpeg)
 
-### 4. Clique no botão de compartilhar
+### 4. Click the share button
 
-Clique no ícone de compartilhamento para abrir as opções de envio do laudo.
+Click the share icon to open the report sending options.
 
-![Botão compartilhar](/images/en/radiologists/report/report-share/03-compartilhar.jpeg)
+![Share button](/images/en/radiologists/report/report-share/03-compartilhar.jpeg)
 
-### 5. Copie o link ou escaneie o QR Code
+### 5. Copy the link or scan the QR Code
 
-Copie a URL do laudo para enviar a quem desejar, ou escaneie o QR Code diretamente.
+Copy the report URL to send to anyone you wish, or scan the QR Code directly.
 
-![Copiar URL do laudo](/images/en/radiologists/report/report-share/04-copiar-url.jpeg)
+![Copy report URL](/images/en/radiologists/report/report-share/04-copiar-url.jpeg)
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/faq) ou entre em contato com o suporte se encontrar problemas ao compartilhar laudos.
+Check our [FAQ](/en/faq) or contact support if you have trouble sharing reports.

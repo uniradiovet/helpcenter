@@ -1,6 +1,6 @@
-# How to Excluir um Modelo de Laudo
+# How to Delete a Report Template
 
-Aprenda como remover modelos de laudos que não são mais necessários na plataforma UniRadio.
+Learn how to remove report templates that are no longer needed on the UniRadio platform.
 
 ## Step by Step
 
@@ -8,30 +8,30 @@ Aprenda como remover modelos de laudos que não são mais necessários na plataf
 
 Sign in to your account and go to [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
 
-### 2. Acesse "Minha Conta"
+### 2. Go to "My Account"
 
-Clique em **"Minha Conta"** no menu para acessar as configurações da sua conta.
+Click **"My Account"** in the menu to access your account settings.
 
-![Minha Conta](/images/en/radiologists/report/delete-report-template/01-my-account.jpeg)
+![My Account](/images/en/radiologists/report/delete-report-template/01-my-account.jpeg)
 
-### 3. Acesse "Modelos de Laudos"
+### 3. Go to "Report Templates"
 
-Clique em **"Modelos de Laudos"** para visualizar a lista de modelos cadastrados.
+Click **"Report Templates"** to view the list of registered templates.
 
-![Modelos de Laudos](/images/en/radiologists/report/delete-report-template/02-templates-reports.jpeg)
+![Report Templates](/images/en/radiologists/report/delete-report-template/02-templates-reports.jpeg)
 
-### 4. Clique no ícone de lixeira
+### 4. Click the trash icon
 
-Localize o modelo que deseja remover e clique no ícone de lixeira correspondente.
+Locate the template you want to remove and click the corresponding trash icon.
 
-![Deletar modelo](/images/en/radiologists/report/delete-report-template/03-deletar.jpeg)
+![Delete template](/images/en/radiologists/report/delete-report-template/03-deletar.jpeg)
 
-### 5. Clique em "Continuar" para confirmar
+### 5. Click "Continue" to confirm
 
-Confirme a exclusão clicando em **"Continuar"**. O modelo será removido permanentemente.
+Confirm the deletion by clicking **"Continue"**. The template will be permanently removed.
 
-![Confirmar exclusão](/images/en/radiologists/report/delete-report-template/04-confirm.jpeg)
+![Confirm deletion](/images/en/radiologists/report/delete-report-template/04-confirm.jpeg)
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/faq) ou entre em contato com o suporte se encontrar problemas ao excluir modelos de laudos.
+Check our [FAQ](/en/faq) or contact support if you have trouble deleting report templates.

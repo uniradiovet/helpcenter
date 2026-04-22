@@ -1,6 +1,6 @@
-# How to Anexar Estudo do PACS ao Exame
+# How to Attach a PACS Study to an Exam
 
-Aprenda como vincular imagens diagnósticas do seu servidor PACS a um exame na plataforma UniRadio.
+Learn how to link diagnostic images from your PACS server to an exam in the UniRadio platform.
 
 ## Step by Step
 
@@ -8,34 +8,34 @@ Aprenda como vincular imagens diagnósticas do seu servidor PACS a um exame na p
 
 Sign in to your account and go to [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
 
-### 2. Clique em "Em Andamento"
+### 2. Click on "In Progress"
 
-Filtre os exames pelo status **"Em Andamento"** para localizar o exame desejado.
+Filter exams by the **"In Progress"** status to locate the desired exam.
 
-![Em Andamento](/images/en/radiologists/exam/exam-pacs-attach/01-in-progress.jpeg)
+![In Progress](/images/en/radiologists/exam/exam-pacs-attach/01-in-progress.jpeg)
 
-### 3. Selecione o exame desejado
+### 3. Select the desired exam
 
-Clique sobre o exame ao qual deseja anexar as imagens do PACS.
+Click on the exam to which you want to attach PACS images.
 
-![Selecionar exame](/images/en/radiologists/exam/exam-pacs-attach/02-select-exam.jpeg)
+![Select exam](/images/en/radiologists/exam/exam-pacs-attach/02-select-exam.jpeg)
 
-### 4. Clique em "Novo Link"
+### 4. Click on "New Link"
 
-![Novo Link](/images/en/radiologists/exam/exam-pacs-attach/03-new-link.jpeg)
+![New Link](/images/en/radiologists/exam/exam-pacs-attach/03-new-link.jpeg)
 
-### 5. Clique em "Escolher"
+### 5. Click on "Choose"
 
-Selecione o estudo disponível no servidor PACS que deseja vincular ao exame.
+Select the study available on the PACS server that you want to link to the exam.
 
-![Escolher estudo PACS](/images/en/radiologists/exam/exam-pacs-attach/04-escolher.jpeg)
+![Choose PACS study](/images/en/radiologists/exam/exam-pacs-attach/04-escolher.jpeg)
 
-### 6. Clique em "Anexar Imagens do PACS"
+### 6. Click on "Attach PACS Images"
 
-Clique neste botão para sincronizar as imagens do PACS ao laudo. As imagens ficarão disponíveis para visualização diretamente no exame.
+Click this button to sync the PACS images to the report. The images will be available for viewing directly in the exam.
 
-![Anexar imagens do PACS](/images/en/radiologists/exam/exam-pacs-attach/05-attach-pacs.jpeg)
+![Attach PACS images](/images/en/radiologists/exam/exam-pacs-attach/05-attach-pacs.jpeg)
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/faq) ou entre em contato com o suporte se encontrar problemas ao anexar imagens do PACS a um exame.
+Check our [FAQ](/en/faq) or contact support if you encounter any issues when attaching PACS images to an exam.

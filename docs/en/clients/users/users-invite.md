@@ -1,51 +1,51 @@
-# How to Convidar um Novo Usuário
+# How to Invite a New User
 
-Aprenda como adicionar um novo membro à sua conta na plataforma UniRadio enviando um convite.
+Learn how to add a new member to your account on the UniRadio platform by sending an invitation.
 
 ## Step by Step
 
 ### 1. Access the UniRadio platform
 
-Navegue até [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
+Navigate to [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
 
-### 2. Acesse as configurações da conta
+### 2. Access the account settings
 
-Clique no ícone de engrenagem no canto superior direito para acesssar as configurações da conta.
+Click the gear icon in the top-right corner to access the account settings.
 
-![Menu do usuário](/images/en/clients/users/users-invite/01-menu.jpeg)
+![User menu](/images/en/clients/users/users-invite/01-menu.jpeg)
 
-### 3. Clique em "Usuários"
+### 3. Click "Users"
 
-![Usuários](/images/en/clients/users/users-invite/02-users.jpeg)
+![Users](/images/en/clients/users/users-invite/02-users.jpeg)
 
-### 4. Clique em "Convidar Usuário"
+### 4. Click "Invite User"
 
-![Convidar Usuário](/images/en/clients/users/users-invite/03-invite-user.jpeg)
+![Invite User](/images/en/clients/users/users-invite/03-invite-user.jpeg)
 
-### 5. Preencha o formulário de convite
+### 5. Fill in the invitation form
 
-Informe o nome completo, e-mail e a função do novo usuário.
+Enter the full name, email, and role of the new user.
 
-![Formulário de convite](/images/en/clients/users/users-invite/04-formulario.jpeg)
+![Invitation form](/images/en/clients/users/users-invite/04-formulario.jpeg)
 
-::: tip Funções disponíveis
+::: tip Available roles
 
-- **Administrativo**: possui acesso total à conta, podendo gerenciar usuários, exames e configurações.
-- **Membro**: acesso restrito. Ao selecionar esta função, é possível definir individualmente quais permissões o usuário terá dentro da plataforma.
+- **Administrator**: has full access to the account, and can manage users, exams, and settings.
+- **Member**: restricted access. When selecting this role, you can define individually what permissions the user will have within the platform.
   :::
 
-::: info Usuário ainda não cadastrado?
-Caso o e-mail informado não pertença a nenhuma conta existente na plataforma, o usuário será criado automaticamente e receberá as instruções de acesso junto ao convite.
+::: info User not yet registered?
+If the provided email does not belong to any existing account on the platform, the user will be automatically created and will receive access instructions along with the invitation.
 :::
 
-::: warning Pular envio de e-mail de convite
-Se a opção **"Pular envio de e-mail de convite"** for marcada, o usuário convidado **não receberá nenhuma notificação** por e-mail e será ativado automaticamente.
+::: warning Skip invitation email
+If the **"Skip invitation email"** option is checked, the invited user **will not receive any email notification** and will be activated automatically.
 :::
 
-### 6. Clique em "Enviar convite"
+### 6. Click "Send invitation"
 
-![Enviar convite](/images/en/clients/users/users-invite/05-send-invite.jpeg)
+![Send invitation](/images/en/clients/users/users-invite/05-send-invite.jpeg)
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/faq) ou entre em contato com seu radiologista se encontrar problemas.
+Check our [FAQ](/en/faq) or contact your radiologist if you encounter any issues.

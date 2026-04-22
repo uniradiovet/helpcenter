@@ -1,6 +1,6 @@
-# How to Adicionar e Excluir Comentários em um Exame
+# How to Add and Delete Comments on an Exam
 
-Aprenda como adicionar e excluir comentários em um exame na plataforma UniRadio para facilitar a comunicação e o acompanhamento dos casos.
+Learn how to add and delete comments on an exam in the UniRadio platform to facilitate communication and case follow-up.
 
 ## Step by Step
 
@@ -8,54 +8,54 @@ Aprenda como adicionar e excluir comentários em um exame na plataforma UniRadio
 
 Sign in to your account and go to [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
 
-### 2. Clique em "Em Andamento"
+### 2. Click on "In Progress"
 
-Na tela de exames, clique na aba **"Em Andamento"**.
+On the exams screen, click the **"In Progress"** tab.
 
-![Em Andamento](/images/en/radiologists/exam/exam-comment-new/02-in-progress.jpeg)
+![In Progress](/images/en/radiologists/exam/exam-comment-new/02-in-progress.jpeg)
 
-### 3. Selecione o exame
+### 3. Select the exam
 
-Clique no exame desejado para abrir os detalhes do caso.
+Click on the desired exam to open the case details.
 
-![Selecionar exame](/images/en/radiologists/exam/exam-comment-new/03-select-exam.jpeg)
+![Select exam](/images/en/radiologists/exam/exam-comment-new/03-select-exam.jpeg)
 
-### 4. Clique em "Comentários"
+### 4. Click on "Comments"
 
-Acesse a aba de comentários dentro do exame desejado.
+Go to the comments tab inside the desired exam.
 
-![Comentários](/images/en/radiologists/exam/exam-comment-new/04-comments.jpeg)
+![Comments](/images/en/radiologists/exam/exam-comment-new/04-comments.jpeg)
 
-### 5. Clique em "Novo comentário"
+### 5. Click on "New comment"
 
-![Novo comentário](/images/en/radiologists/exam/exam-comment-new/05-new-comment.jpeg)
+![New comment](/images/en/radiologists/exam/exam-comment-new/05-new-comment.jpeg)
 
-### 6. Escreva o seu comentário
+### 6. Write your comment
 
-Digite o texto do comentário no campo disponível.
+Type the comment text in the available field.
 
 :::tip
-Você também pode anexar uma imagem junto ao comentário. No entanto, não é possível enviar apenas uma imagem sem texto — o comentário escrito é obrigatório.
+You can also attach an image along with the comment. However, it is not possible to send only an image without text — the written comment is required.
 :::
 
-![Escrever comentário](/images/en/radiologists/exam/exam-comment-new/06-escrever-comment.jpeg)
+![Write comment](/images/en/radiologists/exam/exam-comment-new/06-escrever-comment.jpeg)
 
-### 7. Clique em "Salvar" para publicar o comentário
+### 7. Click "Save" to publish the comment
 
-![Salvar comentário](/images/en/radiologists/exam/exam-comment-new/07-save.jpeg)
+![Save comment](/images/en/radiologists/exam/exam-comment-new/07-save.jpeg)
 
-### 8. Clique no ícone de lixeira
+### 8. Click the trash icon
 
-Para excluir um comentário já publicado, clique no ícone de lixeira no comentário desejado.
+To delete a published comment, click the trash icon on the desired comment.
 
-![Excluir comentário](/images/en/radiologists/exam/exam-comment-new/08-delete-comment.jpeg)
+![Delete comment](/images/en/radiologists/exam/exam-comment-new/08-delete-comment.jpeg)
 
-### 9. Clique em "Continuar"
+### 9. Click "Continue"
 
-Confirme a exclusão do comentário clicando em **"Continuar"**.
+Confirm the deletion of the comment by clicking **"Continue"**.
 
-![Continuar exclusão](/images/en/radiologists/exam/exam-comment-new/09-continue-deletion.jpeg)
+![Confirm deletion](/images/en/radiologists/exam/exam-comment-new/09-continue-deletion.jpeg)
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/faq) ou entre em contato com o suporte se encontrar problemas ao adicionar ou excluir comentários em um exame.
+Check our [FAQ](/en/faq) or contact support if you encounter any issues when adding or deleting comments on an exam.

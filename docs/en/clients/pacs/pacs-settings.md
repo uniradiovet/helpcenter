@@ -1,33 +1,33 @@
-# How to Integrar com o Servidor PACS UniRadio
+# How to Integrate with the UniRadio PACS Server
 
-Aprenda como acessar as configurações do servidor PACS na plataforma UniRadio e obter as informações necessárias para integrar seu equipamento de imagem.
+Learn how to access the PACS server settings on the UniRadio platform and obtain the information needed to integrate your imaging equipment.
 
-::: warning Funcionalidade sob liberação
-Esta funcionalidade só estará disponível se o seu Radiologista tiver ativado a integração PACS para a sua clínica. Caso não encontre a opção "Servidor PACS" no menu, entre em contato com seu radiologista para solicitar a habilitação.
+::: warning Feature requires activation
+This feature will only be available if your radiologist has enabled the PACS integration for your clinic. If you do not find the "PACS Server" option in the menu, contact your radiologist to request activation.
 :::
 
 ## Step by Step
 
 ### 1. Access the UniRadio platform
 
-Navegue até [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
+Navigate to [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
 
-### 2. Acesse as configurações da conta
+### 2. Access the account settings
 
-Clique no ícone de engrenagem no canto superior direito para acesssar as configurações da conta.
+Click the gear icon in the top-right corner to access the account settings.
 
-![Menu do usuário](/images/en/clients/pacs/pacs-settings/01-menu.jpeg)
+![User menu](/images/en/clients/pacs/pacs-settings/01-menu.jpeg)
 
-### 3. Clique em "Servidor PACS"
+### 3. Click "PACS Server"
 
-![Servidor PACS](/images/en/clients/pacs/pacs-settings/02-server-pacs.jpeg)
+![PACS Server](/images/en/clients/pacs/pacs-settings/02-server-pacs.jpeg)
 
-### 4. Copie as configurações para o seu equipamento
+### 4. Copy the settings to your equipment
 
-Utilize as informações exibidas (endereço do servidor, porta e AE Title) para configurar a integração no seu equipamento de imagem ou software de PACS.
+Use the displayed information (server address, port, and AE Title) to configure the integration on your imaging equipment or PACS software.
 
-![Configurações do Servidor PACS](/images/en/clients/pacs/pacs-settings/03-settings.jpeg)
+![PACS Server settings](/images/en/clients/pacs/pacs-settings/03-settings.jpeg)
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/faq) ou entre em contato com seu radiologista se encontrar problemas.
+Check our [FAQ](/en/faq) or contact your radiologist if you encounter any issues.

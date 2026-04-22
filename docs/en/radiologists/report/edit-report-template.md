@@ -1,6 +1,6 @@
-# How to Editar um Modelo de Laudo
+# How to Edit a Report Template
 
-Aprenda como acessar e modificar seus modelos de laudos na plataforma UniRadio, mantendo sua documentação sempre atualizada e precisa.
+Learn how to access and modify your report templates on the UniRadio platform, keeping your documentation always up to date and accurate.
 
 ## Step by Step
 
@@ -8,36 +8,36 @@ Aprenda como acessar e modificar seus modelos de laudos na plataforma UniRadio, 
 
 Sign in to your account and go to [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
 
-### 2. Abra o menu lateral
+### 2. Open the side menu
 
-Clique no ícone do menu lateral para expandir as opções de navegação.
+Click the side menu icon to expand the navigation options.
 
-![Menu lateral](/images/en/radiologists/report/edit-report-template/01-menu.jpeg)
+![Side menu](/images/en/radiologists/report/edit-report-template/01-menu.jpeg)
 
-### 3. Acesse "Modelos de Laudos"
+### 3. Go to "Report Templates"
 
-No menu lateral, clique em **"Modelos de Laudos"** para visualizar a lista de modelos cadastrados.
+In the side menu, click **"Report Templates"** to view the list of registered templates.
 
-![Modelos de Laudos](/images/en/radiologists/report/edit-report-template/02-templates-reports.jpeg)
+![Report Templates](/images/en/radiologists/report/edit-report-template/02-templates-reports.jpeg)
 
-### 4. Clique em "Editar"
+### 4. Click "Edit"
 
-Localize o modelo que deseja modificar e clique no botão **"Editar"**.
+Locate the template you want to modify and click the **"Edit"** button.
 
-![Editar modelo](/images/en/radiologists/report/edit-report-template/03-edit.jpeg)
+![Edit template](/images/en/radiologists/report/edit-report-template/03-edit.jpeg)
 
-### 5. Edite as informações desejadas
+### 5. Edit the desired information
 
-Atualize os campos que deseja alterar no formulário do modelo de laudo.
+Update the fields you want to change in the report template form.
 
-![Editar informações](/images/en/radiologists/report/edit-report-template/04-edit-info.jpeg)
+![Edit information](/images/en/radiologists/report/edit-report-template/04-edit-info.jpeg)
 
-### 6. Clique em "Salvar"
+### 6. Click "Save"
 
-Após realizar as alterações, clique em **"Salvar"** para confirmar as mudanças no modelo.
+After making the changes, click **"Save"** to confirm the template updates.
 
-![Salvar](/images/en/radiologists/report/edit-report-template/05-save.jpeg)
+![Save](/images/en/radiologists/report/edit-report-template/05-save.jpeg)
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/faq) ou entre em contato com o suporte se encontrar problemas ao editar modelos de laudos.
+Check our [FAQ](/en/faq) or contact support if you have trouble editing report templates.

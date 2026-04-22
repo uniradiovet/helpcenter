@@ -1,84 +1,84 @@
-# Preferências de notificações (Radiologista)
+# Notification preferences (Radiologist)
 
-Entenda o que cada notificação significa e como configurá-la na conta de radiologista.
+Understand what each notification means and how to configure it in the radiologist account.
 
-## Canais de notificação
+## Notification channels
 
-Cada evento possui dois controles independentes:
+Each event has two independent controls:
 
-- **Notificação** — Alerta exibido dentro do próprio sistema, no sino de notificações (canto superior da tela). Você precisa estar com o sistema aberto para visualizá-la.
-- **Email** — Mensagem enviada para o e-mail cadastrado no perfil do usuário. Útil para receber avisos mesmo quando o sistema estiver fechado.
+- **Notification** — Alert displayed within the system itself, in the notification bell (top corner of the screen). You need to have the system open to see it.
+- **Email** — Message sent to the email address registered in the user profile. Useful for receiving alerts even when the system is closed.
 
-Os dois canais podem ser ativados ou desativados individualmente para cada evento.
+Both channels can be individually enabled or disabled for each event.
 
 ---
 
-## Notificações para Radiologistas
+## Notifications for Radiologists
 
-Eventos disponíveis para usuários de contas do tipo radiologista:
+Events available for users of radiologist-type accounts:
 
-### Exame criado
+### Exam created
 
-Disparado quando uma clínica cliente envia um novo exame para laudar.
+Triggered when a client clinic submits a new exam for reporting.
 
-- **Notificação** — Exibe alerta no sino do sistema.
-- **Email** — Envia e-mail avisando sobre o novo exame.
+- **Notification** — Displays an alert in the system bell.
+- **Email** — Sends an email about the new exam.
 
 ::: tip TIP
-Recomenda-se manter ambos os canais ativos para não perder novos exames na fila de trabalho.
+It is recommended to keep both channels active so you don't miss new exams in the work queue.
 :::
 
 ---
 
-### Exames transferidos para mim
+### Exams transferred to me
 
-Disparado quando outro usuário da conta transfere um exame para a sua responsabilidade.
+Triggered when another account user transfers an exam to your responsibility.
 
-- **Notificação** — Exibe alerta no sino do sistema.
-- **Email** — Envia e-mail informando sobre a transferência.
-
----
-
-### Exame pendente atualizado
-
-Disparado quando uma clínica edita ou atualiza os dados de um exame que está com status pendente.
-
-- **Notificação** — Exibe alerta no sino do sistema.
-- **Email** — Envia e-mail com aviso da atualização.
+- **Notification** — Displays an alert in the system bell.
+- **Email** — Sends an email informing about the transfer.
 
 ---
 
-### Exame pendente 72h
+### Pending exam updated
 
-Alerta automático disparado quando um exame permanece com status pendente por mais de 72 horas sem movimentação.
+Triggered when a clinic edits or updates the data of an exam that has a pending status.
 
-- **Notificação** — Exibe alerta no sino do sistema.
-- **Email** — Envia e-mail de lembrete.
-
----
-
-### Exame rejeitado
-
-Disparado quando um exame é rejeitado.
-
-- **Notificação** — Exibe alerta no sino do sistema.
-- **Email** — Envia e-mail informando sobre a rejeição.
+- **Notification** — Displays an alert in the system bell.
+- **Email** — Sends an email with notice of the update.
 
 ---
 
-### Comentário criado
+### Exam pending 72h
 
-Disparado quando uma clínica adiciona um comentário em um exame.
+Automatic alert triggered when an exam remains in pending status for more than 72 hours without any activity.
 
-- **Notificação** — Exibe alerta no sino do sistema.
-- **Email** — Envia e-mail com o comentário recebido.
+- **Notification** — Displays an alert in the system bell.
+- **Email** — Sends a reminder email.
+
+---
+
+### Exam rejected
+
+Triggered when an exam is rejected.
+
+- **Notification** — Displays an alert in the system bell.
+- **Email** — Sends an email informing about the rejection.
+
+---
+
+### Comment created
+
+Triggered when a clinic adds a comment on an exam.
+
+- **Notification** — Displays an alert in the system bell.
+- **Email** — Sends an email with the received comment.
 
 ::: tip TIP
-Ative este canal para acompanhar solicitações ou dúvidas enviadas pela clínica durante o processo de laudagem.
+Enable this channel to keep track of requests or questions sent by the clinic during the reporting process.
 :::
 
 ---
 
-## Próximos Passos
+## Next Steps
 
-Se você quer ver as preferências de notificação para clínicas, consulte a versão correspondente em [docs/clients/campos-notificacoes.md](../clients/fields-notifications.md).
+If you want to see the notification preferences for clinics, refer to the corresponding version at [docs/clients/fields-notifications.md](../clients/fields-notifications.md).

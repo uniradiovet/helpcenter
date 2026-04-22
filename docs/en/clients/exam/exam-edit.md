@@ -1,37 +1,37 @@
-# How to Editar um Exame
+# How to Edit an Exam
 
-Aprenda editar os dados de um exame na plataforma UniRadio.
+Learn how to edit the details of an exam on the UniRadio platform.
 
 ## Step by Step
 
-### 1. Acesse a página de Exames
+### 1. Access the Exams page
 
-Navegue até [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
+Navigate to [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
 
-### 2. Selecione o exame
+### 2. Select the exam
 
-Clique sobre o exame que deseja editar na lista.
+Click on the exam you want to edit in the list.
 
-![Selecionar exame](/images/en/clients/exam/exam-edit/01-select-exam.jpeg)
+![Select exam](/images/en/clients/exam/exam-edit/01-select-exam.jpeg)
 
-### 3. Clique em "Editar"
+### 3. Click "Edit"
 
-![Botão Editar](/images/en/clients/exam/exam-edit/02-edit.jpeg)
+![Edit button](/images/en/clients/exam/exam-edit/02-edit.jpeg)
 
-### 4. Edite as informações desejadas
+### 4. Edit the desired information
 
-Altere os campos necessários no formulário.
+Change the necessary fields in the form.
 
-![Formulário de edição](/images/en/clients/exam/exam-edit/03-cranio.jpeg)
+![Edit form](/images/en/clients/exam/exam-edit/03-cranio.jpeg)
 
-### 5. Clique em "Salvar" para salvar as alterações
+### 5. Click "Save" to save the changes
 
 ![Submit](/images/en/clients/exam/exam-edit/04-submit.jpeg)
 
-## Descrição dos campos
+## Field Descriptions
 
-Para entender o significado de cada campo deste formulário, consulte [Campos da criação de exame](/en/clients/exam/exam-fields).
+To understand the meaning of each field in this form, see [Exam Creation Fields](/en/clients/exam/exam-fields).
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/faq) ou entre em contato com seu radiologista se encontrar problemas.
+Check our [FAQ](/en/faq) or contact your radiologist if you encounter any issues.

@@ -1,6 +1,6 @@
-# How to Criar e Enviar um Novo Exame
+# How to Create and Submit a New Exam
 
-Aprenda como cadastrar um novo exame na plataforma UniRadio, fazendo o upload dos arquivos e preenchendo as informações do paciente.
+Learn how to register a new exam in the UniRadio platform, uploading the files and filling in the patient information.
 
 ## Step by Step
 
@@ -8,38 +8,38 @@ Aprenda como cadastrar um novo exame na plataforma UniRadio, fazendo o upload do
 
 Sign in to your account and go to [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
 
-### 2. Clique em "Novo Exame"
+### 2. Click on "New Exam"
 
-![Botão Novo Exame](/images/en/radiologists/exam/exam-new/01-new-exam.jpeg)
+![New Exam button](/images/en/radiologists/exam/exam-new/01-new-exam.jpeg)
 
-### 3. Clique em "Upload de arquivos"
+### 3. Click on "Upload files"
 
-![Opção Upload de Arquivos](/images/en/radiologists/exam/exam-new/02-upload-files.jpeg)
+![Upload Files option](/images/en/radiologists/exam/exam-new/02-upload-files.jpeg)
 
-### 4. Clique em "Selecionar arquivos"
+### 4. Click on "Select files"
 
-Escolha as imagens do exame no seu computador.
+Choose the exam images from your computer.
 
-![Selecionar arquivos](/images/en/radiologists/exam/exam-new/03-select-files.jpeg)
+![Select files](/images/en/radiologists/exam/exam-new/03-select-files.jpeg)
 
-### 5. Clique em "Salvar e continuar"
+### 5. Click on "Save and continue"
 
-![Salvar e continuar](/images/en/radiologists/exam/exam-new/04-save-continue.jpeg)
+![Save and continue](/images/en/radiologists/exam/exam-new/04-save-continue.jpeg)
 
-### 6. Preencha as informações do exame
+### 6. Fill in the exam information
 
-Preencha todos os campos obrigatórios do formulário, como tipo de exame, regiões, dados do paciente, histórico clínico, etc.
+Fill in all required fields in the form, such as exam type, regions, patient data, clinical history, etc.
 
-![Formulário de informações do exame](/images/en/radiologists/exam/exam-new/05-info.jpeg)
+![Exam information form](/images/en/radiologists/exam/exam-new/05-info.jpeg)
 
-### 7. Clique em "Salvar" para enviar o exame
+### 7. Click "Save" to submit the exam
 
-![Salvar exame](/images/en/radiologists/exam/exam-new/06-save.jpeg)
+![Save exam](/images/en/radiologists/exam/exam-new/06-save.jpeg)
 
-## Descrição dos campos
+## Field descriptions
 
-Para entender o significado de cada campo deste formulário, consulte [Campos da criação de exame](/en/radiologists/exam/exam-fields).
+To understand the meaning of each field in this form, see [Exam creation fields](/en/radiologists/exam/exam-fields).
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/faq) ou entre em contato com o suporte se encontrar problemas ao criar um novo exame.
+Check our [FAQ](/en/faq) or contact support if you encounter any issues when creating a new exam.

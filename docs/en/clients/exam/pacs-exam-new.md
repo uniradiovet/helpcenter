@@ -1,43 +1,43 @@
-# How to Enviar um Novo Exame via Servidor PACS
+# How to Submit a New Exam via PACS Server
 
-Aprenda como enviar um novo exame para a plataforma UniRadio utilizando a integração com o servidor PACS. Este guia orienta desde o acesso à plataforma até a finalização do envio.
+Learn how to submit a new exam to the UniRadio platform using the PACS server integration. This guide walks you through from accessing the platform to completing the submission.
 
 ## Step by Step
 
-### 1. Acesse a página de Exames
+### 1. Access the Exams page
 
-Navegue até [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
+Navigate to [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
 
-### 2. Clique em "Novo Exame"
+### 2. Click "New Exam"
 
-![Novo Exame](/images/en/clients/exam/pacs-exam-new/01-new-exam.jpeg)
+![New Exam](/images/en/clients/exam/pacs-exam-new/01-new-exam.jpeg)
 
-### 3. Selecione "Servidor PACS"
+### 3. Select "PACS Server"
 
-Na tela de criação do exame, escolha a opção "Servidor PACS" como método de envio.
+On the exam creation screen, choose the "PACS Server" option as the submission method.
 
-![Servidor PACS](/images/en/clients/exam/pacs-exam-new/02-server-pacs.jpeg)
+![PACS Server](/images/en/clients/exam/pacs-exam-new/02-server-pacs.jpeg)
 
-### 4. Clique em "Escolher"
+### 4. Click "Choose"
 
-Selecione o exame disponível no servidor PACS clicando em "Escolher".
+Select the exam available on the PACS server by clicking "Choose".
 
-![Escolher exame do PACS](/images/en/clients/exam/pacs-exam-new/03-escolher.jpeg)
+![Choose exam from PACS](/images/en/clients/exam/pacs-exam-new/03-escolher.jpeg)
 
-### 5. Preencha os campos do formulário
+### 5. Fill in the form fields
 
-Complete as informações obrigatórias do exame, como tipo do exame, regiões anatômicas, dados do paciente e histórico clínico.
+Complete the required exam information, such as exam type, anatomical regions, patient data, and clinical history.
 
-![Preencher campos](/images/en/clients/exam/pacs-exam-new/04-fill-fields.jpeg)
+![Fill in fields](/images/en/clients/exam/pacs-exam-new/04-fill-fields.jpeg)
 
-### 6. Clique em "Salvar" para enviar o exame
+### 6. Click "Save" to submit the exam
 
 ![Submit](/images/en/clients/exam/pacs-exam-new/05-submit.jpeg)
 
-## Descrição dos campos
+## Field Descriptions
 
-Para entender o significado de cada campo deste formulário, consulte [Campos da criação de exame](/en/clients/exam/exam-fields).
+To understand the meaning of each field in this form, see [Exam Creation Fields](/en/clients/exam/exam-fields).
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/faq) ou entre em contato com seu radiologista se encontrar problemas.
+Check our [FAQ](/en/faq) or contact your radiologist if you encounter any issues.

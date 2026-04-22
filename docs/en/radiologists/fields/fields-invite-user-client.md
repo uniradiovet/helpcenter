@@ -1,59 +1,59 @@
-# Convidar usuário para a conta
+# Invite user to account
 
-Entenda o que cada campo do formulário de convite significa.
-
----
-
-## **Nome completo**
-
-**Nome completo** *(obrigatório)*: Digite o nome completo do usuário que será convidado.
+Understand what each field in the invitation form means.
 
 ---
 
-## **E-mail**
+## **Full name**
 
-**E-mail** *(obrigatório)*: Informe o endereço de e-mail do usuário. O convite será enviado para este endereço, com um link para que o usuário acesse e defina sua senha.
-
----
-
-## **Perfil**
-
-**Perfil** *(obrigatório)*: Define o nível de acesso do usuário convidado na conta. As opções disponíveis são:
-
-### Administrativo
-
-Tem acesso completo e irrestrito ao sistema. Indicado para gestores ou responsáveis pela conta.
-
-### Membro
-
-Tem acesso a todos os exames e laudos da conta. Ao selecionar esta opção, é possível configurar permissões individuais para restringir ou ampliar o acesso.
+**Full name** *(required)*: Enter the full name of the user to be invited.
 
 ---
 
-## **Permissões do membro**
+## **Email**
 
-Exibido apenas quando o perfil **Membro** é selecionado. Permite configurar individualmente o que o usuário poderá fazer na conta.
+**Email** *(required)*: Enter the user's email address. The invitation will be sent to this address, with a link for the user to access and set their password.
 
-| Permissão | Descrição | Padrão |
+---
+
+## **Profile**
+
+**Profile** *(required)*: Defines the access level of the invited user in the account. The available options are:
+
+### Administrative
+
+Has complete and unrestricted access to the system. Recommended for managers or those responsible for the account.
+
+### Member
+
+Has access to all exams and reports in the account. When selecting this option, individual permissions can be configured to restrict or expand access.
+
+---
+
+## **Member permissions**
+
+Displayed only when the **Member** profile is selected. Allows configuring individually what the user will be able to do in the account.
+
+| Permission | Description | Default |
 |---|---|---|
-| **Permitir enviar/editar exames** | O usuário pode criar, editar e enviar exames. | Ativado |
-| **Gerenciar usuários** | O usuário pode convidar, editar e desativar outros usuários da conta. | Desativado |
-| **Ver relatórios próprios** | O usuário pode visualizar os relatórios analíticos de sua própria atividade. | Ativado |
+| **Allow submitting/editing exams** | The user can create, edit, and submit exams. | Enabled |
+| **Manage users** | The user can invite, edit, and deactivate other account users. | Disabled |
+| **View own reports** | The user can view analytical reports of their own activity. | Enabled |
 
 ::: tip TIP
-Recomenda-se habilitar apenas as permissões necessárias para a função do usuário convidado, seguindo o princípio do menor privilégio.
+It is recommended to enable only the permissions necessary for the invited user's role, following the principle of least privilege.
 :::
 
 ---
 
-## **Pular envio de e-mail de convite**
+## **Skip invitation email**
 
-Se a opção **"Pular envio de e-mail de convite"** for marcada, o usuário convidado **não receberá nenhuma notificação** por e-mail e será ativado automaticamente.
+If the **"Skip invitation email"** option is checked, the invited user **will not receive any notification** by email and will be activated automatically.
 
 ---
 
-## **Ações**
+## **Actions**
 
-**Convidar**: Salva o convite e, se a opção de pular o e-mail não estiver marcada, envia o e-mail de convite ao usuário.
+**Invite**: Saves the invitation and, if the skip email option is not checked, sends the invitation email to the user.
 
-**Cancelar**: Descarta o formulário e retorna à lista de usuários sem criar o convite.
+**Cancel**: Discards the form and returns to the user list without creating the invitation.

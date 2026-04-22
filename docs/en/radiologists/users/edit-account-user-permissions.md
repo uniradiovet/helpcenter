@@ -1,6 +1,6 @@
-# How to Editar as Permissões de um Usuário da Conta
+# How to Edit Account User Permissions
 
-Aprenda como atualizar a função e as permissões de acesso de um usuário da sua conta na plataforma UniRadio.
+Learn how to update the role and access permissions of a user in your account on the UniRadio platform.
 
 ## Step by Step
 
@@ -8,48 +8,48 @@ Aprenda como atualizar a função e as permissões de acesso de um usuário da s
 
 Sign in to your account and go to [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
 
-### 2. Acesse o menu de configurações
+### 2. Open the settings menu
 
-No menu lateral, clique no ícone de configurações para abrir as opções da conta.
+In the side menu, click the settings icon to open the account options.
 
-![Menu de configurações](/images/en/radiologists/users/edit-account-user-permissions/01-menu.jpeg)
+![Settings menu](/images/en/radiologists/users/edit-account-user-permissions/01-menu.jpeg)
 
-### 3. Clique em "Usuários"
+### 3. Click "Users"
 
-No menu de configurações, clique em **"Usuários"** para visualizar os membros da sua conta.
+In the settings menu, click **"Users"** to view the members of your account.
 
-![Usuários](/images/en/radiologists/users/edit-account-user-permissions/02-users.jpeg)
+![Users](/images/en/radiologists/users/edit-account-user-permissions/02-users.jpeg)
 
-### 4. Selecione o usuário
+### 4. Select the user
 
-Clique sobre o nome do usuário cujas permissões deseja editar.
+Click the name of the user whose permissions you want to edit.
 
-![Selecionar usuário](/images/en/radiologists/users/edit-account-user-permissions/03-select-user.jpeg)
+![Select user](/images/en/radiologists/users/edit-account-user-permissions/03-select-user.jpeg)
 
-### 5. Clique em "Permissões"
+### 5. Click "Permissions"
 
-Na página do usuário, clique na aba **"Permissões"** para acessar as configurações de acesso.
+On the user's page, click the **"Permissions"** tab to access the access settings.
 
-![Permissões](/images/en/radiologists/users/edit-account-user-permissions/04-permissions.jpeg)
+![Permissions](/images/en/radiologists/users/edit-account-user-permissions/04-permissions.jpeg)
 
-### 6. Selecione a função do usuário
+### 6. Select the user role
 
-Escolha a função do usuário na conta: **Administrador** (acesso completo) ou **Membro** (acesso configurável).
+Choose the user's role in the account: **Administrator** (full access) or **Member** (configurable access).
 
-![Função do usuário](/images/en/radiologists/users/edit-account-user-permissions/05-role-user.jpeg)
+![User role](/images/en/radiologists/users/edit-account-user-permissions/05-role-user.jpeg)
 
-### 7. Configure as permissões (se for Membro)
+### 7. Configure permissions (if Member)
 
-Caso a função selecionada seja **Membro**, defina as permissões específicas que o usuário deve ter dentro da conta.
+If the selected role is **Member**, define the specific permissions the user should have within the account.
 
-![Permissões do membro](/images/en/radiologists/users/edit-account-user-permissions/06-permissions-membro.jpeg)
+![Member permissions](/images/en/radiologists/users/edit-account-user-permissions/06-permissions-membro.jpeg)
 
-### 8. Clique em "Salvar"
+### 8. Click "Save"
 
-Após configurar as permissões, clique em **"Salvar"** para confirmar as alterações.
+After configuring the permissions, click **"Save"** to confirm the changes.
 
-![Salvar](/images/en/radiologists/users/edit-account-user-permissions/07-save.jpeg)
+![Save](/images/en/radiologists/users/edit-account-user-permissions/07-save.jpeg)
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/faq) ou entre em contato com o suporte se encontrar problemas ao editar permissões de usuários.
+Check our [FAQ](/en/faq) or contact support if you have trouble editing user permissions.

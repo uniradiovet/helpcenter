@@ -1,6 +1,6 @@
-# How to Editar um Usuário da Conta de um Cliente
+# How to Edit a Client Account User
 
-Aprenda como atualizar as informações e permissões de um usuário vinculado à conta de um cliente na plataforma UniRadio.
+Learn how to update the information and permissions of a user linked to a client account on the UniRadio platform.
 
 ## Step by Step
 
@@ -8,42 +8,42 @@ Aprenda como atualizar as informações e permissões de um usuário vinculado �
 
 Sign in to your account and go to [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
 
-### 2. Acesse "Clientes"
+### 2. Access "Clients"
 
-No menu lateral, clique em **"Clientes"** para visualizar a lista de clientes cadastrados.
+In the side menu, click on **"Clients"** to view the list of registered clients.
 
-![Clientes](/images/en/radiologists/client-users/edit-user/01-clients.jpeg)
+![Clients](/images/en/radiologists/client-users/edit-user/01-clients.jpeg)
 
-### 3. Selecione a clínica
+### 3. Select the clinic
 
-Clique sobre a clínica para abrir a página de gerenciamento.
+Click on the clinic to open its management page.
 
-![Selecionar clínica](/images/en/radiologists/client-users/edit-user/02-select-clinic.jpeg)
+![Select clinic](/images/en/radiologists/client-users/edit-user/02-select-clinic.jpeg)
 
-### 4. Acesse "Usuários da Conta"
+### 4. Access "Account Users"
 
-Dentro do perfil do cliente, clique em **"Usuários da Conta"** para visualizar os usuários vinculados a ele.
+Inside the client profile, click on **"Account Users"** to view the users linked to it.
 
-![Usuários da Conta](/images/en/radiologists/client-users/edit-user/03-users-account.jpeg)
+![Account Users](/images/en/radiologists/client-users/edit-user/03-users-account.jpeg)
 
-### 5. Selecione o usuário
+### 5. Select the user
 
-Clique sobre o nome do usuário que deseja editar.
+Click on the name of the user you want to edit.
 
-![Selecionar usuário](/images/en/radiologists/client-users/edit-user/04-select-user.jpeg)
+![Select user](/images/en/radiologists/client-users/edit-user/04-select-user.jpeg)
 
-### 6. Atualize as informações
+### 6. Update the information
 
-Edite os campos desejados, como nome, função ou permissões do usuário.
+Edit the desired fields, such as the user's name, role, or permissions.
 
-![Atualizar informações](/images/en/radiologists/client-users/edit-user/05-update-info.jpeg)
+![Update information](/images/en/radiologists/client-users/edit-user/05-update-info.jpeg)
 
-### 7. Clique em "Salvar"
+### 7. Click "Save"
 
-Após realizar as alterações, clique em **"Salvar"** para confirmar as mudanças.
+After making the changes, click **"Save"** to confirm them.
 
-![Salvar](/images/en/radiologists/client-users/edit-user/06-save.jpeg)
+![Save](/images/en/radiologists/client-users/edit-user/06-save.jpeg)
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/faq) ou entre em contato com o suporte se encontrar problemas ao editar usuários.
+Check our [FAQ](/en/faq) or contact support if you encounter any issues editing users.

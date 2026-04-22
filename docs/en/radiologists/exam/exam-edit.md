@@ -1,6 +1,6 @@
-# How to Editar um Exame
+# How to Edit an Exam
 
-Aprenda como atualizar e modificar os dados de um exame existente na plataforma UniRadio.
+Learn how to update and modify the data of an existing exam in the UniRadio platform.
 
 ## Step by Step
 
@@ -8,30 +8,30 @@ Aprenda como atualizar e modificar os dados de um exame existente na plataforma 
 
 Sign in to your account and go to [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
 
-### 2. Selecione o exame desejado
+### 2. Select the desired exam
 
-Na lista de exames, clique sobre o exame que deseja editar.
+In the exam list, click on the exam you want to edit.
 
-![Selecionar exame](/images/en/radiologists/exam/exam-edit/01-select-exam.jpeg)
+![Select exam](/images/en/radiologists/exam/exam-edit/01-select-exam.jpeg)
 
-### 3. Clique em "Editar Exame"
+### 3. Click "Edit Exam"
 
-![Editar exame](/images/en/radiologists/exam/exam-edit/02-edit-exam.jpeg)
+![Edit exam](/images/en/radiologists/exam/exam-edit/02-edit-exam.jpeg)
 
-### 4. Edite os campos desejados
+### 4. Edit the desired fields
 
-Atualize as informações que precisam ser corrigidas ou complementadas, como tipo de exame, regiões, dados do paciente ou histórico clínico.
+Update the information that needs to be corrected or supplemented, such as exam type, regions, patient data, or clinical history.
 
-![Editar campos](/images/en/radiologists/exam/exam-edit/03-edit-fields.jpeg)
+![Edit fields](/images/en/radiologists/exam/exam-edit/03-edit-fields.jpeg)
 
-### 5. Clique em "Salvar" para confirmar as alterações
+### 5. Click "Save" to confirm the changes
 
-![Salvar](/images/en/radiologists/exam/exam-edit/04-save.jpeg)
+![Save](/images/en/radiologists/exam/exam-edit/04-save.jpeg)
 
-## Descrição dos campos
+## Field descriptions
 
-Para entender o significado de cada campo deste formulário, consulte [Campos da criação de exame](/en/radiologists/exam/exam-fields).
+To understand the meaning of each field in this form, see [Exam creation fields](/en/radiologists/exam/exam-fields).
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/faq) ou entre em contato com o suporte se encontrar problemas ao editar um exame.
+Check our [FAQ](/en/faq) or contact support if you encounter any issues when editing an exam.

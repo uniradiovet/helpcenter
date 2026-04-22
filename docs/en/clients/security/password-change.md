@@ -1,33 +1,33 @@
-# How to Alterar Minha Senha
+# How to Change My Password
 
-Aprenda como atualizar a senha da sua conta na plataforma UniRadio.
+Learn how to update your account password on the UniRadio platform.
 
 ## Step by Step
 
 ### 1. Access the UniRadio platform
 
-Navegue até [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
+Navigate to [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
 
-### 2. Acesse o menu do usuário
+### 2. Open the user menu
 
-Clique no seu nome ou ícone de usuário no canto superior direito para abrir o menu do usuário.
+Click on your name or user icon in the top-right corner to open the user menu.
 
-![Menu do usuário](/images/en/clients/security/password-change/01-menu-user.jpeg)
+![User menu](/images/en/clients/security/password-change/01-menu-user.jpeg)
 
-### 3. Clique em "Alterar Senha"
+### 3. Click "Change Password"
 
-![Alterar Senha](/images/en/clients/security/password-change/02-change-password.jpeg)
+![Change Password](/images/en/clients/security/password-change/02-change-password.jpeg)
 
-### 4. Preencha o formulário
+### 4. Fill in the form
 
-Informe a nova senha e a confirmação de senha.
+Enter the new password and the password confirmation.
 
-![Formulário de alteração de senha](/images/en/clients/security/password-change/03-formulario.jpeg)
+![Password change form](/images/en/clients/security/password-change/03-formulario.jpeg)
 
-### 5. Clique em "Salvar" para confirmar
+### 5. Click "Save" to confirm
 
-![Salvar nova senha](/images/en/clients/security/password-change/04-submit.jpeg)
+![Save new password](/images/en/clients/security/password-change/04-submit.jpeg)
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/faq) ou entre em contato com seu radiologista se encontrar problemas.
+Check our [FAQ](/en/faq) or contact your radiologist if you encounter any issues.

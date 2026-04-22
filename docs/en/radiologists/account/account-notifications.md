@@ -1,6 +1,6 @@
-# How to Configurar as Notificações da Conta
+# How to Configure Account Notifications
 
-Aprenda como acessar e ajustar as preferências de notificação da sua conta na plataforma UniRadio.
+Learn how to access and adjust the notification preferences for your account on the UniRadio platform.
 
 ## Step by Step
 
@@ -8,34 +8,34 @@ Aprenda como acessar e ajustar as preferências de notificação da sua conta na
 
 Sign in to your account and go to [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
 
-### 2. Acesse o menu de configurações
+### 2. Access the settings menu
 
-No menu lateral, clique no ícone de configurações para abrir as opções da conta.
+In the side menu, click the settings icon to open the account options.
 
-![Menu de configurações](/images/en/radiologists/account/account-notifications/01-menu.jpeg)
+![Settings menu](/images/en/radiologists/account/account-notifications/01-menu.jpeg)
 
-### 3. Clique em "Notificações"
+### 3. Click on "Notifications"
 
-No menu de configurações, clique em **"Notificações"** para acessar as preferências de alertas da conta.
+In the settings menu, click on **"Notifications"** to access the account alert preferences.
 
-![Notificações](/images/en/radiologists/account/account-notifications/02-notifications.jpeg)
+![Notifications](/images/en/radiologists/account/account-notifications/02-notifications.jpeg)
 
-### 4. Selecione as preferências de notificação
+### 4. Select your notification preferences
 
-Marque ou desmarque as opções conforme desejado, como alertas de novos exames e transferências recebidas.
+Check or uncheck the options as desired, such as alerts for new exams and received transfers.
 
-![Preferências de notificação](/images/en/radiologists/account/account-notifications/03-preferencias-notificacao.jpeg)
+![Notification preferences](/images/en/radiologists/account/account-notifications/03-preferencias-notificacao.jpeg)
 
-### 5. Clique em "Salvar"
+### 5. Click "Save"
 
-Após ajustar as configurações, clique em **"Salvar"** para confirmar as alterações.
+After adjusting the settings, click **"Save"** to confirm the changes.
 
-![Salvar](/images/en/radiologists/account/account-notifications/04-save.jpeg)
+![Save](/images/en/radiologists/account/account-notifications/04-save.jpeg)
 
-## Descrição dos campos
+## Field descriptions
 
-Para entender o significado de cada opção de notificação, consulte [Preferências de notificações (Radiologista)](/en/radiologists/fields/fields-notifications).
+To understand the meaning of each notification option, see [Notification preferences (Radiologist)](/en/radiologists/fields/fields-notifications).
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/faq) ou entre em contato com o suporte se encontrar problemas ao configurar as notificações da conta.
+Check our [FAQ](/en/faq) or contact support if you encounter any issues configuring your account notifications.

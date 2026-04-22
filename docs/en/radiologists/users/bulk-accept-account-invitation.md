@@ -1,6 +1,6 @@
-# How to Aceitar Convites de Usuários da Conta em Massa
+# How to Bulk Accept Account User Invitations
 
-Aprenda como aceitar convites pendentes de múltiplos usuários da sua própria conta na plataforma UniRadio.
+Learn how to accept pending invitations for multiple users in your own account on the UniRadio platform.
 
 ## Step by Step
 
@@ -8,42 +8,42 @@ Aprenda como aceitar convites pendentes de múltiplos usuários da sua própria 
 
 Sign in to your account and go to [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
 
-### 2. Acesse o menu de configurações
+### 2. Open the settings menu
 
-No menu lateral, clique no ícone de configurações para abrir as opções da conta.
+In the side menu, click the settings icon to open the account options.
 
-![Menu de configurações](/images/en/radiologists/users/bulk-accept-account-invitation/01-menu.jpeg)
+![Settings menu](/images/en/radiologists/users/bulk-accept-account-invitation/01-menu.jpeg)
 
-### 3. Acesse os usuários da conta
+### 3. Access the account users
 
-Clique em **"Usuários"** para visualizar os usuários cadastrados na sua conta.
+Click **"Users"** to view the users registered in your account.
 
-![Usuários](/images/en/radiologists/users/bulk-accept-account-invitation/02-users.jpeg)
+![Users](/images/en/radiologists/users/bulk-accept-account-invitation/02-users.jpeg)
 
-### 4. Selecione os usuários desejados
+### 4. Select the desired users
 
-Marque as caixas de seleção dos usuários cujos convites deseja aceitar.
+Check the selection boxes of the users whose invitations you want to accept.
 
-![Selecionar usuários](/images/en/radiologists/users/bulk-accept-account-invitation/03-select-users.jpeg)
+![Select users](/images/en/radiologists/users/bulk-accept-account-invitation/03-select-users.jpeg)
 
-### 5. Clique no dropdown de ações
+### 5. Click the actions dropdown
 
-Com os usuários selecionados, clique no menu suspenso de ações em massa.
+With the users selected, click the bulk actions dropdown menu.
 
-![Dropdown de ações](/images/en/radiologists/users/bulk-accept-account-invitation/04-dropdown.jpeg)
+![Actions dropdown](/images/en/radiologists/users/bulk-accept-account-invitation/04-dropdown.jpeg)
 
-### 6. Selecione "Aceitar Convite Selecionados"
+### 6. Select "Accept Selected Invitations"
 
-No menu, escolha a opção **"Aceitar Convite Selecionados"**.
+In the menu, choose the **"Accept Selected Invitations"** option.
 
-![Aceitar convite](/images/en/radiologists/users/bulk-accept-account-invitation/05-accept-invite.jpeg)
+![Accept invitation](/images/en/radiologists/users/bulk-accept-account-invitation/05-accept-invite.jpeg)
 
-### 7. Clique em "Executar Ação"
+### 7. Click "Execute Action"
 
-Confirme a operação clicando em **"Executar Ação"** para aceitar os convites dos usuários selecionados.
+Confirm the operation by clicking **"Execute Action"** to accept the invitations for the selected users.
 
-![Executar ação](/images/en/radiologists/users/bulk-accept-account-invitation/05-executar-acao.jpeg)
+![Execute action](/images/en/radiologists/users/bulk-accept-account-invitation/05-executar-acao.jpeg)
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/faq) ou entre em contato com o suporte se encontrar problemas ao aceitar convites em massa.
+Check our [FAQ](/en/faq) or contact support if you have trouble bulk accepting invitations.

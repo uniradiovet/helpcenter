@@ -1,6 +1,6 @@
-# How to Acessar o Painel Analítico
+# How to Access the Analytics Dashboard
 
-Aprenda como acessar o painel da plataforma UniRadio para acompanhar as métricas de desempenho da sua clínica, como laudos emitidos, tempo de resposta, NPS e avaliações.
+Learn how to access the UniRadio platform dashboard to track your practice's performance metrics, such as reports issued, response time, NPS, and ratings.
 
 ## Step by Step
 
@@ -8,42 +8,42 @@ Aprenda como acessar o painel da plataforma UniRadio para acompanhar as métrica
 
 Sign in to your account and go to [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
 
-### 2. Clique em "Painel"
+### 2. Click "Dashboard"
 
-No menu lateral, clique em **"Painel"** para acessar o dashboard analítico da sua conta.
+In the side menu, click **"Dashboard"** to access the analytics dashboard for your account.
 
-![Painel](/images/en/radiologists/report/dashboard/01-painel.jpeg)
+![Dashboard](/images/en/radiologists/report/dashboard/01-painel.jpeg)
 
-### 3. Tempo médio de emissão de laudos
+### 3. Average report turnaround time
 
-Exibe o tempo médio que a sua equipe leva para emitir um laudo a partir do momento em que o exame é recebido. Esse indicador ajuda a monitorar a agilidade no atendimento.
+Displays the average time your team takes to issue a report from the moment the exam is received. This indicator helps monitor responsiveness.
 
-![Tempo médio de emissão](/images/en/radiologists/report/dashboard/02-tempo-medio.jpeg)
+![Average turnaround time](/images/en/radiologists/report/dashboard/02-tempo-medio.jpeg)
 
-### 4. Total de laudos emitidos no mês
+### 4. Total reports issued this month
 
-Apresenta o número total de laudos emitidos no mês corrente, permitindo acompanhar o volume de produção da equipe ao longo do período.
+Shows the total number of reports issued in the current month, allowing you to track the team's production volume over the period.
 
-![Total de laudos no mês](/images/en/radiologists/report/dashboard/03-total-reports.jpeg)
+![Total reports this month](/images/en/radiologists/report/dashboard/03-total-reports.jpeg)
 
-### 5. Exames recebidos por horário
+### 5. Exams received by time of day
 
-Mostra a distribuição dos exames recebidos ao longo do dia, identificando os horários de maior e menor volume. Útil para planejar a escalas de trabalho da equipe.
+Shows the distribution of exams received throughout the day, identifying peak and low-volume hours. Useful for planning team work schedules.
 
-![Exames por horário](/images/en/radiologists/report/dashboard/04-exams-por-horario.jpeg)
+![Exams by time of day](/images/en/radiologists/report/dashboard/04-exams-por-horario.jpeg)
 
 ### 6. NPS (Net Promoter Score)
 
-Exibe a pontuação NPS coletada a partir das avaliações dos clientes. O NPS mede o grau de satisfação e a probabilidade de recomendação da sua clínica, sendo um indicador estratégico de qualidade do serviço.
+Displays the NPS score collected from client ratings. NPS measures the level of satisfaction and the likelihood of your practice being recommended, serving as a strategic quality indicator.
 
 ![NPS](/images/en/radiologists/report/dashboard/05-nps.jpeg)
 
-### 7. Avaliação dos Laudos
+### 7. Report Ratings
 
-Apresenta as avaliações feitas pelos clientes sobre os laudos emitidos. Permite identificar pontos de melhoria na qualidade dos laudos com base no feedback direto dos clientes.
+Shows ratings submitted by clients on the issued reports. Allows you to identify areas for improvement in report quality based on direct client feedback.
 
-![Avaliação dos Laudos](/images/en/radiologists/report/dashboard/06-avaliacao-reports.jpeg)
+![Report Ratings](/images/en/radiologists/report/dashboard/06-avaliacao-reports.jpeg)
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/faq) ou entre em contato com o suporte se encontrar problemas ao acessar o painel analítico.
+Check our [FAQ](/en/faq) or contact support if you have trouble accessing the analytics dashboard.

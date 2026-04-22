@@ -1,38 +1,38 @@
-# How to Configurar as Notificações da Conta
+# How to Configure Account Notifications
 
-Aprenda como gerenciar suas preferências de notificação na plataforma UniRadio. Este guia explica como personalizar os alertas de laudos e rejeições de exames para receber atualizações por e-mail.
+Learn how to manage your notification preferences on the UniRadio platform. This guide explains how to customize report alerts and exam rejection notifications to receive updates by email.
 
 ## Step by Step
 
-::: tip Notificação dos usuários da conta
-Para ativar as notificações dos usuários da conta siga esse tutorial
-[Notificação dos usuários](/en/clients/users/users-notifications)
+::: tip Account user notifications
+To enable notifications for account users, follow this tutorial:
+[User notifications](/en/clients/users/users-notifications)
 :::
 
 ### 1. Access the UniRadio platform
 
-Navegue até [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
+Navigate to [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
 
-### 2. Acesse as configurações da conta
+### 2. Access the account settings
 
-Clique no ícone de engrenagem no canto superior direito para acessar as configurações da conta.
+Click the gear icon in the top-right corner to access the account settings.
 
-![Menu do usuário](/images/en/clients/settings/notifications/01-menu.jpeg)
+![User menu](/images/en/clients/settings/notifications/01-menu.jpeg)
 
-### 3. Clique em "Notificações"
+### 3. Click "Notifications"
 
-![Notificações](/images/en/clients/settings/notifications/02-notifications.jpeg)
+![Notifications](/images/en/clients/settings/notifications/02-notifications.jpeg)
 
-### 4. Selecione suas preferências de notificação
+### 4. Select your notification preferences
 
-Marque ou desmarque as opções de notificação conforme desejado, como alertas de novos laudos e rejeições de exames.
+Check or uncheck the notification options as desired, such as alerts for new reports and exam rejections.
 
-![Preferências de notificação](/images/en/clients/settings/notifications/03-preferencias.jpeg)
+![Notification preferences](/images/en/clients/settings/notifications/03-preferencias.jpeg)
 
-### 5. Clique em "Salvar"
+### 5. Click "Save"
 
-![Salvar preferências](/images/en/clients/settings/notifications/04-save.jpeg)
+![Save preferences](/images/en/clients/settings/notifications/04-save.jpeg)
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/faq) ou entre em contato com seu radiologista se encontrar problemas.
+Check our [FAQ](/en/faq) or contact your radiologist if you encounter any issues.

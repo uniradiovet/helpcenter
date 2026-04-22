@@ -1,6 +1,6 @@
-# How to Criar um Exame via Servidor PACS
+# How to Create an Exam via PACS Server
 
-Aprenda como criar e enviar um novo exame na plataforma UniRadio utilizando o servidor PACS para sincronizar os arquivos de imagem.
+Learn how to create and submit a new exam in the UniRadio platform using the PACS server to synchronize image files.
 
 ## Step by Step
 
@@ -8,40 +8,40 @@ Aprenda como criar e enviar um novo exame na plataforma UniRadio utilizando o se
 
 Sign in to your account and go to [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
 
-### 2. Clique em "Novo Exame"
+### 2. Click on "New Exam"
 
-![Novo Exame](/images/en/radiologists/exam/pacs-exam-new/01-new-exam.jpeg)
+![New Exam](/images/en/radiologists/exam/pacs-exam-new/01-new-exam.jpeg)
 
-### 3. Clique em "Servidor PACS"
+### 3. Click on "PACS Server"
 
-Selecione a opção de envio via servidor PACS.
+Select the submission option via PACS server.
 
-![Servidor PACS](/images/en/radiologists/exam/pacs-exam-new/02-server-pacs.jpeg)
+![PACS Server](/images/en/radiologists/exam/pacs-exam-new/02-server-pacs.jpeg)
 
-### 4. Clique em "Escolher"
+### 4. Click on "Choose"
 
-Selecione o exame disponível no servidor PACS que deseja importar.
+Select the exam available on the PACS server that you want to import.
 
-![Escolher exame PACS](/images/en/radiologists/exam/pacs-exam-new/03-escolher.jpeg)
+![Choose PACS exam](/images/en/radiologists/exam/pacs-exam-new/03-escolher.jpeg)
 
-### 5. Preencha as informações do exame
+### 5. Fill in the exam information
 
-Preencha todos os campos obrigatórios do formulário, como tipo de exame, regiões, dados do paciente e histórico clínico.
+Fill in all required fields in the form, such as exam type, regions, patient data, and clinical history.
 
-![Informações do exame](/images/en/radiologists/exam/pacs-exam-new/04-info.jpeg)
+![Exam information](/images/en/radiologists/exam/pacs-exam-new/04-info.jpeg)
 
-### 6. Clique em "Salvar" para enviar o exame
+### 6. Click "Save" to submit the exam
 
-![Salvar](/images/en/radiologists/exam/pacs-exam-new/05-save.jpeg)
+![Save](/images/en/radiologists/exam/pacs-exam-new/05-save.jpeg)
 
-:::tip Dica
-Após salvar, o exame será criado como rascunho. Abra-o em uma nova aba para acompanhar o progresso da sincronização com o servidor PACS.
+:::tip Tip
+After saving, the exam will be created as a draft. Open it in a new tab to monitor the synchronization progress with the PACS server.
 :::
 
-## Descrição dos campos
+## Field descriptions
 
-Para entender o significado de cada campo deste formulário, consulte [Campos da criação de exame](/en/radiologists/exam/exam-fields).
+To understand the meaning of each field in this form, see [Exam creation fields](/en/radiologists/exam/exam-fields).
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/faq) ou entre em contato com o suporte se encontrar problemas ao criar um exame via PACS.
+Check our [FAQ](/en/faq) or contact support if you encounter any issues when creating an exam via PACS.

@@ -1,167 +1,167 @@
-# Campos do Laudo
+# Report Fields
 
-Entenda o que cada campo na tela de laudo significa.
-
----
-
-## **Laudo do exame**
-
-**Laudo** *(campo principal)*: Editor de texto completo onde o radiologista redige o laudo do exame. Suporta formatação rica (negrito, itálico, tabelas, imagens etc.).
-
-**Usar modelo**: Botão para selecionar um modelo de laudo pré-cadastrado e utilizá-lo como ponto de partida para a redação.
-
-### Upload de PDF
-
-**Upload de PDF do laudo**: Área para anexar um arquivo PDF do laudo, caso o laudo seja gerado externamente (ex.: outro sistema). Substitui ou complementa o laudo redigido no editor.
+Understand what each field on the report screen means.
 
 ---
 
-## **Responsável pelo laudo**
+## **Exam report**
 
-**Responsável pelo laudo**: Selecione o membro da equipe (radiologista) responsável por elaborar o laudo deste exame.
+**Report** *(main field)*: Full-featured text editor where the radiologist writes the exam report. Supports rich formatting (bold, italic, tables, images, etc.).
+
+**Use template**: Button to select a pre-registered report template and use it as a starting point for writing.
+
+### PDF upload
+
+**Report PDF upload**: Area for attaching a PDF file of the report, in case the report is generated externally (e.g., another system). Replaces or supplements the report written in the editor.
+
+---
+
+## **Report responsible**
+
+**Report responsible**: Select the team member (radiologist) responsible for preparing the report for this exam.
 
 ::: warning ATTENTION
-Disponível apenas para contas do tipo radiologista com permissão de edição de exame.
+Available only for radiologist-type accounts with exam editing permission.
 :::
 
-**Revisado por**: Selecione o membro da equipe responsável pela revisão do laudo, caso aplicável.
+**Reviewed by**: Select the team member responsible for reviewing the report, if applicable.
 
 ---
 
-## **Configurações do laudo**
+## **Report settings**
 
-**Qtd. de regiões**: Informe a quantidade de regiões anatômicas avaliadas no laudo (de 1 a 10). Utilizado para controle e cobrança.
+**Number of regions**: Enter the number of anatomical regions evaluated in the report (from 1 to 10). Used for tracking and billing purposes.
 
-**Categoria do exame** *(obrigatório)*: Classifique o exame em uma das categorias disponíveis (ex.: Radiografia, Tomografia, Ultrassonografia etc.).
+**Exam category** *(required)*: Classify the exam into one of the available categories (e.g., Radiography, CT Scan, Ultrasound, etc.).
 
-**Tags**: Adicione etiquetas ao exame para facilitar a busca e categorização posterior. Podem ser selecionadas múltiplas tags.
+**Tags**: Add labels to the exam to facilitate later search and categorization. Multiple tags can be selected.
 
-**Imagens por página**: Define quantas imagens serão exibidas por página no PDF do laudo gerado (opções: 1, 2, 4, 6, 8 ou 10).
+**Images per page**: Defines how many images will be displayed per page in the generated report PDF (options: 1, 2, 4, 6, 8, or 10).
 
-**Template de laudo**: Selecione um template de formatação para o PDF do laudo (ex.: cabeçalho personalizado, disposição das imagens etc.).
-
----
-
-## **Ações (barra superior)**
-
-**Salvar**: Salva o laudo sem enviá-lo ao cliente.
-
-**Salvar e enviar**: Salva o laudo e envia a notificação ao cliente e/ou tutor com o link de acesso.
-
-**Editar exame**: Abre o formulário de edição dos dados do exame (dados do paciente, clínico etc.).
-
-**Visualizar PDF**: Abre o PDF do laudo em nova aba para pré-visualização.
-
-**Compartilhar**: Gera e exibe um link de compartilhamento do exame.
-
-### Menu de ações adicionais
-
-**Mover para "Em andamento"**: Altera o status do exame para "Em andamento". Disponível quando o exame está com status "Pendente" ou "Rejeitado".
-
-**Marcar como pendente**: Retorna o exame ao status "Pendente".
-
-**Rejeitar exame**: Marca o exame como "Rejeitado".
-
-**Versões anteriores do laudo**: Exibe o histórico de versões anteriores do texto do laudo, permitindo restaurar uma versão antiga.
+**Report template**: Select a formatting template for the report PDF (e.g., custom header, image layout, etc.).
 
 ---
 
-## **Aba: Dados do exame**
+## **Actions (top bar)**
 
-Painel lateral com as informações cadastradas no exame, exibidas em modo de leitura.
+**Save**: Saves the report without sending it to the client.
 
-### Dados do exame
+**Save and send**: Saves the report and sends a notification to the client and/or owner with the access link.
 
-**Tipo do exame**: Modalidade do exame (ex.: Radiografia, Tomografia, Ultrassonografia).
+**Edit exam**: Opens the exam data editing form (patient data, clinical data, etc.).
 
-**Regiões**: Regiões anatômicas selecionadas no cadastro do exame.
+**View PDF**: Opens the report PDF in a new tab for preview.
 
-**Contraste**: Detalhe da região onde foi aplicado o contraste, caso o exame tenha sido realizado com contraste.
+**Share**: Generates and displays an exam sharing link.
 
-**Data do exame**: Data em que o exame foi realizado.
+### Additional actions menu
 
-**Data de envio**: Data e hora em que o exame foi enviado para o sistema.
+**Move to "In progress"**: Changes the exam status to "In progress". Available when the exam has a "Pending" or "Rejected" status.
 
-**Data de aceite**: Data e hora em que o exame foi aceito pelo radiologista.
+**Mark as pending**: Returns the exam to "Pending" status.
 
-**Primeiro envio do laudo**: Data e hora do primeiro envio do laudo ao cliente.
+**Reject exam**: Marks the exam as "Rejected".
 
-**Médico solicitante**: Nome do médico veterinário que solicitou o exame.
-
-**Clínica**: Nome da clínica responsável pelo exame.
-
-### Dados do paciente
-
-**Nome do paciente**: Nome do animal examinado.
-
-**Tutor**: Nome do responsável pelo animal.
-
-**E-mail do tutor**: E-mail do tutor, utilizado para envio de notificação com o link de acesso ao laudo.
-
-**Espécie**: Espécie do animal (ex.: Canina, Felina).
-
-**Raça**: Raça do animal.
-
-**Idade**: Idade do animal, com a unidade (anos ou meses). Quando não informada numericamente, pode constar apenas a unidade.
-
-**Peso**: Peso do animal.
-
-**Sexo**: Sexo do animal.
-
-**Castrado**: Indica se o animal é castrado (Sim/Não).
-
-**Exame anterior**: Link para o exame anterior do mesmo paciente, quando informado no cadastro.
-
-### Estado clínico
-
-**Histórico clínico**: Histórico clínico do paciente informado pela clínica.
-
-**Sinais clínicos**: Sinais clínicos apresentados pelo paciente.
-
-**Suspeita clínica**: Suspeita clínica ou diagnóstico diferencial considerado.
-
-**Considerações sobre o exame**: Observações da clínica sobre a realização do exame. Exemplo: "Animal inquieto durante o procedimento."
+**Previous report versions**: Displays the history of previous versions of the report text, allowing restoration of an older version.
 
 ---
 
-## **Aba: Anexos**
+## **Tab: Exam data**
 
-### Imagens e arquivos
+Side panel with the information registered in the exam, displayed in read-only mode.
 
-**Imagens**: Área para visualização e upload das imagens do exame (JPEG, PNG, GIF, DICOM etc.). Limite máximo: 120 MB.
+### Exam data
 
-**Documentos/Arquivos**: Arquivos não-imagem anexados ao exame (ex.: PDFs, relatórios). Permite download individual ou em lote.
+**Exam type**: Exam modality (e.g., Radiography, CT Scan, Ultrasound).
 
-### Links e PACS
+**Regions**: Anatomical regions selected when registering the exam.
 
-**Links de imagens (Image links)**: Links de compartilhamento de imagens hospedadas em serviços externos, como Dropbox ou Google Drive. Exibidos como botões de acesso.
+**Contrast**: Detail of the region where contrast was applied, if the exam was performed with contrast.
 
-**DICOM / PACS**: Links para estudos DICOM armazenados no servidor PACS. Permite visualizar no Viewer integrado ou fazer download do estudo completo.
+**Exam date**: Date on which the exam was performed.
 
-**Vincular estudo do PACS**: Botão para associar manualmente um estudo existente no servidor PACS ao exame atual.
+**Submission date**: Date and time the exam was submitted to the system.
+
+**Acceptance date**: Date and time the exam was accepted by the radiologist.
+
+**First report submission**: Date and time of the first report submission to the client.
+
+**Requesting physician**: Name of the veterinarian who requested the exam.
+
+**Clinic**: Name of the clinic responsible for the exam.
+
+### Patient data
+
+**Patient name**: Name of the examined animal.
+
+**Owner**: Name of the animal's responsible person.
+
+**Owner email**: Owner's email address, used to send a notification with the report access link.
+
+**Species**: Animal species (e.g., Canine, Feline).
+
+**Breed**: Animal breed.
+
+**Age**: Animal's age, with the unit (years or months). When not provided numerically, only the unit may appear.
+
+**Weight**: Animal's weight.
+
+**Sex**: Animal's sex.
+
+**Neutered**: Indicates whether the animal is neutered/spayed (Yes/No).
+
+**Previous exam**: Link to the previous exam from the same patient, when provided during registration.
+
+### Clinical state
+
+**Clinical history**: Patient's clinical history as provided by the clinic.
+
+**Clinical signs**: Clinical signs presented by the patient.
+
+**Clinical suspicion**: Clinical suspicion or differential diagnosis considered.
+
+**Exam notes**: Clinic's observations about the exam procedure. Example: "Animal restless during the procedure."
+
+---
+
+## **Tab: Attachments**
+
+### Images and files
+
+**Images**: Area for viewing and uploading exam images (JPEG, PNG, GIF, DICOM, etc.). Maximum size: 120 MB.
+
+**Documents/Files**: Non-image files attached to the exam (e.g., PDFs, reports). Allows individual or bulk download.
+
+### Links and PACS
+
+**Image links**: Sharing links for images hosted on external services, such as Dropbox or Google Drive. Displayed as access buttons.
+
+**DICOM / PACS**: Links to DICOM studies stored on the PACS server. Allows viewing in the integrated Viewer or downloading the complete study.
+
+**Link PACS study**: Button to manually associate an existing study on the PACS server to the current exam.
 
 ::: warning ATTENTION
-O botão de vincular estudo do PACS é exibido apenas quando o servidor PACS está disponível e o usuário possui permissão de edição.
+The link PACS study button is only displayed when the PACS server is available and the user has editing permission.
 :::
 
 ---
 
-## **Aba: Comentários**
+## **Tab: Comments**
 
-**Comentários**: Área para troca de mensagens internas entre a clínica e o radiologista, sem que o conteúdo apareça no laudo. Indica a quantidade de comentários existentes no exame.
+**Comments**: Area for internal message exchange between the clinic and the radiologist, without the content appearing in the report. Shows the number of existing comments on the exam.
 
-**Novo comentário**: Botão para adicionar um novo comentário ao exame.
+**New comment**: Button to add a new comment to the exam.
 
 ---
 
-## **Aba: Financeiro**
+## **Tab: Financial**
 
 ::: warning ATTENTION
-Esta aba é exibida apenas quando o recurso de métodos de pagamento está habilitado nas configurações da conta.
+This tab is displayed only when the payment methods feature is enabled in the account settings.
 :::
 
-**Forma de pagamento**: Selecione a forma de pagamento utilizada para este exame (ex.: PIX, cartão, convênio). O padrão pode ser configurado por clínica.
+**Payment method**: Select the payment method used for this exam (e.g., PIX, card, insurance plan). The default can be configured per clinic.
 
-**Valor**: Informe o valor cobrado pelo exame, na moeda configurada na conta.
+**Amount**: Enter the amount charged for the exam, in the currency configured for the account.
 
-**Status do pagamento**: Indica se o pagamento do exame está pendente, recebido ou em outro estado definido pela conta.
+**Payment status**: Indicates whether the payment for the exam is pending, received, or in another state defined by the account.

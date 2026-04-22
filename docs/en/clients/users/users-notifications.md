@@ -1,43 +1,43 @@
-# How to Atualizar as Notificações de um Usuário
+# How to Update a User's Notifications
 
-Aprenda como gerenciar e personalizar as preferências de notificação por e-mail de um usuário vinculado à sua conta na plataforma UniRadio.
+Learn how to manage and customize the email notification preferences for a user linked to your account on the UniRadio platform.
 
 ## Step by Step
 
 ### 1. Access the UniRadio platform
 
-Navegue até [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
+Navigate to [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
 
-### 2. Acesse as configurações da conta
+### 2. Access the account settings
 
-Clique no ícone de engrenagem no canto superior direito para acesssar as configurações da conta.
+Click the gear icon in the top-right corner to access the account settings.
 
-![Menu do usuário](/images/en/clients/users/users-notifications/01-menu.jpeg)
+![User menu](/images/en/clients/users/users-notifications/01-menu.jpeg)
 
-### 3. Clique em "Usuários"
+### 3. Click "Users"
 
-![Usuários](/images/en/clients/users/users-permissions/02-users.jpeg)
+![Users](/images/en/clients/users/users-permissions/02-users.jpeg)
 
-### 4. Selecione o usuário que deseja editar
+### 4. Select the user you want to edit
 
-Clique sobre o usuário na lista.
+Click on the user in the list.
 
-![Selecionar usuário](/images/en/clients/users/users-permissions/03-select-user.jpeg)
+![Select user](/images/en/clients/users/users-permissions/03-select-user.jpeg)
 
-### 5. Clique em "Notificações"
+### 5. Click "Notifications"
 
-![Notificações](/images/en/clients/users/users-notifications/02-notifications.jpeg)
+![Notifications](/images/en/clients/users/users-notifications/02-notifications.jpeg)
 
-### 6. Selecione as preferências de notificação
+### 6. Select the notification preferences
 
-Marque ou desmarque as opções de notificação conforme desejado, como alertas de rejeição de exames e outras atividades da conta.
+Check or uncheck the notification options as desired, such as exam rejection alerts and other account activity.
 
-![Preferências de notificação](/images/en/clients/users/users-notifications/03-preferencias.jpeg)
+![Notification preferences](/images/en/clients/users/users-notifications/03-preferencias.jpeg)
 
-### 7. Clique em "Salvar"
+### 7. Click "Save"
 
-![Salvar preferências](/images/en/clients/users/users-notifications/04-save.jpeg)
+![Save preferences](/images/en/clients/users/users-notifications/04-save.jpeg)
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/faq) ou entre em contato com seu radiologista se encontrar problemas.
+Check our [FAQ](/en/faq) or contact your radiologist if you encounter any issues.

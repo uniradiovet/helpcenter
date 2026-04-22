@@ -1,55 +1,55 @@
-# How to Editar as Permissões de um Usuário na Conta
+# How to Edit a User's Permissions in the Account
 
-Aprenda como atualizar a função e as permissões de acesso de um usuário vinculado à sua conta na plataforma UniRadio.
+Learn how to update the role and access permissions of a user linked to your account on the UniRadio platform.
 
 ## Step by Step
 
 ### 1. Access the UniRadio platform
 
-Navegue até [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
+Navigate to [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
 
-### 2. Acesse as configurações da conta
+### 2. Access the account settings
 
-Clique no ícone de engrenagem no canto superior direito para acesssar as configurações da conta.
+Click the gear icon in the top-right corner to access the account settings.
 
-![Menu do usuário](/images/en/clients/users/users-permissions/01-menu.jpeg)
+![User menu](/images/en/clients/users/users-permissions/01-menu.jpeg)
 
-### 3. Clique em "Usuários"
+### 3. Click "Users"
 
-![Usuários](/images/en/clients/users/users-permissions/02-users.jpeg)
+![Users](/images/en/clients/users/users-permissions/02-users.jpeg)
 
-### 4. Selecione o usuário que deseja editar
+### 4. Select the user you want to edit
 
-Clique sobre o usuário na lista.
+Click on the user in the list.
 
-![Selecionar usuário](/images/en/clients/users/users-permissions/03-select-user.jpeg)
+![Select user](/images/en/clients/users/users-permissions/03-select-user.jpeg)
 
-### 5. Clique em "Permissões"
+### 5. Click "Permissions"
 
-![Permissões](/images/en/clients/users/users-permissions/04-permissions.jpeg)
+![Permissions](/images/en/clients/users/users-permissions/04-permissions.jpeg)
 
-### 6. Selecione a função do usuário
+### 6. Select the user's role
 
-Escolha entre **Administrativo** ou **Membro** no menu suspenso.
+Choose between **Administrator** or **Member** from the dropdown menu.
 
-::: tip Funções disponíveis
+::: tip Available roles
 
-- **Administrativo**: possui acesso total à conta, podendo gerenciar usuários, exames e configurações.
-- **Membro**: acesso restrito. Ao selecionar esta função, é possível definir individualmente quais permissões o usuário terá dentro da plataforma.
+- **Administrator**: has full access to the account, and can manage users, exams, and settings.
+- **Member**: restricted access. When selecting this role, you can define individually what permissions the user will have within the platform.
   :::
 
-![Selecionar função](/images/en/clients/users/users-permissions/05-role.jpeg)
+![Select role](/images/en/clients/users/users-permissions/05-role.jpeg)
 
-### 7. Selecione as permissões do Usuário na Conta
+### 7. Select the User's permissions in the Account
 
-Caso tenha escolhido a função **Membro**, marque as permissões que deseja conceder ao usuário.
+If you chose the **Member** role, check the permissions you want to grant to the user.
 
-![Selecionar permissões do membro](/images/en/clients/users/users-permissions/06-permissions-membro.jpeg)
+![Select member permissions](/images/en/clients/users/users-permissions/06-permissions-membro.jpeg)
 
-### 8. Clique em "Salvar"
+### 8. Click "Save"
 
-![Salvar alterações](/images/en/clients/users/users-permissions/07-save.jpeg)
+![Save changes](/images/en/clients/users/users-permissions/07-save.jpeg)
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/faq) ou entre em contato com seu radiologista se encontrar problemas.
+Check our [FAQ](/en/faq) or contact your radiologist if you encounter any issues.

@@ -1,117 +1,117 @@
-# Campos da conta (Clínica)
+# Account Fields (Clinic)
 
-Entenda o que cada campo nas configurações da conta de clínica significa.
-
----
-
-## **Conta**
-
-**Logo da conta**: Imagem de logotipo da clínica exibida no sistema. Formatos aceitos: JPEG, PNG ou GIF.
-
-**Nome da conta** *(obrigatório)*: Nome fantasia ou razão social da clínica, exibido no sistema e nos documentos.
-
-**E-mail da conta**: E-mail principal da conta, utilizado para comunicações do sistema.
+Understand what each field in the clinic account settings means.
 
 ---
 
-## **Endereço**
+## **Account**
 
-**Nome de cobrança**: Nome completo ou razão social para fins de cobrança e emissão de documentos fiscais.
+**Account logo**: Logo image of the clinic displayed in the system. Accepted formats: JPEG, PNG, or GIF.
 
-**CNPJ**: Número do CNPJ da clínica.
+**Account name** *(required)*: The clinic's trade name or legal name, displayed in the system and on documents.
 
-**DDD/País + Telefone**: Código do país e número de telefone de contato da clínica.
-
-**CEP**: Código de Endereçamento Postal da clínica.
-
-**Endereço**: Logradouro (rua, avenida etc.).
-
-**Número**: Número do estabelecimento.
-
-**Complemento**: Informações adicionais do endereço (sala, bloco, andar etc.).
-
-**Cidade**: Cidade onde a clínica está localizada.
-
-**Bairro**: Bairro da clínica.
-
-**Estado**: Estado (UF) da clínica.
-
-**País**: País da clínica.
+**Account email**: The account's primary email address, used for system communications.
 
 ---
 
-## **Template de laudo**
+## **Address**
 
-**Template de laudo**: Selecione o template padrão de formatação do PDF dos laudos para esta clínica. O template define o cabeçalho, rodapé e layout utilizados ao gerar o laudo em PDF.
+**Billing name**: Full name or legal name for billing and fiscal document purposes.
+
+**Tax ID (CNPJ)**: The clinic's tax identification number.
+
+**Country code + Phone**: Country code and contact phone number of the clinic.
+
+**Postal code (ZIP)**: The clinic's postal code.
+
+**Address**: Street address (street, avenue, etc.).
+
+**Number**: Establishment number.
+
+**Complement**: Additional address information (suite, building, floor, etc.).
+
+**City**: City where the clinic is located.
+
+**Neighborhood**: Clinic's neighborhood/district.
+
+**State**: State (province/region) of the clinic.
+
+**Country**: Country of the clinic.
+
+---
+
+## **Report template**
+
+**Report template**: Select the default PDF formatting template for this clinic's reports. The template defines the header, footer, and layout used when generating the report as a PDF.
 
 ::: tip TIP
-O template aqui definido será utilizado como padrão para todos os exames da clínica, podendo ser substituído individualmente no formulário do exame.
+The template defined here will be used as the default for all clinic exams and can be overridden individually in the exam form.
 :::
 
 ---
 
-## **Forma de pagamento padrão**
+## **Default payment method**
 
-**Forma de pagamento**: Define a forma de pagamento padrão aplicada automaticamente aos novos exames desta clínica (ex.: PIX, cartão, convênio).
+**Payment method**: Defines the default payment method automatically applied to new exams for this clinic (e.g., PIX, credit card, insurance).
 
 ::: warning ATTENTION
-Esta seção é exibida apenas quando o recurso de métodos de pagamento está habilitado nas configurações do radiologista.
+This section is only displayed when the payment methods feature is enabled in the radiologist's settings.
 :::
 
 ---
 
-## **Anexos de e-mail**
+## **Email attachments**
 
-**Anexar laudo no e-mail de notificação**: Quando ativado, o PDF do laudo é enviado como anexo no e-mail de notificação para a clínica e para o tutor do animal, ao ser finalizado.
+**Attach report to notification email**: When enabled, the report PDF is sent as an attachment in the notification email to the clinic and the animal's owner when the report is finalized.
 
 ::: tip TIP
-Se desativado, o e-mail de notificação conterá apenas o link de acesso ao laudo, sem o arquivo em anexo.
+If disabled, the notification email will contain only the link to access the report, without the file attached.
 :::
 
 ---
 
-## **Opções de compartilhamento do laudo**
+## **Report sharing options**
 
-Define o que é exibido para o tutor e para a clínica ao acessar o link público do laudo. Cada opção pode ser configurada individualmente com os seguintes valores:
+Defines what is displayed to the owner and the clinic when accessing the public report link. Each option can be configured individually with the following values:
 
-- **Padrão**: Segue a configuração definida pelo radiologista para todas as contas.
-- **Sim**: Exibe o conteúdo no laudo compartilhado.
-- **Não**: Oculta o conteúdo no laudo compartilhado.
+- **Default**: Follows the setting defined by the radiologist for all accounts.
+- **Yes**: Displays the content in the shared report.
+- **No**: Hides the content in the shared report.
 
-| Campo | Descrição |
+| Field | Description |
 |---|---|
-| **Compartilhar imagens anexas no laudo** | Exibe ou oculta as imagens anexadas ao exame na visualização pública do laudo. |
-| **Compartilhar arquivos anexos no laudo** | Exibe ou oculta os arquivos (não-imagens) anexados ao exame na visualização pública do laudo. |
-| **Compartilhar links externos no laudo** | Exibe ou oculta os links externos (PACS, Dropbox, Google Drive etc.) na visualização pública do laudo. |
+| **Share attached images in the report** | Shows or hides images attached to the exam in the public report view. |
+| **Share attached files in the report** | Shows or hides files (non-images) attached to the exam in the public report view. |
+| **Share external links in the report** | Shows or hides external links (PACS, Dropbox, Google Drive, etc.) in the public report view. |
 
 ---
 
 ## **PACS**
 
-**Habilitar PACS**: Ativa a integração com o servidor PACS para que a clínica possa enviar e vincular estudos DICOM.
+**Enable PACS**: Activates the integration with the PACS server so the clinic can submit and link DICOM studies.
 
-**Habilitar Porta do PACS**: Ativa a porta específica do servidor PACS para esta clínica. Ao habilitar, as informações de conexão (AE Title, IP e Porta) são exibidas para configuração nos equipamentos de imagem.
+**Enable PACS Port**: Activates the specific port of the PACS server for this clinic. When enabled, the connection details (AE Title, IP, and Port) are displayed for configuration on imaging equipment.
 
 ::: tip TIP
-As informações de conexão PACS (AE Title, IP e Porta) devem ser configuradas nos equipamentos de imagem da clínica (tomógrafo, aparelho de raio-x etc.) para que os estudos sejam enviados automaticamente ao sistema.
+The PACS connection details (AE Title, IP, and Port) must be configured on the clinic's imaging equipment (CT scanner, X-ray machine, etc.) so that studies are automatically sent to the system.
 :::
 
 ---
 
-## **Contatos**
+## **Contacts**
 
-Lista de contatos informativos da clínica. Estes contatos **não são usuários do sistema** e não possuem acesso à plataforma. Servem apenas para registro interno de informações de responsáveis.
+List of informational contacts for the clinic. These contacts **are not system users** and do not have access to the platform. They serve only as internal records of responsible persons.
 
-Cada contato possui os seguintes campos:
+Each contact has the following fields:
 
-**Nome do contato**: Nome completo do responsável.
+**Contact name**: Full name of the responsible person.
 
-**CPF**: CPF do responsável.
+**Tax ID (CPF)**: The responsible person's individual tax identification number.
 
-**CRMV do responsável técnico**: Número do CRMV do médico veterinário responsável técnico pela clínica.
+**Veterinary license (CRMV) of the technical officer**: License number of the veterinarian who is the clinic's technical officer.
 
-**Tipo**: Classificação do contato:
-- **Responsável Técnico**: Médico veterinário responsável técnico pela clínica.
-- **Administrador**: Responsável administrativo da clínica.
+**Type**: Contact classification:
+- **Technical Officer**: Veterinarian who is the clinic's technical officer.
+- **Administrator**: Administrative officer of the clinic.
 
-É possível adicionar múltiplos contatos clicando em **Adicionar Contato**.
+Multiple contacts can be added by clicking **Add Contact**.

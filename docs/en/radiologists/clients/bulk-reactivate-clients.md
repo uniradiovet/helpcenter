@@ -1,6 +1,6 @@
-# How to Reativar Vários Clientes em Massa
+# How to Bulk Reactivate Multiple Clients
 
-Aprenda como selecionar e reativar múltiplas contas de clientes de uma só vez na plataforma UniRadio.
+Learn how to select and reactivate multiple client accounts at once on the UniRadio platform.
 
 ## Step by Step
 
@@ -8,42 +8,42 @@ Aprenda como selecionar e reativar múltiplas contas de clientes de uma só vez 
 
 Sign in to your account and go to [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
 
-### 2. Acesse "Clientes"
+### 2. Open "Clients"
 
-No menu lateral, clique em **"Clientes"** para visualizar a lista de clientes cadastrados.
+In the side menu, click **"Clients"** to view the list of registered clients.
 
-![Clientes](/images/en/radiologists/clients/bulk-reactivate-clients/01-clients.jpeg)
+![Clients](/images/en/radiologists/clients/bulk-reactivate-clients/01-clients.jpeg)
 
-### 3. Clique na aba "Inativos"
+### 3. Click the "Inactive" tab
 
-Clique na aba **"Inativos"** para listar apenas as contas desativadas.
+Click the **"Inactive"** tab to list only the deactivated accounts.
 
-![Inativos](/images/en/radiologists/clients/bulk-reactivate-clients/02-inativos.jpeg)
+![Inactive](/images/en/radiologists/clients/bulk-reactivate-clients/02-inativos.jpeg)
 
-### 4. Selecione as contas que deseja reativar
+### 4. Select the accounts you want to reactivate
 
-Marque o checkbox de cada cliente que deseja reativar. Você pode selecionar quantos clientes precisar.
+Check the checkbox next to each client you want to reactivate. You can select as many clients as needed.
 
-![Selecionar contas](/images/en/radiologists/clients/bulk-reactivate-clients/03-select-accounts.jpeg)
+![Select accounts](/images/en/radiologists/clients/bulk-reactivate-clients/03-select-accounts.jpeg)
 
-### 5. Abra o menu de ações em massa
+### 5. Open the bulk actions menu
 
-Clique no dropdown de ações em massa para visualizar as opções disponíveis.
+Click the bulk actions dropdown to view the available options.
 
-![Menu dropdown](/images/en/radiologists/clients/bulk-reactivate-clients/04-dropdown.jpeg)
+![Dropdown menu](/images/en/radiologists/clients/bulk-reactivate-clients/04-dropdown.jpeg)
 
-### 6. Selecione "Ativar Contas Selecionadas"
+### 6. Select "Activate Selected Accounts"
 
-Escolha a opção **"Ativar Contas Selecionadas"** no menu.
+Choose the **"Activate Selected Accounts"** option from the menu.
 
-![Ativar selecionadas](/images/en/radiologists/clients/bulk-reactivate-clients/05-activate-selecionadas.jpeg)
+![Activate selected](/images/en/radiologists/clients/bulk-reactivate-clients/05-activate-selecionadas.jpeg)
 
-### 7. Clique em "Executar Ação"
+### 7. Click "Execute Action"
 
-Clique em **"Executar Ação"** para confirmar. Todas as contas selecionadas serão reativadas imediatamente.
+Click **"Execute Action"** to confirm. All selected accounts will be reactivated immediately.
 
-![Executar Ação](/images/en/radiologists/clients/bulk-reactivate-clients/06-executar-acao.jpeg)
+![Execute Action](/images/en/radiologists/clients/bulk-reactivate-clients/06-executar-acao.jpeg)
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/faq) ou entre em contato com o suporte se encontrar problemas ao reativar contas em massa.
+Check our [FAQ](/en/faq) or contact support if you have issues reactivating accounts in bulk.

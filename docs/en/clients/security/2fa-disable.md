@@ -1,37 +1,37 @@
-# How to Desativar a Autenticação de Dois Fatores
+# How to Disable Two-Factor Authentication
 
-Aprenda como desativar a autenticação de dois fatores (2FA) da sua conta na plataforma UniRadio.
+Learn how to disable two-factor authentication (2FA) on your account on the UniRadio platform.
 
-::: warning Atenção ao reativar
-Após desativar um método de autenticação de dois fatores (seja **E-mail** ou **WhatsApp**), será necessário validar novamente o método — ou seja, enviar e confirmar o código — para poder ativá-lo novamente no futuro.
+::: warning Note on re-enabling
+After disabling a two-factor authentication method (either **Email** or **WhatsApp**), you will need to validate the method again — that is, send and confirm the code — in order to re-enable it in the future.
 :::
 
 ## Step by Step
 
 ### 1. Access the UniRadio platform
 
-Navegue até [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
+Navigate to [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
 
-### 2. Acesse o menu do usuário
+### 2. Open the user menu
 
-Clique no seu nome ou avatar no canto superior para abrir o menu do usuário.
+Click on your name or avatar at the top to open the user menu.
 
-![Menu do usuário](/images/en/clients/security/2fa-disable/01-menu-user.jpeg)
+![User menu](/images/en/clients/security/2fa-disable/01-menu-user.jpeg)
 
-### 3. Clique em "Meu Perfil"
+### 3. Click "My Profile"
 
-![Usuários](/images/en/clients/security/2fa-disable/02-my-profile.jpeg)
+![Users](/images/en/clients/security/2fa-disable/02-my-profile.jpeg)
 
-### 4. Clique em "Desativar"
+### 4. Click "Disable"
 
-Localize a opção de autenticação de dois fatores e clique em **"Desativar"**.
+Find the two-factor authentication option and click **"Disable"**.
 
-![Desativar autenticação de dois fatores](/images/en/clients/security/2fa-disable/03-deactivate.jpeg)
+![Disable two-factor authentication](/images/en/clients/security/2fa-disable/03-deactivate.jpeg)
 
-### 5. Clique em "Continuar" para confirmar a desativação
+### 5. Click "Continue" to confirm the deactivation
 
-![Confirmar desativação](/images/en/clients/security/2fa-disable/04-confirm.jpeg)
+![Confirm deactivation](/images/en/clients/security/2fa-disable/04-confirm.jpeg)
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/faq) ou entre em contato com seu radiologista se encontrar problemas.
+Check our [FAQ](/en/faq) or contact your radiologist if you encounter any issues.

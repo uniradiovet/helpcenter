@@ -1,6 +1,6 @@
-# How to Desativar um Usuário da Conta
+# How to Deactivate an Account User
 
-Aprenda como desativar o acesso de um usuário da sua conta na plataforma UniRadio.
+Learn how to deactivate access for a user in your account on the UniRadio platform.
 
 ## Step by Step
 
@@ -8,42 +8,42 @@ Aprenda como desativar o acesso de um usuário da sua conta na plataforma UniRad
 
 Sign in to your account and go to [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
 
-### 2. Acesse o menu de configurações
+### 2. Open the settings menu
 
-No menu lateral, clique no ícone de configurações para abrir as opções da conta.
+In the side menu, click the settings icon to open the account options.
 
-![Menu de configurações](/images/en/radiologists/users/deactivate-account-user/01-menu.jpeg)
+![Settings menu](/images/en/radiologists/users/deactivate-account-user/01-menu.jpeg)
 
-### 3. Clique em "Usuários"
+### 3. Click "Users"
 
-No menu de configurações, clique em **"Usuários"** para visualizar os membros da sua conta.
+In the settings menu, click **"Users"** to view the members of your account.
 
-![Usuários](/images/en/radiologists/users/deactivate-account-user/02-users.jpeg)
+![Users](/images/en/radiologists/users/deactivate-account-user/02-users.jpeg)
 
-### 4. Selecione o usuário
+### 4. Select the user
 
-Clique sobre o nome do usuário que deseja desativar.
+Click the name of the user you want to deactivate.
 
-![Selecionar usuário](/images/en/radiologists/users/deactivate-account-user/03-select-user.jpeg)
+![Select user](/images/en/radiologists/users/deactivate-account-user/03-select-user.jpeg)
 
-### 5. Clique em "Ações"
+### 5. Click "Actions"
 
-Na página do usuário, clique no botão **"Ações"** para exibir as opções disponíveis.
+On the user's page, click the **"Actions"** button to display the available options.
 
-![Ações](/images/en/radiologists/users/deactivate-account-user/04-acoes.jpeg)
+![Actions](/images/en/radiologists/users/deactivate-account-user/04-acoes.jpeg)
 
-### 6. Clique em "Desativar usuário"
+### 6. Click "Deactivate user"
 
-No menu de ações, selecione **"Desativar usuário"** para iniciar o processo de desativação.
+In the actions menu, select **"Deactivate user"** to start the deactivation process.
 
-![Desativar usuário](/images/en/radiologists/users/deactivate-account-user/05-deactivate-user.jpeg)
+![Deactivate user](/images/en/radiologists/users/deactivate-account-user/05-deactivate-user.jpeg)
 
-### 7. Clique em "Continuar"
+### 7. Click "Continue"
 
-Na janela de confirmação, clique em **"Continuar"** para confirmar a desativação do usuário.
+In the confirmation dialog, click **"Continue"** to confirm the user deactivation.
 
-![Continuar](/images/en/radiologists/users/deactivate-account-user/06-continue.jpeg)
+![Continue](/images/en/radiologists/users/deactivate-account-user/06-continue.jpeg)
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/faq) ou entre em contato com o suporte se encontrar problemas ao desativar usuários.
+Check our [FAQ](/en/faq) or contact support if you have trouble deactivating users.

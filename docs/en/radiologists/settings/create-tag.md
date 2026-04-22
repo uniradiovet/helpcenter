@@ -1,6 +1,6 @@
-# How to Criar uma Nova Tag
+# How to Create a New Tag
 
-Aprenda como criar tags personalizadas na plataforma UniRadio para organizar melhor os seus exames e clientes.
+Learn how to create custom tags on the UniRadio platform to better organize your exams and clients.
 
 ## Step by Step
 
@@ -8,40 +8,40 @@ Aprenda como criar tags personalizadas na plataforma UniRadio para organizar mel
 
 Sign in to your account and go to [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
 
-### 2. Acesse o menu de configurações
+### 2. Open the settings menu
 
-No menu lateral, clique no ícone de configurações para abrir as opções da conta.
+In the side menu, click the settings icon to open the account options.
 
-![Menu de configurações](/images/en/radiologists/settings/create-tag/01-menu.jpeg)
+![Settings menu](/images/en/radiologists/settings/create-tag/01-menu.jpeg)
 
-### 3. Clique em "Tags"
+### 3. Click "Tags"
 
-No menu de configurações, clique em **"Tags"** para gerenciar as tags da conta.
+In the settings menu, click **"Tags"** to manage the account tags.
 
 ![Tags](/images/en/radiologists/settings/create-tag/02-tags.jpeg)
 
-### 4. Clique em "Nova Tag"
+### 4. Click "New Tag"
 
-Clique no botão **"Nova Tag"** para iniciar a criação de uma nova tag.
+Click the **"New Tag"** button to start creating a new tag.
 
-![Nova Tag](/images/en/radiologists/settings/create-tag/03-new-tag.jpeg)
+![New Tag](/images/en/radiologists/settings/create-tag/03-new-tag.jpeg)
 
-### 5. Digite o nome da tag
+### 5. Enter the tag name
 
-Insira o nome da tag que deseja criar.
+Enter the name of the tag you want to create.
 
-:::tip Criar várias tags de uma vez
-Você pode criar múltiplas tags simultaneamente separando os nomes por vírgula. Por exemplo: `Urgente, Retorno, Pendente`
+:::tip Create multiple tags at once
+You can create multiple tags at the same time by separating the names with commas. For example: `Urgent, Follow-up, Pending`
 :::
 
-![Inserir tag](/images/en/radiologists/settings/create-tag/04-inserir-tag.jpeg)
+![Enter tag](/images/en/radiologists/settings/create-tag/04-inserir-tag.jpeg)
 
-### 6. Clique em "Salvar Tag"
+### 6. Click "Save Tag"
 
-Após inserir o nome, clique em **"Salvar Tag"** para confirmar a criação.
+After entering the name, click **"Save Tag"** to confirm the creation.
 
-![Salvar Tag](/images/en/radiologists/settings/create-tag/05-save-tag.jpeg)
+![Save Tag](/images/en/radiologists/settings/create-tag/05-save-tag.jpeg)
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/faq) ou entre em contato com o suporte se encontrar problemas ao criar tags.
+Check our [FAQ](/en/faq) or contact support if you have trouble creating tags.
