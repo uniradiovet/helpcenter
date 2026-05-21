@@ -46,6 +46,7 @@ Após configurar o servidor PACS na plataforma, siga o tutorial do seu software 
 - [Ultramedic](/radiologists/pacs/ultramedic-pacs-config)
 - [DR Tech](/radiologists/pacs/drtech-pacs-config)
 - [VXVue](/radiologists/pacs/vxvue-pacs-config)
+- [Voyance](/radiologists/pacs/voyance-pacs-config)
 
 ## Precisa de Ajuda?
 

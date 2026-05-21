@@ -2,6 +2,22 @@
 
 Learn how to submit a new exam to the UniRadio platform using the PACS server integration. This guide walks you through from accessing the platform to completing the submission.
 
+## Configure your equipment to send to the PACS
+
+Before creating the exam, your imaging equipment must be configured to send images to the UniRadio PACS server. Select your software below:
+
+| Software | Tutorial |
+|----------|----------|
+| Carestream | [How to configure Carestream](/en/clients/pacs/carestream-pacs-config) |
+| Dr.Tech | [How to configure Dr.Tech](/en/clients/pacs/drtech-pacs-config) |
+| Ultramedic | [How to configure Ultramedic](/en/clients/pacs/ultramedic-pacs-config) |
+| VXVue | [How to configure VXVue](/en/clients/pacs/vxvue-pacs-config) |
+| Voyance | [How to configure Voyance](/en/clients/pacs/voyance-pacs-config) |
+
+Once you have sent the study from your equipment, follow the steps below to create the exam on the platform.
+
+---
+
 ## Step by Step
 
 ### 1. Access the Exams page

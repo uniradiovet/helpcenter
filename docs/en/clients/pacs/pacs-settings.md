@@ -28,6 +28,16 @@ Use the displayed information (server address, port, and AE Title) to configure 
 
 ![PACS Server settings](/images/en/clients/pacs/pacs-settings/03-settings.jpeg)
 
+## Which software do you use?
+
+After obtaining the connection details, follow the tutorial for your imaging software to connect it to UniRadio:
+
+- [Carestream](/en/clients/pacs/carestream-pacs-config)
+- [Ultramedic](/en/clients/pacs/ultramedic-pacs-config)
+- [DR Tech](/en/clients/pacs/drtech-pacs-config)
+- [VXVue](/en/clients/pacs/vxvue-pacs-config)
+- [Voyance](/en/clients/pacs/voyance-pacs-config)
+
 ## Need Help?
 
 Check our [FAQ](/en/faq) or contact your radiologist if you encounter any issues.

@@ -2,6 +2,22 @@
 
 Aprenda como enviar um novo exame para a plataforma UniRadio utilizando a integração com o servidor PACS. Este guia orienta desde o acesso à plataforma até a finalização do envio.
 
+## Configurar o equipamento para enviar ao PACS
+
+Antes de criar o exame, o equipamento de imagem precisa estar configurado para enviar as imagens ao servidor PACS da UniRadio. Selecione o software do seu equipamento abaixo:
+
+| Software | Tutorial |
+|----------|----------|
+| Carestream | [Como configurar o Carestream](/clients/pacs/carestream-pacs-config) |
+| Dr.Tech | [Como configurar o Dr.Tech](/clients/pacs/drtech-pacs-config) |
+| Ultramedic | [Como configurar o Ultramedic](/clients/pacs/ultramedic-pacs-config) |
+| VXVue | [Como configurar o VXVue](/clients/pacs/vxvue-pacs-config) |
+| Voyance | [Como configurar o Voyance](/clients/pacs/voyance-pacs-config) |
+
+Após enviar o estudo pelo equipamento, siga os passos abaixo para criar o exame na plataforma.
+
+---
+
 ## Passo a Passo
 
 ### 1. Acesse a página de Exames

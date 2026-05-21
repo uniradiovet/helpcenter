@@ -2,6 +2,22 @@
 
 Learn how to link diagnostic images from your PACS server to an exam in the UniRadio platform.
 
+## Configure your equipment to send to the PACS
+
+Before attaching a study, your imaging equipment must be configured to send images to the UniRadio PACS server. Select your software below:
+
+| Software | Tutorial |
+|----------|----------|
+| Carestream | [How to configure Carestream](/en/radiologists/pacs/carestream-pacs-config) |
+| Dr.Tech | [How to configure Dr.Tech](/en/radiologists/pacs/drtech-pacs-config) |
+| Ultramedic | [How to configure Ultramedic](/en/radiologists/pacs/ultramedic-pacs-config) |
+| VXVue | [How to configure VXVue](/en/radiologists/pacs/vxvue-pacs-config) |
+| Voyance | [How to configure Voyance](/en/radiologists/pacs/voyance-pacs-config) |
+
+Once you have sent the study from your equipment, come back here and follow the steps below to link it to the exam.
+
+---
+
 ## Step by Step
 
 ### 1. Access the UniRadio platform
