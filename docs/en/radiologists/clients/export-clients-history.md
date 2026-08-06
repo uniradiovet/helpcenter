@@ -1,6 +1,6 @@
-# How to Visualizar as Exportações Anteriores de Clientes
+# How to View Previous Client Exports
 
-Aprenda como acessar o histórico de exportações de clientes na plataforma UniRadio para consultar ou baixar arquivos de exportações realizadas anteriormente.
+Learn how to access the client export history on the UniRadio platform to review or download files from previously completed exports.
 
 ## Step by Step
 
@@ -8,36 +8,36 @@ Aprenda como acessar o histórico de exportações de clientes na plataforma Uni
 
 Sign in to your account and go to [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
 
-### 2. Acesse a seção de Clientes
+### 2. Open the Clients section
 
-Clique em **"Clientes"** no menu de navegação para acessar a lista de contas dos seus clientes.
+Click **"Clients"** in the navigation menu to open your client account list.
 
-![Seção Clientes](/images/en/radiologists/clients/export-clients-history/01-clientes.jpeg)
+![Clients Section](/images/en/radiologists/clients/export-clients-history/01-clientes.jpeg)
 
-### 3. Abra o menu de opções
+### 3. Open the options menu
 
-Clique no botão de opções (dropdown) para exibir as ações disponíveis para a listagem de clientes.
+Click the options button (dropdown) to display the available actions for the client list.
 
 ![Toggle Dropdown](/images/en/radiologists/clients/export-clients-history/02-dropdown.jpeg)
 
-### 4. Clique em "Exportar Clientes"
+### 4. Click "Export Clients"
 
-Selecione a opção **"Exportar Clientes"** no menu para abrir o painel de exportação.
+Select the **"Export Clients"** option from the menu to open the export panel.
 
-![Exportar Clientes](/images/en/radiologists/clients/export-clients-history/03-exportar-clientes.jpeg)
+![Export Clients](/images/en/radiologists/clients/export-clients-history/03-exportar-clientes.jpeg)
 
-### 5. Clique em "Ver exportações anteriores"
+### 5. Click "View previous exports"
 
-Clique no link **"Ver exportações anteriores"** para acessar o histórico de exportações já realizadas.
+Click the **"View previous exports"** link to access the history of completed exports.
 
-![Ver exportações anteriores](/images/en/radiologists/clients/export-clients-history/04-ver-anteriores.jpeg)
+![View previous exports](/images/en/radiologists/clients/export-clients-history/04-ver-anteriores.jpeg)
 
-### 6. Visualize e baixe as exportações
+### 6. View and download exports
 
-A lista exibirá todas as exportações anteriores com informações como data, tipo e status. Clique no botão de download da exportação desejada para baixar o arquivo.
+The list will display all previous exports with details such as date, type, and status. Click the download button for the desired export to download the file.
 
-![Lista de exportações](/images/en/radiologists/clients/export-clients-history/05-lista-exportacoes.jpeg)
+![Export list](/images/en/radiologists/clients/export-clients-history/05-lista-exportacoes.jpeg)
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/faq) ou entre em contato com o suporte se encontrar problemas ao acessar o histórico de exportações.
+Check our [FAQ](/en/faq) or contact support if you have issues accessing the export history.

@@ -1,37 +1,37 @@
-# How to Compartilhar o Link do Laudo
+# How to Share the Report Link
 
-Aprenda como localizar e compartilhar o link URL do laudo de um exame finalizado na plataforma UniRadio.
+Learn how to find and share the URL link for the report of a finalized exam on the UniRadio platform.
 
 ## Step by Step
 
-### 1. Acesse a página de Exames
+### 1. Access the Exams page
 
-Navegue até [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
+Navigate to [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
 
-### 2. Filtre pelos exames finalizados
+### 2. Filter by finalized exams
 
-Clique na aba "Finalizado" para listar apenas os exames que já possuem laudo disponível.
+Click the "Finalized" tab to list only exams that already have a report available.
 
-![Aba Finalizado](/images/en/clients/report/report-share/01-finalizado.jpeg)
+![Finalized tab](/images/en/clients/report/report-share/01-finalizado.jpeg)
 
-### 3. Selecione o exame
+### 3. Select the exam
 
-Clique sobre o exame cujo laudo deseja compartilhar.
+Click on the exam whose report you want to share.
 
-![Selecionar exame](/images/en/clients/report/report-share/02-select-exam.jpeg)
+![Select exam](/images/en/clients/report/report-share/02-select-exam.jpeg)
 
-### 4. Clique no botão de compartilhar
+### 4. Click the share button
 
-Clique no ícone de compartilhamento para abrir as opções de compartilhamento do laudo.
+Click the share icon to open the report sharing options.
 
-![Botão compartilhar](/images/en/clients/report/report-share/03-compartilhar.jpeg)
+![Share button](/images/en/clients/report/report-share/03-compartilhar.jpeg)
 
-### 5. Copie o link ou escaneie o QR Code
+### 5. Copy the link or scan the QR Code
 
-Copie a URL do laudo para enviar a quem desejar, ou escaneie o QR Code diretamente.
+Copy the report URL to send to whoever you wish, or scan the QR Code directly.
 
-![Link e QR Code do laudo](/images/en/clients/report/report-share/04-link-qrcode.jpeg)
+![Report link and QR Code](/images/en/clients/report/report-share/04-link-qrcode.jpeg)
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/faq) ou entre em contato com seu radiologista se encontrar problemas.
+Check our [FAQ](/en/faq) or contact your radiologist if you encounter any issues.

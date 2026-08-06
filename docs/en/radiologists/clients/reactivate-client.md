@@ -1,6 +1,6 @@
-# How to Reativar a Conta de um Cliente
+# How to Reactivate a Client Account
 
-Aprenda como restaurar o acesso de uma conta de cliente desativada na plataforma UniRadio.
+Learn how to restore access to a deactivated client account on the UniRadio platform.
 
 ## Step by Step
 
@@ -8,42 +8,42 @@ Aprenda como restaurar o acesso de uma conta de cliente desativada na plataforma
 
 Sign in to your account and go to [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
 
-### 2. Acesse "Clientes"
+### 2. Open "Clients"
 
-No menu lateral, clique em **"Clientes"** para visualizar a lista de clientes cadastrados.
+In the side menu, click **"Clients"** to view the list of registered clients.
 
-![Clientes](/images/en/radiologists/clients/reactivate-client/01-clients.jpeg)
+![Clients](/images/en/radiologists/clients/reactivate-client/01-clients.jpeg)
 
-### 3. Clique na aba "Inativos"
+### 3. Click the "Inactive" tab
 
-Clique na aba **"Inativos"** para listar apenas as contas desativadas.
+Click the **"Inactive"** tab to list only the deactivated accounts.
 
-![Inativos](/images/en/radiologists/clients/reactivate-client/02-inativos.jpeg)
+![Inactive](/images/en/radiologists/clients/reactivate-client/02-inativos.jpeg)
 
-### 4. Selecione o cliente
+### 4. Select the client
 
-Clique sobre o cliente cuja conta deseja reativar.
+Click on the client whose account you want to reactivate.
 
-![Selecionar cliente](/images/en/radiologists/clients/reactivate-client/03-select-client.jpeg)
+![Select client](/images/en/radiologists/clients/reactivate-client/03-select-client.jpeg)
 
-### 5. Clique em "Ações"
+### 5. Click "Actions"
 
-Clique no botão **"Ações"** para abrir o menu de opções disponíveis para o cliente.
+Click the **"Actions"** button to open the options menu available for the client.
 
-![Menu Ações](/images/en/radiologists/clients/reactivate-client/04-acoes.jpeg)
+![Actions menu](/images/en/radiologists/clients/reactivate-client/04-acoes.jpeg)
 
-### 6. Clique em "Ativar Conta"
+### 6. Click "Activate Account"
 
-Selecione a opção **"Ativar Conta"** no menu de ações.
+Select the **"Activate Account"** option from the actions menu.
 
-![Ativar Conta](/images/en/radiologists/clients/reactivate-client/05-activate-account.jpeg)
+![Activate Account](/images/en/radiologists/clients/reactivate-client/05-activate-account.jpeg)
 
-### 7. Clique em "Continuar" para confirmar
+### 7. Click "Continue" to confirm
 
-Clique em **"Continuar"** para confirmar a reativação. O cliente voltará a ter acesso à plataforma imediatamente.
+Click **"Continue"** to confirm the reactivation. The client will regain access to the platform immediately.
 
-![Confirmar reativação](/images/en/radiologists/clients/reactivate-client/06-continue.jpeg)
+![Confirm reactivation](/images/en/radiologists/clients/reactivate-client/06-continue.jpeg)
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/faq) ou entre em contato com o suporte se encontrar problemas ao reativar contas de clientes.
+Check our [FAQ](/en/faq) or contact support if you have issues reactivating client accounts.

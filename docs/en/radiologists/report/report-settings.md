@@ -1,6 +1,6 @@
-# How to Configurar as Definições do Laudo
+# How to Configure Report Settings
 
-Aprenda como acessar e personalizar as configurações do laudo na plataforma UniRadio, incluindo logomarca, assinatura de e-mails, título do laudo e outras opções de identidade visual.
+Learn how to access and customize report settings on the UniRadio platform, including logo, email signature, report title, and other branding options.
 
 ## Step by Step
 
@@ -8,37 +8,37 @@ Aprenda como acessar e personalizar as configurações do laudo na plataforma Un
 
 Sign in to your account and go to [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
 
-### 2. Acesse o menu de configurações
+### 2. Open the settings menu
 
-No menu lateral, clique no ícone de configurações para abrir as opções da conta.
+In the side menu, click the settings icon to open the account options.
 
-![Menu de configurações](/images/en/radiologists/report/report-settings/01-menu.jpeg)
+![Settings menu](/images/en/radiologists/report/report-settings/01-menu.jpeg)
 
-### 3. Clique em "Laudos"
+### 3. Click "Reports"
 
-No menu de configurações, clique em **"Laudos"** para acessar as definições do laudo.
+In the settings menu, click **"Reports"** to access the report settings.
 
-![Laudos](/images/en/radiologists/report/report-settings/02-reports.jpeg)
+![Reports](/images/en/radiologists/report/report-settings/02-reports.jpeg)
 
-### 4. Edite as informações desejadas
+### 4. Edit the desired information
 
-Ajuste as configurações conforme a necessidade da sua conta.
+Adjust the settings according to your account's needs.
 
-:::tip Opções disponíveis
+:::tip Available options
 
-- **Logomarca do início do PDF** — Adicione a imagem que será exibida no cabeçalho dos laudos em PDF.
-- **Assinatura de e-mails** — Personalize a assinatura exibida nos e-mails enviados aos clientes.
-- **Título do laudo** — Defina o título padrão que aparecerá nos laudos emitidos.
+- **PDF header logo** — Add the image that will be displayed in the header of PDF reports.
+- **Email signature** — Customize the signature shown in emails sent to clients.
+- **Report title** — Set the default title that will appear on issued reports.
   :::
 
-![Editar informações](/images/en/radiologists/report/report-settings/03-edit.jpeg)
+![Edit information](/images/en/radiologists/report/report-settings/03-edit.jpeg)
 
-### 5. Clique em "Salvar"
+### 5. Click "Save"
 
-Após realizar as alterações desejadas, clique em **"Salvar"** para confirmar as configurações.
+After making the desired changes, click **"Save"** to confirm the settings.
 
-![Salvar](/images/en/radiologists/report/report-settings/04-save.jpeg)
+![Save](/images/en/radiologists/report/report-settings/04-save.jpeg)
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/faq) ou entre em contato com o suporte se encontrar problemas ao configurar as definições do laudo.
+Check our [FAQ](/en/faq) or contact support if you have trouble configuring report settings.

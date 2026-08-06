@@ -1,14 +1,14 @@
-# How to Ativar a Autenticação de Dois Fatores
+# How to Enable Two-Factor Authentication
 
-Melhore a segurança da sua conta ativando a autenticação de dois fatores (2FA) na plataforma UniRadio.
+Improve your account security by enabling two-factor authentication (2FA) on the UniRadio platform.
 
-::: tip Métodos disponíveis
-O App da UniRadio oferece dois métodos de autenticação de dois fatores:
+::: tip Available methods
+The UniRadio App offers two two-factor authentication methods:
 
-- **E-mail** — um código de verificação será enviado para o e-mail cadastrado no seu perfil.
-- **WhatsApp** — um código de verificação será enviado para o número de telefone cadastrado no seu perfil.
+- **Email** — a verification code will be sent to the email address registered in your profile.
+- **WhatsApp** — a verification code will be sent to the phone number registered in your profile.
 
-Certifique-se de que o e-mail e o telefone do seu perfil estejam atualizados antes de ativar.
+Make sure your profile email and phone number are up to date before enabling.
 :::
 
 ## Step by Step
@@ -17,40 +17,40 @@ Certifique-se de que o e-mail e o telefone do seu perfil estejam atualizados ant
 
 Sign in to your account and go to [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
 
-### 2. Clique no menu do usuário
+### 2. Click the user menu
 
-No canto superior direito, clique no seu nome ou ícone de usuário para abrir o menu.
+In the upper right corner, click your name or user icon to open the menu.
 
-![Menu do usuário](/images/en/radiologists/security/2fa-enable/01-radiologist.jpeg)
+![User menu](/images/en/radiologists/security/2fa-enable/01-radiologist.jpeg)
 
-### 3. Clique em "Meu Perfil"
+### 3. Click "My Profile"
 
-![Meu Perfil](/images/en/radiologists/security/2fa-enable/02-my-profile.jpeg)
+![My Profile](/images/en/radiologists/security/2fa-enable/02-my-profile.jpeg)
 
-### 4. Clique em "Autenticação de dois fatores desativada"
+### 4. Click "Two-factor authentication disabled"
 
-Localize a opção de autenticação de dois fatores e clique nela para iniciar a ativação.
+Locate the two-factor authentication option and click it to start the activation process.
 
-![Autenticação de dois fatores desativada](/images/en/radiologists/security/2fa-enable/03-2fa-desativada.jpeg)
+![Two-factor authentication disabled](/images/en/radiologists/security/2fa-enable/03-2fa-desativada.jpeg)
 
-### 5. Clique em "Ativar"
+### 5. Click "Activate"
 
-Selecione o método desejado e clique em **"Ativar"** para iniciar o processo.
+Select the desired method and click **"Activate"** to start the process.
 
-![Ativar](/images/en/radiologists/security/2fa-enable/04-activate.jpeg)
+![Activate](/images/en/radiologists/security/2fa-enable/04-activate.jpeg)
 
-### 6. Informe o código de verificação
+### 6. Enter the verification code
 
-Um código será enviado pelo método de autenticação selecionado (e-mail ou WhatsApp). Insira o código no campo indicado.
+A code will be sent via the selected authentication method (email or WhatsApp). Enter the code in the indicated field.
 
-![Código de verificação](/images/en/radiologists/security/2fa-enable/05-code.jpeg)
+![Verification code](/images/en/radiologists/security/2fa-enable/05-code.jpeg)
 
-### 7. Clique em "Confirmar"
+### 7. Click "Confirm"
 
-Clique em **"Confirmar"** para concluir a ativação da autenticação de dois fatores.
+Click **"Confirm"** to complete the two-factor authentication activation.
 
-![Confirmar](/images/en/radiologists/security/2fa-enable/06-confirm.jpeg)
+![Confirm](/images/en/radiologists/security/2fa-enable/06-confirm.jpeg)
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/faq) ou entre em contato com o suporte se encontrar problemas ao ativar a autenticação de dois fatores.
+Check our [FAQ](/en/faq) or contact support if you have trouble enabling two-factor authentication.

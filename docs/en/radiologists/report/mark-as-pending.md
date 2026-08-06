@@ -1,6 +1,6 @@
-# How to Marcar um Exame como Pendente
+# How to Mark an Exam as Pending
 
-Aprenda como alterar o status de um exame em andamento para pendente na plataforma UniRadio.
+Learn how to change the status of an in-progress exam to pending on the UniRadio platform.
 
 ## Step by Step
 
@@ -8,36 +8,36 @@ Aprenda como alterar o status de um exame em andamento para pendente na platafor
 
 Sign in to your account and go to [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
 
-### 2. Filtre pelos exames em andamento
+### 2. Filter by in-progress exams
 
-Clique na aba **"Em Andamento"** para listar apenas os exames com esse status.
+Click the **"In Progress"** tab to list only the exams with that status.
 
-![Aba Em Andamento](/images/en/radiologists/report/mark-as-pending/01-in-progress.jpeg)
+![In Progress tab](/images/en/radiologists/report/mark-as-pending/01-in-progress.jpeg)
 
-### 3. Selecione o exame
+### 3. Select the exam
 
-Clique sobre o exame que deseja marcar como pendente.
+Click the exam you want to mark as pending.
 
-![Selecionar exame](/images/en/radiologists/report/mark-as-pending/02-select-exam.jpeg)
+![Select exam](/images/en/radiologists/report/mark-as-pending/02-select-exam.jpeg)
 
-### 4. Clique em "Ações"
+### 4. Click "Actions"
 
-Clique no botão **"Ações"** para abrir o menu de opções disponíveis para o exame.
+Click the **"Actions"** button to open the menu of available options for the exam.
 
-![Menu Ações](/images/en/radiologists/report/mark-as-pending/03-acoes.jpeg)
+![Actions menu](/images/en/radiologists/report/mark-as-pending/03-acoes.jpeg)
 
-### 5. Clique em "Marcar como pendente"
+### 5. Click "Mark as pending"
 
-Selecione a opção **"Marcar como pendente"** no menu de ações.
+Select the **"Mark as pending"** option from the actions menu.
 
-![Marcar como pendente](/images/en/radiologists/report/mark-as-pending/04-mark-pending.jpeg)
+![Mark as pending](/images/en/radiologists/report/mark-as-pending/04-mark-pending.jpeg)
 
-### 6. Confirme a ação
+### 6. Confirm the action
 
-Clique em **"Confirmar"** para concluir a alteração de status do exame.
+Click **"Confirm"** to complete the exam status change.
 
-![Confirmar](/images/en/radiologists/report/mark-as-pending/05-confirm.jpeg)
+![Confirm](/images/en/radiologists/report/mark-as-pending/05-confirm.jpeg)
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/faq) ou entre em contato com o suporte se encontrar problemas.
+Check our [FAQ](/en/faq) or contact support if you have trouble.

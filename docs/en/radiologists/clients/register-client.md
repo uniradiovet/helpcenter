@@ -1,6 +1,6 @@
-# How to Cadastrar um Novo Cliente
+# How to Register a New Client
 
-Aprenda como adicionar um novo cliente à sua conta na plataforma UniRadio e enviar o convite de acesso.
+Learn how to add a new client to your account on the UniRadio platform and send the access invitation.
 
 ## Step by Step
 
@@ -8,42 +8,42 @@ Aprenda como adicionar um novo cliente à sua conta na plataforma UniRadio e env
 
 Sign in to your account and go to [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
 
-### 2. Acesse "Clientes"
+### 2. Open "Clients"
 
-No menu lateral, clique em **"Clientes"** para acessar a listagem de clientes cadastrados.
+In the side menu, click **"Clients"** to access the list of registered clients.
 
-![Clientes](/images/en/radiologists/clients/register-client/01-clients.jpeg)
+![Clients](/images/en/radiologists/clients/register-client/01-clients.jpeg)
 
-### 3. Clique em "Novo Cliente"
+### 3. Click "New Client"
 
-Clique no botão **"Novo Cliente"** para iniciar o cadastro.
+Click the **"New Client"** button to start the registration.
 
-![Novo Cliente](/images/en/radiologists/clients/register-client/02-new-client.jpeg)
+![New Client](/images/en/radiologists/clients/register-client/02-new-client.jpeg)
 
-### 4. Preencha os campos obrigatórios
+### 4. Fill in the required fields
 
-Informe os dados do cliente, como nome e e-mail, para enviar o convite de acesso.
+Enter the client's details, such as name and email, to send the access invitation.
 
-:::tip Usuário novo
-Se o e-mail informado ainda não estiver cadastrado na plataforma, o usuário será criado automaticamente ao aceitar o convite.
+:::tip New user
+If the email provided is not yet registered on the platform, the user will be created automatically upon accepting the invitation.
 :::
 
-:::warning Pular envio de e-mail
-Se a opção **"Pular envio de e-mail de convite"** for marcada, o usuário convidado **não receberá nenhuma notificação** por e-mail e será ativado automaticamente.
+:::warning Skip email sending
+If the **"Skip invitation email"** option is checked, the invited user **will not receive any email notification** and will be activated automatically.
 :::
 
-![Preencher campos](/images/en/radiologists/clients/register-client/03-fill-fields.jpeg)
+![Fill fields](/images/en/radiologists/clients/register-client/03-fill-fields.jpeg)
 
-### 5. Clique em "Enviar Convite"
+### 5. Click "Send Invitation"
 
-Após preencher os dados, clique em **"Enviar Convite"** para concluir o cadastro e notificar o cliente.
+After filling in the details, click **"Send Invitation"** to complete the registration and notify the client.
 
-![Enviar Convite](/images/en/radiologists/clients/register-client/04-send-invite.jpeg)
+![Send Invitation](/images/en/radiologists/clients/register-client/04-send-invite.jpeg)
 
-## Descrição dos campos
+## Field Descriptions
 
-Para entender o significado de cada campo deste formulário, consulte [Campos para adicionar novo cliente (clínica)](/en/radiologists/fields/fields-new-client).
+To understand what each field in this form means, see [Fields for adding a new client (clinic)](/en/radiologists/fields/fields-new-client).
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/faq) ou entre em contato com o suporte se encontrar problemas ao cadastrar clientes.
+Check our [FAQ](/en/faq) or contact support if you have issues registering clients.

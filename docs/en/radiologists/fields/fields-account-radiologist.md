@@ -1,63 +1,63 @@
-# Campos da conta (Radiologista)
+# Account fields (Radiologist)
 
-Entenda o que cada campo nas configurações da conta de radiologista significa.
+Understand what each field in the radiologist account settings means.
 
 ::: tip TIP
-As configurações detalhadas de laudo, templates, urgência e outros parâmetros avançados estão disponíveis em **Configurações** no menu principal.
+Detailed settings for reports, templates, urgency, and other advanced parameters are available under **Settings** in the main menu.
 :::
 
 ---
 
-## **Conta**
+## **Account**
 
-**Logo da conta**: Imagem de logotipo da conta exibida no sistema e nos PDFs de laudos gerados. Formatos aceitos: JPEG, PNG ou GIF.
+**Account logo**: Logo image for the account, displayed in the system and on generated report PDFs. Accepted formats: JPEG, PNG or GIF.
 
-**Nome da conta** *(obrigatório)*: Nome fantasia ou razão social da conta de radiologia, exibido no sistema e nos documentos emitidos.
+**Account name** *(required)*: Trade name or legal name of the radiology account, displayed in the system and on issued documents.
 
-**E-mail da conta**: E-mail principal da conta, utilizado para comunicações do sistema.
-
----
-
-## **Endereço**
-
-**Nome de cobrança**: Nome completo ou razão social para fins de cobrança e emissão de documentos fiscais.
-
-**CNPJ**: Número do CNPJ da conta de radiologia.
-
-**DDD/País + Telefone**: Código do país e número de telefone de contato da conta.
-
-**CEP**: Código de Endereçamento Postal.
-
-**Endereço**: Logradouro (rua, avenida etc.).
-
-**Número**: Número do estabelecimento.
-
-**Complemento**: Informações adicionais do endereço (sala, bloco, andar etc.).
-
-**Cidade**: Cidade onde a conta está localizada.
-
-**Bairro**: Bairro da conta.
-
-**Estado**: Estado (UF).
-
-**País**: País.
+**Account email**: Main email address for the account, used for system communications.
 
 ---
 
-## **Contatos**
+## **Address**
 
-Lista de contatos informativos da conta. Estes contatos **não são usuários do sistema** e não possuem acesso à plataforma. Servem apenas para registro interno de informações de responsáveis.
+**Billing name**: Full name or legal name for billing and fiscal document purposes.
 
-Cada contato possui os seguintes campos:
+**CNPJ**: CNPJ number of the radiology account.
 
-**Nome do contato**: Nome completo do responsável.
+**Country code + Phone**: Country code and contact phone number for the account.
 
-**CPF**: CPF do responsável.
+**ZIP Code**: Postal code.
 
-**CRMV do responsável técnico**: Número do CRMV do médico veterinário responsável técnico.
+**Address**: Street, avenue, etc.
 
-**Tipo**: Classificação do contato:
-- **Responsável Técnico**: Médico veterinário responsável técnico.
-- **Administrador**: Responsável administrativo da conta.
+**Number**: Establishment number.
 
-É possível adicionar múltiplos contatos clicando em **Adicionar Contato**.
+**Complement**: Additional address information (suite, building, floor, etc.).
+
+**City**: City where the account is located.
+
+**District**: Neighborhood/district of the account.
+
+**State**: State (abbreviation).
+
+**Country**: Country.
+
+---
+
+## **Contacts**
+
+List of informational contacts for the account. These contacts are **not system users** and do not have access to the platform. They serve only as internal records of responsible parties.
+
+Each contact has the following fields:
+
+**Contact name**: Full name of the responsible person.
+
+**CPF**: Tax ID number of the responsible person.
+
+**CRMV of the technical responsible**: CRMV registration number of the veterinarian who is the technical responsible.
+
+**Type**: Contact classification:
+- **Technical Responsible**: Veterinarian who is the technical responsible.
+- **Administrator**: Administrative responsible for the account.
+
+Multiple contacts can be added by clicking **Add Contact**.

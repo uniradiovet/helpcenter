@@ -1,6 +1,6 @@
-# How to Editar um Webhook
+# How to Edit a Webhook
 
-Aprenda como acessar e modificar as configurações de um webhook existente na plataforma UniRadio para manter suas integrações ativas e atualizadas.
+Learn how to access and modify the settings of an existing webhook on the UniRadio platform to keep your integrations active and up to date.
 
 ## Step by Step
 
@@ -8,46 +8,46 @@ Aprenda como acessar e modificar as configurações de um webhook existente na p
 
 Sign in to your account and go to [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
 
-### 2. Acesse o menu de configurações
+### 2. Open the settings menu
 
-No menu lateral, clique no ícone de configurações para abrir as opções da conta.
+In the side menu, click the settings icon to open the account options.
 
-![Menu de configurações](/images/en/radiologists/integrations/webhooks-edit/01-menu.jpeg)
+![Settings menu](/images/en/radiologists/integrations/webhooks-edit/01-menu.jpeg)
 
-### 3. Clique em "Integrações"
+### 3. Click "Integrations"
 
-No menu de configurações, clique em **"Integrações"** para acessar as opções de integração.
+In the settings menu, click **"Integrations"** to access the integration options.
 
-![Integrações](/images/en/radiologists/integrations/webhooks-edit/02-integrations.jpeg)
+![Integrations](/images/en/radiologists/integrations/webhooks-edit/02-integrations.jpeg)
 
-### 4. Clique em "Webhooks"
+### 4. Click "Webhooks"
 
-Dentro das integrações, clique em **"Webhooks"** para visualizar os webhooks cadastrados.
+Inside integrations, click **"Webhooks"** to view the registered webhooks.
 
 ![Webhooks](/images/en/radiologists/integrations/webhooks-edit/03-webhooks.jpeg)
 
-### 5. Clique em "Editar"
+### 5. Click "Edit"
 
-Localize o webhook que deseja modificar e clique em **"Editar"**.
+Locate the webhook you want to modify and click **"Edit"**.
 
-![Editar webhook](/images/en/radiologists/integrations/webhooks-edit/04-edit.jpeg)
+![Edit webhook](/images/en/radiologists/integrations/webhooks-edit/04-edit.jpeg)
 
-### 6. Atualize as informações desejadas
+### 6. Update the desired information
 
-Modifique a URL de destino, o nome ou os eventos monitorados pelo webhook.
+Modify the destination URL, name, or events monitored by the webhook.
 
-:::warning Desativar webhook
-O formulário possui uma opção para desmarcar a ativação do webhook. Ao desativá-lo, ele deixa de disparar eventos, mas **não é excluído** da plataforma. Use esta opção caso queira pausar temporariamente a integração sem perder as configurações.
+:::warning Disable webhook
+The form has an option to uncheck the webhook activation. When disabled, it stops firing events but is **not deleted** from the platform. Use this option if you want to temporarily pause the integration without losing your settings.
 :::
 
-![Formulário de edição](/images/en/radiologists/integrations/webhooks-edit/05-formulario.jpeg)
+![Edit form](/images/en/radiologists/integrations/webhooks-edit/05-formulario.jpeg)
 
-### 7. Clique em "Salvar"
+### 7. Click "Save"
 
-Após realizar as alterações desejadas, clique em **"Salvar"** para confirmar.
+After making the desired changes, click **"Save"** to confirm.
 
-![Salvar alterações](/images/en/radiologists/integrations/webhooks-edit/06-save.jpeg)
+![Save changes](/images/en/radiologists/integrations/webhooks-edit/06-save.jpeg)
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/faq) ou entre em contato com o suporte se encontrar problemas ao editar webhooks.
+Check our [FAQ](/en/faq) or contact support if you have trouble editing webhooks.

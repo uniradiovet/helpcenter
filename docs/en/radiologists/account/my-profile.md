@@ -1,6 +1,6 @@
-# How to Editar Meu Perfil
+# How to Edit My Profile
 
-Aprenda como acessar e atualizar as informações do seu perfil na plataforma UniRadio.
+Learn how to access and update your profile information on the UniRadio platform.
 
 ## Step by Step
 
@@ -8,28 +8,28 @@ Aprenda como acessar e atualizar as informações do seu perfil na plataforma Un
 
 Sign in to your account and go to [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
 
-### 2. Clique no menu do usuário
+### 2. Click on the user menu
 
-No canto superior direito, clique no seu nome ou ícone de usuário para abrir o menu.
+In the upper-right corner, click on your name or user icon to open the menu.
 
-![Menu do usuário](/images/en/radiologists/account/my-profile/01-radiologist.jpeg)
+![User menu](/images/en/radiologists/account/my-profile/01-radiologist.jpeg)
 
-### 3. Clique em "Meu Perfil"
+### 3. Click on "My Profile"
 
-![Meu Perfil](/images/en/radiologists/account/my-profile/02-my-profile.jpeg)
+![My Profile](/images/en/radiologists/account/my-profile/02-my-profile.jpeg)
 
-### 4. Edite as informações desejadas
+### 4. Edit the desired information
 
-Atualize os campos que deseja alterar, como nome, assinatura digital, CRMV, logo ou outras informações profissionais.
+Update the fields you want to change, such as your name, digital signature, CRMV, logo, or other professional details.
 
-![Editar informações](/images/en/radiologists/account/my-profile/03-edit-info.jpeg)
+![Edit information](/images/en/radiologists/account/my-profile/03-edit-info.jpeg)
 
-### 5. Clique em "Salvar"
+### 5. Click "Save"
 
-Após realizar as alterações, clique em **"Salvar"** para confirmar as mudanças.
+After making the changes, click **"Save"** to confirm them.
 
-![Salvar](/images/en/radiologists/account/my-profile/04-save.jpeg)
+![Save](/images/en/radiologists/account/my-profile/04-save.jpeg)
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/faq) ou entre em contato com o suporte se encontrar problemas ao editar seu perfil.
+Check our [FAQ](/en/faq) or contact support if you encounter any issues editing your profile.

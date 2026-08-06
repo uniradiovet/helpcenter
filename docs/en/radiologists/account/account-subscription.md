@@ -1,6 +1,6 @@
-# How to Gerenciar a Assinatura da Conta
+# How to Manage Account Subscription
 
-Aprenda como acessar e gerenciar os detalhes da sua assinatura na plataforma UniRadio, incluindo o plano atual, data de cobrança e método de pagamento.
+Learn how to access and manage your subscription details on the UniRadio platform, including your current plan, billing date, and payment method.
 
 ## Step by Step
 
@@ -8,28 +8,28 @@ Aprenda como acessar e gerenciar os detalhes da sua assinatura na plataforma Uni
 
 Sign in to your account and go to [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
 
-### 2. Clique em "Minha Conta"
+### 2. Click on "My Account"
 
-No menu superior, clique em **"Minha Conta"** para acessar as configurações da sua conta.
+In the top menu, click on **"My Account"** to access your account settings.
 
-![Minha Conta](/images/en/radiologists/account/account-subscription/01-my-account.jpeg)
+![My Account](/images/en/radiologists/account/account-subscription/01-my-account.jpeg)
 
-### 3. Clique em "Assinatura"
+### 3. Click on "Subscription"
 
-Acesse a seção de assinatura da sua conta.
+Access the subscription section of your account.
 
-![Assinatura](/images/en/radiologists/account/account-subscription/02-subscription.jpeg)
+![Subscription](/images/en/radiologists/account/account-subscription/02-subscription.jpeg)
 
-### 4. Clique em "Gerenciar Assinatura e Pagamentos"
+### 4. Click on "Manage Subscription and Payments"
 
-![Gerenciar Assinatura e Pagamentos](/images/en/radiologists/account/account-subscription/03-manage-subscription.jpeg)
+![Manage Subscription and Payments](/images/en/radiologists/account/account-subscription/03-manage-subscription.jpeg)
 
-### 5. Visualize os detalhes e o histórico da assinatura
+### 5. View subscription details and history
 
-Você terá acesso às informações completas da sua assinatura, incluindo o plano contratado, a data de renovação e o histórico de pagamentos.
+You will have access to the complete information about your subscription, including the contracted plan, renewal date, and payment history.
 
-![Detalhes da assinatura](/images/en/radiologists/account/account-subscription/04-details-subscription.jpeg)
+![Subscription details](/images/en/radiologists/account/account-subscription/04-details-subscription.jpeg)
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/faq) ou entre em contato com o suporte se encontrar problemas ao gerenciar sua assinatura.
+Check our [FAQ](/en/faq) or contact support if you encounter any issues managing your subscription.

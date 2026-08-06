@@ -1,6 +1,6 @@
-# How to Configurar a Gestão Financeira
+# How to Configure Financial Management
 
-Aprenda como acessar e personalizar as configurações de gestão financeira na plataforma UniRadio.
+Learn how to access and customize the financial management settings on the UniRadio platform.
 
 ## Step by Step
 
@@ -8,38 +8,38 @@ Aprenda como acessar e personalizar as configurações de gestão financeira na 
 
 Sign in to your account and go to [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
 
-### 2. Acesse o menu de configurações
+### 2. Open the settings menu
 
-No menu lateral, clique no ícone de configurações para abrir as opções da conta.
+In the side menu, click the settings icon to open the account options.
 
-![Menu de configurações](/images/en/radiologists/settings/financial-settings/01-menu.jpeg)
+![Settings menu](/images/en/radiologists/settings/financial-settings/01-menu.jpeg)
 
-### 3. Clique em "Financeiro"
+### 3. Click "Financial"
 
-No menu de configurações, clique em **"Financeiro"** para acessar as configurações de gestão financeira.
+In the settings menu, click **"Financial"** to access the financial management settings.
 
-![Financeiro](/images/en/radiologists/settings/financial-settings/02-financeiro.jpeg)
+![Financial](/images/en/radiologists/settings/financial-settings/02-financeiro.jpeg)
 
-### 4. Edite as informações desejadas
+### 4. Edit the desired information
 
-Ajuste as configurações de acordo com a necessidade da sua conta.
+Adjust the settings according to your account's needs.
 
-:::tip Ao ativar a Gestão Financeira você poderá:
+:::tip By enabling Financial Management you will be able to:
 
-- **Definir o valor de cada laudo** — Cadastre o preço cobrado por cada tipo de exame laudado.
-- **Configurar métodos de pagamento** — Selecione as formas de pagamento aceitas pelos seus clientes.
-- **Gerar relatórios financeiros** — Acompanhe o faturamento e o histórico de cobranças diretamente na plataforma.
-- **Selecionar a moeda** — Escolha entre **Real (BRL)** ou **Dólar (USD)** para exibição dos valores.
+- **Set the value per report** — Register the price charged for each type of reported exam.
+- **Configure payment methods** — Select the payment methods accepted by your clients.
+- **Generate financial reports** — Track billing and charge history directly on the platform.
+- **Select the currency** — Choose between **Real (BRL)** or **Dollar (USD)** for displaying values.
   :::
 
-![Editar informações](/images/en/radiologists/settings/financial-settings/03-edit.jpeg)
+![Edit information](/images/en/radiologists/settings/financial-settings/03-edit.jpeg)
 
-### 5. Clique em "Salvar"
+### 5. Click "Save"
 
-Após realizar as alterações desejadas, clique em **"Salvar"** para confirmar as configurações.
+After making the desired changes, click **"Save"** to confirm the settings.
 
-![Salvar](/images/en/radiologists/settings/financial-settings/04-save.jpeg)
+![Save](/images/en/radiologists/settings/financial-settings/04-save.jpeg)
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/faq) ou entre em contato com o suporte se encontrar problemas ao configurar a gestão financeira.
+Check our [FAQ](/en/faq) or contact support if you have trouble configuring financial management.

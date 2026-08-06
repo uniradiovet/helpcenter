@@ -1,6 +1,6 @@
-# How to Cadastrar um Novo Webhook
+# How to Register a New Webhook
 
-Aprenda como configurar um novo webhook na sua conta UniRadio para integrar serviços externos e receber notificações automáticas sobre eventos da plataforma.
+Learn how to configure a new webhook in your UniRadio account to integrate external services and receive automatic notifications about platform events.
 
 ## Step by Step
 
@@ -8,53 +8,53 @@ Aprenda como configurar um novo webhook na sua conta UniRadio para integrar serv
 
 Sign in to your account and go to [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
 
-### 2. Acesse o menu de configurações
+### 2. Open the settings menu
 
-No menu lateral, clique no ícone de configurações para abrir as opções da conta.
+In the side menu, click the settings icon to open the account options.
 
-![Menu de configurações](/images/en/radiologists/integrations/webhooks-new/01-menu.jpeg)
+![Settings menu](/images/en/radiologists/integrations/webhooks-new/01-menu.jpeg)
 
-### 3. Clique em "Integrações"
+### 3. Click "Integrations"
 
-No menu de configurações, clique em **"Integrações"** para acessar as opções de integração.
+In the settings menu, click **"Integrations"** to access the integration options.
 
-![Integrações](/images/en/radiologists/integrations/webhooks-new/02-integrations.jpeg)
+![Integrations](/images/en/radiologists/integrations/webhooks-new/02-integrations.jpeg)
 
-### 4. Clique em "Webhooks"
+### 4. Click "Webhooks"
 
-Dentro das integrações, clique em **"Webhooks"** para gerenciar os webhooks da conta.
+Inside integrations, click **"Webhooks"** to manage the account webhooks.
 
 ![Webhooks](/images/en/radiologists/integrations/webhooks-new/03-webhooks.jpeg)
 
-### 5. Clique em "Novo Webhook"
+### 5. Click "New Webhook"
 
-Clique no botão **"Novo Webhook"** para iniciar o cadastro.
+Click the **"New Webhook"** button to start the registration.
 
-![Novo Webhook](/images/en/radiologists/integrations/webhooks-new/04-new-webhook.jpeg)
+![New Webhook](/images/en/radiologists/integrations/webhooks-new/04-new-webhook.jpeg)
 
-### 6. Preencha os campos e selecione os eventos
+### 6. Fill in the fields and select the events
 
-Informe a URL de destino do webhook e selecione os eventos que deseja monitorar.
+Enter the destination URL for the webhook and select the events you want to monitor.
 
-:::tip Eventos disponíveis
-Selecione um ou mais eventos para acionar o webhook automaticamente:
+:::tip Available events
+Select one or more events to trigger the webhook automatically:
 
-- **Exame enviado** — notificado quando um novo exame é enviado à plataforma.
-- **Exame atualizado** — notificado quando os dados de um exame são alterados.
-- **Laudo enviado** — notificado quando um laudo é emitido.
-- **Laudo atualizado** — notificado quando um laudo existente é modificado.
-- **Novo usuário cadastrado** — notificado quando um novo usuário é criado na conta.
-- **Usuário atualizado** — notificado quando os dados de um usuário são alterados.
+- **Exam submitted** — notified when a new exam is submitted to the platform.
+- **Exam updated** — notified when an exam's data is changed.
+- **Report submitted** — notified when a report is issued.
+- **Report updated** — notified when an existing report is modified.
+- **New user registered** — notified when a new user is created in the account.
+- **User updated** — notified when a user's data is changed.
   :::
 
-![Formulário de webhook](/images/en/radiologists/integrations/webhooks-new/05-formulario.jpeg)
+![Webhook form](/images/en/radiologists/integrations/webhooks-new/05-formulario.jpeg)
 
-### 7. Clique em "Salvar"
+### 7. Click "Save"
 
-Após preencher as informações, clique em **"Salvar"** para confirmar o cadastro do webhook.
+After filling in the information, click **"Save"** to confirm the webhook registration.
 
-![Salvar webhook](/images/en/radiologists/integrations/webhooks-new/06-save.jpeg)
+![Save webhook](/images/en/radiologists/integrations/webhooks-new/06-save.jpeg)
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/faq) ou entre em contato com o suporte se encontrar problemas ao configurar webhooks.
+Check our [FAQ](/en/faq) or contact support if you have trouble configuring webhooks.

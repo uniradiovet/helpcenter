@@ -1,6 +1,6 @@
-# How to Configurar a Pesquisa NPS
+# How to Configure the NPS Survey
 
-Aprenda como acessar e personalizar as configurações da pesquisa NPS na plataforma UniRadio, ativando a coleta de avaliações dos seus clientes.
+Learn how to access and customize the NPS survey settings on the UniRadio platform, enabling the collection of client ratings.
 
 ## Step by Step
 
@@ -8,36 +8,36 @@ Aprenda como acessar e personalizar as configurações da pesquisa NPS na plataf
 
 Sign in to your account and go to [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
 
-### 2. Acesse o menu de configurações
+### 2. Open the settings menu
 
-No menu lateral, clique no ícone de configurações para abrir as opções da conta.
+In the side menu, click the settings icon to open the account options.
 
-![Menu de configurações](/images/en/radiologists/settings/nps-settings/01-menu.jpeg)
+![Settings menu](/images/en/radiologists/settings/nps-settings/01-menu.jpeg)
 
-### 3. Clique em "Pesquisa NPS"
+### 3. Click "NPS Survey"
 
-No menu de configurações, clique em **"Pesquisa NPS"** para acessar as configurações de avaliação.
+In the settings menu, click **"NPS Survey"** to access the rating settings.
 
-![Pesquisa NPS](/images/en/radiologists/settings/nps-settings/02-pesquisa-nps.jpeg)
+![NPS Survey](/images/en/radiologists/settings/nps-settings/02-pesquisa-nps.jpeg)
 
-### 4. Edite as informações desejadas
+### 4. Edit the desired information
 
-Ajuste as configurações de acordo com a necessidade da sua conta.
+Adjust the settings according to your account's needs.
 
-:::tip Opções disponíveis
+:::tip Available options
 
-- **Ativar Pesquisa NPS** — Habilita o envio automático da pesquisa de satisfação NPS (Net Promoter Score) aos seus clientes a cada três meses.
-- **Ativar Avaliação do Laudo** — Permite que os clientes avaliem individualmente os laudos emitidos pelo radiologista.
+- **Enable NPS Survey** — Enables automatic sending of the NPS (Net Promoter Score) satisfaction survey to your clients every three months.
+- **Enable Report Rating** — Allows clients to individually rate the reports issued by the radiologist.
   :::
 
-![Editar informações](/images/en/radiologists/settings/nps-settings/03-edit.jpeg)
+![Edit information](/images/en/radiologists/settings/nps-settings/03-edit.jpeg)
 
-### 5. Clique em "Salvar"
+### 5. Click "Save"
 
-Após realizar as alterações desejadas, clique em **"Salvar"** para confirmar as configurações.
+After making the desired changes, click **"Save"** to confirm the settings.
 
-![Salvar](/images/en/radiologists/settings/nps-settings/04-save.jpeg)
+![Save](/images/en/radiologists/settings/nps-settings/04-save.jpeg)
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/faq) ou entre em contato com o suporte se encontrar problemas ao configurar a pesquisa NPS.
+Check our [FAQ](/en/faq) or contact support if you have trouble configuring the NPS survey.

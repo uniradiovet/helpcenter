@@ -2,9 +2,9 @@
 
 ## General Questions
 
-### What is UniRadio?
+### What is the UniRadio App?
 
-UniRadio is a teleradiology platform that connects veterinary clinics with radiologists for specialized image interpretation and report generation.
+UniRadio App is a teleradiology platform that connects veterinary clinics with radiologists for specialized image interpretation and report generation.
 
 ### Who can use UniRadio?
 

@@ -5,3 +5,7 @@ docs/.vitepress/dist
 *.log
 .env
 .env.local
+
+#custom folders
+working-folder/
+.claude/

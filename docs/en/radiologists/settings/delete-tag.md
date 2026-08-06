@@ -1,6 +1,6 @@
-# How to Excluir uma Tag
+# How to Delete a Tag
 
-Aprenda como remover uma tag da sua conta na plataforma UniRadio.
+Learn how to remove a tag from your account on the UniRadio platform.
 
 ## Step by Step
 
@@ -8,30 +8,30 @@ Aprenda como remover uma tag da sua conta na plataforma UniRadio.
 
 Sign in to your account and go to [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
 
-### 2. Acesse o menu de configurações
+### 2. Open the settings menu
 
-No menu lateral, clique no ícone de configurações para abrir as opções da conta.
+In the side menu, click the settings icon to open the account options.
 
-![Menu de configurações](/images/en/radiologists/settings/delete-tag/01-menu.jpeg)
+![Settings menu](/images/en/radiologists/settings/delete-tag/01-menu.jpeg)
 
-### 3. Clique em "Tags"
+### 3. Click "Tags"
 
-No menu de configurações, clique em **"Tags"** para visualizar as tags cadastradas.
+In the settings menu, click **"Tags"** to view the registered tags.
 
 ![Tags](/images/en/radiologists/settings/delete-tag/02-tags.jpeg)
 
-### 4. Clique no ícone de excluir
+### 4. Click the delete icon
 
-Ao lado da tag que deseja remover, clique no ícone de exclusão.
+Next to the tag you want to remove, click the delete icon.
 
-![Excluir tag](/images/en/radiologists/settings/delete-tag/03-delete-tag.jpeg)
+![Delete tag](/images/en/radiologists/settings/delete-tag/03-delete-tag.jpeg)
 
-### 5. Clique em "Continuar"
+### 5. Click "Continue"
 
-Na janela de confirmação, clique em **"Continuar"** para confirmar a exclusão da tag.
+In the confirmation dialog, click **"Continue"** to confirm the tag deletion.
 
-![Continuar](/images/en/radiologists/settings/delete-tag/04-continue.jpeg)
+![Continue](/images/en/radiologists/settings/delete-tag/04-continue.jpeg)
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/faq) ou entre em contato com o suporte se encontrar problemas ao excluir tags.
+Check our [FAQ](/en/faq) or contact support if you have trouble deleting tags.

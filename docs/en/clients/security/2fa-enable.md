@@ -1,57 +1,56 @@
-# How to Ativar a Autenticação de Dois Fatores
+# How to Enable Two-Factor Authentication
 
-Melhore a segurança da sua conta ativando a autenticação de dois fatores (2FA) na plataforma UniRadio.
+Improve your account security by enabling two-factor authentication (2FA) on the UniRadio platform.
 
-::: tip Métodos disponíveis
-O App da UniRadio oferece dois métodos de autenticação de dois fatores:
+::: tip Available methods
+The UniRadio app offers two two-factor authentication methods:
 
-- **E-mail** — um código de verificação será enviado para o e-mail cadastrado no seu perfil.
-- **WhatsApp** — um código de verificação será enviado para o número de telefone cadastrado no seu perfil.
+- **Email** — a verification code will be sent to the email address registered in your profile.
+- **WhatsApp** — a verification code will be sent to the phone number registered in your profile.
 
-Certifique-se de que o e-mail e o telefone do seu perfil estejam atualizados antes de ativar.
+Make sure your profile email and phone number are up to date before enabling.
 :::
 
 ## Step by Step
 
 ### 1. Access the UniRadio platform
 
-Navegue até [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
+Navigate to [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
 
-### 2. Acesse o menu do usuário
+### 2. Open the user menu
 
-Clique no seu nome ou avatar no canto superior para abrir o menu do usuário.
+Click on your name or avatar at the top to open the user menu.
 
-![Menu do usuário](/images/en/clients/security/2fa/01-menu-user.jpeg)
+![User menu](/images/en/clients/security/2fa/01-menu-user.jpeg)
 
-### 3. Clique em "Meu Perfil"
+### 3. Click "My Profile"
 
-![Usuários](/images/en/clients/security/2fa/02-my-profile.jpeg)
+![Users](/images/en/clients/security/2fa/02-my-profile.jpeg)
 
-### 4. Clique no botão indicado para selecionar o método de autenticação
+### 4. Click the indicated button to select the authentication method
 
-Localize a opção de autenticação de dois fatores e clique nela para iniciar a ativação.
+Find the two-factor authentication option and click it to start the activation.
 
-![Autenticação de dois fatores desativada](/images/en/clients/security/2fa/03-2fa-desativada.jpeg)
+![Two-factor authentication disabled](/images/en/clients/security/2fa/03-2fa-desativada.jpeg)
 
-### 5. Clique em "Ativar"
+### 5. Click "Enable"
 
-Selecione o método desejado e clique em **"Ativar"** para iniciar a ativação.
+Select the desired method and click **"Enable"** to start the activation.
 
-![Ativar autenticação de dois fatores](/images/en/clients/security/2fa/04-activate.jpeg)
+![Enable two-factor authentication](/images/en/clients/security/2fa/04-activate.jpeg)
 
-### 6. Informe o código de verificação
+### 6. Enter the verification code
 
-Um e-mail ou mensagem será enviado pelo app da UniRadio com o código de verificação para o método autenticação selecionado. Insira o código no campo indicado e clique em **"Confirmar"**.
-Um e-mail será enviado pelo app da UniRadio com o código de verificação. Insira o código no campo indicado e c
+An email or message will be sent by the UniRadio app with the verification code for the selected authentication method. Enter the code in the indicated field and click **"Confirm"**.
 
-![Validar autenticação](/images/en/clients/security/2fa/05-validar.jpeg)
+![Validate authentication](/images/en/clients/security/2fa/05-validar.jpeg)
 
-### 7. Clique em "Confirmar"
+### 7. Click "Confirm"
 
-Clique no botão de **"Confirmar"** para concluir a ativação.
+Click the **"Confirm"** button to complete the activation.
 
-![Inserir código de verificação](/images/en/clients/security/2fa/06-confirm.jpeg)
+![Enter verification code](/images/en/clients/security/2fa/06-confirm.jpeg)
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/faq) ou entre em contato com seu radiologista se encontrar problemas.
+Check our [FAQ](/en/faq) or contact your radiologist if you encounter any issues.

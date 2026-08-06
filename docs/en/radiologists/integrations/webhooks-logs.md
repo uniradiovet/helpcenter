@@ -1,6 +1,6 @@
-# How to Visualizar os Logs de um Webhook
+# How to View Webhook Logs
 
-Aprenda como acessar e analisar os registros de eventos de um webhook na plataforma UniRadio para fins de monitoramento ou resolução de problemas.
+Learn how to access and analyze the event records of a webhook on the UniRadio platform for monitoring or troubleshooting purposes.
 
 ## Step by Step
 
@@ -8,46 +8,46 @@ Aprenda como acessar e analisar os registros de eventos de um webhook na platafo
 
 Sign in to your account and go to [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
 
-### 2. Acesse o menu de configurações
+### 2. Open the settings menu
 
-No menu lateral, clique no ícone de configurações para abrir as opções da conta.
+In the side menu, click the settings icon to open the account options.
 
-![Menu de configurações](/images/en/radiologists/integrations/webhooks-logs/01-menu.jpeg)
+![Settings menu](/images/en/radiologists/integrations/webhooks-logs/01-menu.jpeg)
 
-### 3. Clique em "Integrações"
+### 3. Click "Integrations"
 
-No menu de configurações, clique em **"Integrações"** para acessar as opções de integração.
+In the settings menu, click **"Integrations"** to access the integration options.
 
-![Integrações](/images/en/radiologists/integrations/webhooks-logs/02-integrations.jpeg)
+![Integrations](/images/en/radiologists/integrations/webhooks-logs/02-integrations.jpeg)
 
-### 4. Clique em "Webhooks"
+### 4. Click "Webhooks"
 
-Dentro das integrações, clique em **"Webhooks"** para visualizar os webhooks cadastrados.
+Inside integrations, click **"Webhooks"** to view the registered webhooks.
 
 ![Webhooks](/images/en/radiologists/integrations/webhooks-logs/03-webhooks.jpeg)
 
-### 5. Clique em "Logs"
+### 5. Click "Logs"
 
-Acesse a aba de logs do webhook desejado.
+Open the logs tab for the desired webhook.
 
 ![Logs](/images/en/radiologists/integrations/webhooks-logs/04-logs.jpeg)
 
-### 6. Visualize os registros de eventos
+### 6. View the event records
 
-A lista exibe um resumo rápido dos eventos recentes disparados pelo webhook, incluindo status e a resposta retornada pelo servidor.
+The list shows a quick summary of recent events fired by the webhook, including status and the response returned by the server.
 
-![Lista de logs](/images/en/radiologists/integrations/webhooks-logs/05-lista-logs.jpeg)
+![Log list](/images/en/radiologists/integrations/webhooks-logs/05-lista-logs.jpeg)
 
-### 7. Clique em "Ver detalhes" para inspecionar um evento
+### 7. Click "View details" to inspect an event
 
-![Ver detalhes](/images/en/radiologists/integrations/webhooks-logs/06-ver-details.jpeg)
+![View details](/images/en/radiologists/integrations/webhooks-logs/06-ver-details.jpeg)
 
-### 8. Analise os detalhes completos do evento
+### 8. Analyze the full event details
 
-Visualize as informações técnicas completas do evento selecionado, como payload enviado, código de resposta e timestamp.
+View the complete technical information of the selected event, such as the payload sent, response code, and timestamp.
 
-![Detalhes do evento](/images/en/radiologists/integrations/webhooks-logs/07-details-event.jpeg)
+![Event details](/images/en/radiologists/integrations/webhooks-logs/07-details-event.jpeg)
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/faq) ou entre em contato com o suporte se encontrar problemas ao visualizar os logs de webhooks.
+Check our [FAQ](/en/faq) or contact support if you have trouble viewing webhook logs.

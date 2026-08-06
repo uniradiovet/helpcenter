@@ -1,35 +1,35 @@
-# How to Excluir um Webhook
+# How to Delete a Webhook
 
-Aprenda como remover um webhook da sua conta na plataforma UniRadio.
+Learn how to remove a webhook from your account on the UniRadio platform.
 
 ## Step by Step
 
 ### 1. Access the UniRadio platform
 
-Navegue até [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
+Navigate to [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
 
-### 2. Acesse as configurações da conta
+### 2. Access the account settings
 
-Clique no ícone de engrenagem no canto superior direito para acessar as configurações da conta.
+Click the gear icon in the top-right corner to access the account settings.
 
-![Configurações da conta](/images/en/clients/integrations/webhooks-delete/01-menu.jpeg)
+![Account settings](/images/en/clients/integrations/webhooks-delete/01-menu.jpeg)
 
-### 3. Clique em "Integrações"
+### 3. Click "Integrations"
 
-![Integrações](/images/en/clients/integrations/webhooks-delete/02-integrations.jpeg)
+![Integrations](/images/en/clients/integrations/webhooks-delete/02-integrations.jpeg)
 
-### 4. Clique em "Webhooks"
+### 4. Click "Webhooks"
 
 ![Webhooks](/images/en/clients/integrations/webhooks-delete/03-webhooks.jpeg)
 
-### 5. Clique no ícone de lixeira para excluir o webhook desejado
+### 5. Click the trash icon to delete the desired webhook
 
-![Excluir webhook](/images/en/clients/integrations/webhooks-delete/04-delete.jpeg)
+![Delete webhook](/images/en/clients/integrations/webhooks-delete/04-delete.jpeg)
 
-### 6. Clique em "Continuar" para confirmar a exclusão
+### 6. Click "Continue" to confirm the deletion
 
-![Confirmar exclusão](/images/en/clients/integrations/webhooks-delete/05-confirm.jpeg)
+![Confirm deletion](/images/en/clients/integrations/webhooks-delete/05-confirm.jpeg)
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/faq) ou entre em contato com seu radiologista se encontrar problemas.
+Check our [FAQ](/en/faq) or contact your radiologist if you encounter any issues.

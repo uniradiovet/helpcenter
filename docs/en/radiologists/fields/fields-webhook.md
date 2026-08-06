@@ -1,52 +1,52 @@
-# Campos do webhook
+# Webhook fields
 
-Entenda o que cada campo no formulário de criação/edição de webhook significa.
+Understand what each field in the webhook creation/editing form means.
 
-Webhooks permitem que o sistema envie notificações automáticas para sistemas externos sempre que determinados eventos ocorrem na plataforma.
+Webhooks allow the system to send automatic notifications to external systems whenever certain events occur on the platform.
 
 ---
 
 ## **URL**
 
-**URL** *(obrigatório)*: Endereço do endpoint que receberá as requisições do webhook. Deve ser uma URL HTTPS acessível publicamente.
+**URL** *(required)*: Endpoint address that will receive the webhook requests. Must be a publicly accessible HTTPS URL.
 
-Exemplo: `https://meusite.com/webhooks`
-
----
-
-## **Descrição**
-
-**Descrição**: Texto livre para identificar a finalidade deste webhook. Útil para diferenciar múltiplos webhooks configurados na conta.
-
-Exemplo: *"Integração com sistema de gestão clínica XYZ"*
+Example: `https://mysite.com/webhooks`
 
 ---
 
-## **Eventos**
+## **Description**
 
-Selecione quais eventos do sistema devem disparar este webhook. É possível marcar múltiplos eventos.
+**Description**: Free text to identify the purpose of this webhook. Useful for differentiating multiple webhooks configured in the account.
 
-| Evento | Descrição |
+Example: *"Integration with XYZ clinic management system"*
+
+---
+
+## **Events**
+
+Select which system events should trigger this webhook. Multiple events can be checked.
+
+| Event | Description |
 |---|---|
-| **Exame enviado** | Disparado quando um novo exame é criado/enviado pela clínica. |
-| **Exame atualizado** | Disparado quando os dados de um exame são editados. |
-| **Laudo enviado** | Disparado quando um laudo é finalizado e enviado. |
-| **Laudo atualizado** | Disparado quando um laudo já enviado é editado. |
-| **Novo usuário cadastrado** | Disparado quando um novo usuário aceita o convite e se cadastra na conta. |
-| **Usuário atualizado** | Disparado quando os dados de um usuário são alterados. |
-| **Novo cliente cadastrado** | Disparado quando uma nova clínica cliente é adicionada à conta. |
-| **Cliente atualizado** | Disparado quando os dados de uma clínica cliente são alterados. |
+| **Exam submitted** | Triggered when a new exam is created/submitted by the clinic. |
+| **Exam updated** | Triggered when the data of an exam is edited. |
+| **Report submitted** | Triggered when a report is finalized and sent. |
+| **Report updated** | Triggered when an already-submitted report is edited. |
+| **New user registered** | Triggered when a new user accepts the invitation and registers in the account. |
+| **User updated** | Triggered when a user's data is changed. |
+| **New client registered** | Triggered when a new client clinic is added to the account. |
+| **Client updated** | Triggered when a client clinic's data is changed. |
 
 ::: warning ATTENTION
-Os eventos **Novo cliente cadastrado** e **Cliente atualizado** estão disponíveis apenas para contas do tipo radiologista. Contas de clínica não visualizam essas opções.
+The **New client registered** and **Client updated** events are available only for radiologist-type accounts. Clinic accounts do not see these options.
 :::
 
 ---
 
-## **Ativo**
+## **Active**
 
-**Webhook ativo**: Quando ativado, o webhook está em operação e os eventos selecionados disparam requisições para a URL configurada. Quando desativado, o webhook é pausado sem ser excluído.
+**Webhook active**: When enabled, the webhook is in operation and selected events trigger requests to the configured URL. When disabled, the webhook is paused without being deleted.
 
 ::: tip TIP
-Desative o webhook temporariamente durante manutenções no sistema externo para evitar falhas de entrega sem precisar excluir a configuração.
+Temporarily disable the webhook during maintenance on the external system to avoid delivery failures without needing to delete the configuration.
 :::

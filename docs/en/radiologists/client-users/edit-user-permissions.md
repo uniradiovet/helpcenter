@@ -1,6 +1,6 @@
-# How to Editar as Permissões de um Usuário da Conta de um Cliente
+# How to Edit Permissions for a Client Account User
 
-Aprenda como configurar as permissões de acesso de um usuário vinculado à conta de um cliente na plataforma UniRadio.
+Learn how to configure the access permissions of a user linked to a client account on the UniRadio platform.
 
 ## Step by Step
 
@@ -8,54 +8,54 @@ Aprenda como configurar as permissões de acesso de um usuário vinculado à con
 
 Sign in to your account and go to [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
 
-### 2. Acesse "Clientes"
+### 2. Access "Clients"
 
-No menu lateral, clique em **"Clientes"** para visualizar a lista de clientes cadastrados.
+In the side menu, click on **"Clients"** to view the list of registered clients.
 
-![Clientes](/images/en/radiologists/client-users/edit-user-permissions/01-clients.jpeg)
+![Clients](/images/en/radiologists/client-users/edit-user-permissions/01-clients.jpeg)
 
-### 3. Selecione a clínica
+### 3. Select the clinic
 
-Clique sobre a clínica para abrir a página de gerenciamento.
+Click on the clinic to open its management page.
 
-![Selecionar clínica](/images/en/radiologists/client-users/edit-user-permissions/02-select-clinic.jpeg)
+![Select clinic](/images/en/radiologists/client-users/edit-user-permissions/02-select-clinic.jpeg)
 
-### 4. Acesse "Usuários da Conta"
+### 4. Access "Account Users"
 
-Dentro do perfil do cliente, clique em **"Usuários da Conta"** para visualizar os usuários vinculados a ele.
+Inside the client profile, click on **"Account Users"** to view the users linked to it.
 
-![Usuários da Conta](/images/en/radiologists/client-users/edit-user-permissions/03-users-account.jpeg)
+![Account Users](/images/en/radiologists/client-users/edit-user-permissions/03-users-account.jpeg)
 
-### 5. Selecione o usuário
+### 5. Select the user
 
-Clique sobre o nome do usuário cujas permissões deseja editar.
+Click on the name of the user whose permissions you want to edit.
 
-![Selecionar usuário](/images/en/radiologists/client-users/edit-user-permissions/04-select-user.jpeg)
+![Select user](/images/en/radiologists/client-users/edit-user-permissions/04-select-user.jpeg)
 
-### 6. Clique em "Permissões"
+### 6. Click on "Permissions"
 
-Na página do usuário, clique na aba **"Permissões"** para acessar as configurações de acesso.
+On the user page, click the **"Permissions"** tab to access the access settings.
 
-![Permissões](/images/en/radiologists/client-users/edit-user-permissions/05-permissions.jpeg)
+![Permissions](/images/en/radiologists/client-users/edit-user-permissions/05-permissions.jpeg)
 
-### 7. Selecione a função do usuário
+### 7. Select the user role
 
-Clique no dropdown para escolher a função do usuário: **Administrativo** (acesso completo) ou **Membro** (acesso configurável).
+Click the dropdown to choose the user role: **Administrative** (full access) or **Member** (configurable access).
 
-![Dropdown de função](/images/en/radiologists/client-users/edit-user-permissions/06-dropdown.jpeg)
+![Role dropdown](/images/en/radiologists/client-users/edit-user-permissions/06-dropdown.jpeg)
 
-### 8. Configure as permissões (se for Membro)
+### 8. Configure permissions (if Member)
 
-Caso a função selecionada seja **Membro**, marque as permissões específicas que o usuário deve ter.
+If the selected role is **Member**, check the specific permissions the user should have.
 
-![Selecionar permissões](/images/en/radiologists/client-users/edit-user-permissions/07-select-permissions.jpeg)
+![Select permissions](/images/en/radiologists/client-users/edit-user-permissions/07-select-permissions.jpeg)
 
-### 9. Clique em "Salvar"
+### 9. Click "Save"
 
-Após configurar as permissões, clique em **"Salvar"** para confirmar as alterações.
+After configuring the permissions, click **"Save"** to confirm the changes.
 
-![Salvar](/images/en/radiologists/client-users/edit-user-permissions/08-save.jpeg)
+![Save](/images/en/radiologists/client-users/edit-user-permissions/08-save.jpeg)
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/faq) ou entre em contato com o suporte se encontrar problemas ao editar permissões de usuários.
+Check our [FAQ](/en/faq) or contact support if you encounter any issues editing user permissions.

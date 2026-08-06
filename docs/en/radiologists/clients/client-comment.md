@@ -1,6 +1,6 @@
-# How to Adicionar e Excluir Comentários na Conta de um Cliente
+# How to Add and Delete Comments on a Client Account
 
-Aprenda como adicionar e excluir comentários internos no perfil de um cliente na plataforma UniRadio.
+Learn how to add and delete internal comments on a client's profile on the UniRadio platform.
 
 ## Step by Step
 
@@ -8,42 +8,42 @@ Aprenda como adicionar e excluir comentários internos no perfil de um cliente n
 
 Sign in to your account and go to [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
 
-### 2. Acesse "Clientes"
+### 2. Open "Clients"
 
-No menu lateral, clique em **"Clientes"** para visualizar a lista de clientes cadastrados.
+In the side menu, click **"Clients"** to view the list of registered clients.
 
-![Clientes](/images/en/radiologists/clients/client-comment/01-clients.jpeg)
+![Clients](/images/en/radiologists/clients/client-comment/01-clients.jpeg)
 
-### 3. Selecione a clínica
+### 3. Select the clinic
 
-Clique sobre o cliente no qual deseja deixar um comentário.
+Click on the client whose profile you want to leave a comment on.
 
-![Selecionar clínica](/images/en/radiologists/clients/client-comment/02-select-clinic.jpeg)
+![Select clinic](/images/en/radiologists/clients/client-comment/02-select-clinic.jpeg)
 
-### 4. Clique no campo "Comentário"
+### 4. Click the "Comment" field
 
-Localize o campo de comentário no perfil do cliente e clique sobre ele para começar a digitar.
+Locate the comment field on the client's profile and click on it to start typing.
 
-![Campo Comentário](/images/en/radiologists/clients/client-comment/03-campo-comment.jpeg)
+![Comment field](/images/en/radiologists/clients/client-comment/03-campo-comment.jpeg)
 
-### 5. Clique em "Enviar Comentário"
+### 5. Click "Submit Comment"
 
-Após escrever o comentário, clique em **"Enviar Comentário"** para salvá-lo no perfil do cliente.
+After writing the comment, click **"Submit Comment"** to save it to the client's profile.
 
-![Enviar Comentário](/images/en/radiologists/clients/client-comment/04-send-comment.jpeg)
+![Submit Comment](/images/en/radiologists/clients/client-comment/04-send-comment.jpeg)
 
-### 6. Clique no ícone de lixeira
+### 6. Click the trash icon
 
-Role para o final da página e localize o comentário que deseja remover e clique no ícone de lixeira correspondente.
+Scroll to the bottom of the page, locate the comment you want to remove, and click the corresponding trash icon.
 
-![Ícone excluir](/images/en/radiologists/clients/delete-client-comment/03-icone-delete.jpeg)
+![Delete icon](/images/en/radiologists/clients/delete-client-comment/03-icone-delete.jpeg)
 
-### 7. Clique em "Continuar" para confirmar
+### 7. Click "Continue" to confirm
 
-Clique em **"Continuar"** para confirmar a exclusão. O comentário será removido permanentemente da conta do cliente.
+Click **"Continue"** to confirm the deletion. The comment will be permanently removed from the client's account.
 
-![Confirmar exclusão](/images/en/radiologists/clients/delete-client-comment/04-continue.jpeg)
+![Confirm deletion](/images/en/radiologists/clients/delete-client-comment/04-continue.jpeg)
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/faq) ou entre em contato com o suporte se encontrar problemas ao adicionar ou excluir comentários.
+Check our [FAQ](/en/faq) or contact support if you have issues adding or deleting comments.

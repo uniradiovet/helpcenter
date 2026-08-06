@@ -1,6 +1,6 @@
-# How to Editar as Notificações de um Usuário da Conta de um Cliente
+# How to Edit Notifications for a Client Account User
 
-Aprenda como acessar e configurar as preferências de notificação de um usuário vinculado à conta de um cliente na plataforma UniRadio.
+Learn how to access and configure the notification preferences of a user linked to a client account on the UniRadio platform.
 
 ## Step by Step
 
@@ -8,52 +8,52 @@ Aprenda como acessar e configurar as preferências de notificação de um usuár
 
 Sign in to your account and go to [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
 
-### 2. Acesse "Clientes"
+### 2. Access "Clients"
 
-No menu lateral, clique em **"Clientes"** para visualizar a lista de clientes cadastrados.
+In the side menu, click on **"Clients"** to view the list of registered clients.
 
-![Clientes](/images/en/radiologists/client-users/edit-user-notifications/01-clients.jpeg)
+![Clients](/images/en/radiologists/client-users/edit-user-notifications/01-clients.jpeg)
 
-### 3. Selecione a clínica
+### 3. Select the clinic
 
-Clique sobre a clínica para abrir a página de gerenciamento.
+Click on the clinic to open its management page.
 
-![Selecionar clínica](/images/en/radiologists/client-users/edit-user-notifications/02-select-clinic.jpeg)
+![Select clinic](/images/en/radiologists/client-users/edit-user-notifications/02-select-clinic.jpeg)
 
-### 4. Acesse "Usuários da Conta"
+### 4. Access "Account Users"
 
-Dentro do perfil do cliente, clique em **"Usuários da Conta"** para visualizar os usuários vinculados a ele.
+Inside the client profile, click on **"Account Users"** to view the users linked to it.
 
-![Usuários da Conta](/images/en/radiologists/client-users/edit-user-notifications/03-users-account.jpeg)
+![Account Users](/images/en/radiologists/client-users/edit-user-notifications/03-users-account.jpeg)
 
-### 5. Selecione o usuário
+### 5. Select the user
 
-Clique sobre o nome do usuário cujas notificações deseja configurar.
+Click on the name of the user whose notifications you want to configure.
 
-![Selecionar usuário](/images/en/radiologists/client-users/edit-user-notifications/04-select-user.jpeg)
+![Select user](/images/en/radiologists/client-users/edit-user-notifications/04-select-user.jpeg)
 
-### 6. Clique em "Notificações"
+### 6. Click on "Notifications"
 
-Na página do usuário, clique na aba **"Notificações"** para acessar as preferências de alertas.
+On the user page, click the **"Notifications"** tab to access the alert preferences.
 
-![Notificações](/images/en/radiologists/client-users/edit-user-notifications/05-notifications.jpeg)
+![Notifications](/images/en/radiologists/client-users/edit-user-notifications/05-notifications.jpeg)
 
-### 7. Selecione as preferências de notificação
+### 7. Select the notification preferences
 
-Marque ou desmarque as opções de notificação da conta do cliente conforme desejado, como alertas de rejeição de exames e outras atividades da conta.
+Check or uncheck the notification options for the client account as desired, such as alerts for exam rejections and other account activity.
 
-![Preferências de notificação](/images/en/radiologists/client-users/edit-user-notifications/06-preferencias.jpeg)
+![Notification preferences](/images/en/radiologists/client-users/edit-user-notifications/06-preferencias.jpeg)
 
-### 8. Clique em "Salvar"
+### 8. Click "Save"
 
-Após ajustar as configurações de notificação desejadas, clique em **"Salvar"** para confirmar as alterações.
+After adjusting the desired notification settings, click **"Save"** to confirm the changes.
 
-![Salvar](/images/en/radiologists/client-users/edit-user-notifications/07-save.jpeg)
+![Save](/images/en/radiologists/client-users/edit-user-notifications/07-save.jpeg)
 
-## Descrição dos campos
+## Field descriptions
 
-Para entender o significado de cada opção de notificação, consulte [Preferências de notificações (Clínica)](/en/clients/fields/fields-notifications).
+To understand the meaning of each notification option, see [Notification preferences (Clinic)](/en/clients/fields/fields-notifications).
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/faq) ou entre em contato com o suporte se encontrar problemas ao editar notificações de usuários.
+Check our [FAQ](/en/faq) or contact support if you encounter any issues editing user notifications.

@@ -1,6 +1,6 @@
-# How to Anexar Imagens a um Exame
+# How to Attach Images to an Exam
 
-Aprenda como selecionar e anexar arquivos de imagem a um exame em andamento na plataforma UniRadio.
+Learn how to select and attach image files to an in-progress exam in the UniRadio platform.
 
 ## Step by Step
 
@@ -8,30 +8,30 @@ Aprenda como selecionar e anexar arquivos de imagem a um exame em andamento na p
 
 Sign in to your account and go to [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
 
-### 2. Clique em "Em Andamento"
+### 2. Click on "In Progress"
 
-Filtre os exames pelo status **"Em Andamento"** para localizar o exame ao qual deseja anexar imagens.
+Filter exams by the **"In Progress"** status to locate the exam to which you want to attach images.
 
-![Em Andamento](/images/en/radiologists/exam/exam-upload-images/01-in-progress.jpeg)
+![In Progress](/images/en/radiologists/exam/exam-upload-images/01-in-progress.jpeg)
 
-### 3. Selecione o exame desejado
+### 3. Select the desired exam
 
-Clique sobre o exame para abrir os detalhes do caso.
+Click on the exam to open the case details.
 
-![Selecionar exame](/images/en/radiologists/exam/exam-upload-images/02-select-exam.jpeg)
+![Select exam](/images/en/radiologists/exam/exam-upload-images/02-select-exam.jpeg)
 
-### 4. Clique em "Selecionar arquivos" e escolha as imagens
+### 4. Click "Select files" and choose the images
 
-Na seção de anexos do exame, clique em **"Selecionar arquivos"** e selecione as imagens que deseja anexar.
+In the attachments section of the exam, click **"Select files"** and select the images you want to attach.
 
-![Selecionar arquivos](/images/en/radiologists/exam/exam-upload-images/03-select-files.jpeg)
+![Select files](/images/en/radiologists/exam/exam-upload-images/03-select-files.jpeg)
 
-### 5. As imagens serão anexadas ao exame
+### 5. The images will be attached to the exam
 
-Após a seleção, as imagens serão carregadas e exibidas como anexos do exame.
+After selection, the images will be uploaded and displayed as exam attachments.
 
-![Imagens anexadas](/images/en/radiologists/exam/exam-upload-images/04-images-attached.jpeg)
+![Images attached](/images/en/radiologists/exam/exam-upload-images/04-images-attached.jpeg)
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/faq) ou entre em contato com o suporte se encontrar problemas ao anexar imagens a um exame.
+Check our [FAQ](/en/faq) or contact support if you encounter any issues when attaching images to an exam.

@@ -1,6 +1,6 @@
-# How to Inserir um Modelo de Laudo em um Exame
+# How to Insert a Report Template into an Exam
 
-Aprenda como aplicar modelos de laudos pré-definidos aos seus exames na plataforma UniRadio, agilizando o preenchimento e garantindo consistência nos seus registros.
+Learn how to apply pre-defined report templates to your exams on the UniRadio platform, speeding up the filling process and ensuring consistency in your records.
 
 ## Step by Step
 
@@ -8,48 +8,48 @@ Aprenda como aplicar modelos de laudos pré-definidos aos seus exames na platafo
 
 Sign in to your account and go to [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
 
-### 2. Filtre pelos exames em andamento
+### 2. Filter by in-progress exams
 
-Clique na aba **"Em Andamento"** para listar os exames que aguardam laudo.
+Click the **"In Progress"** tab to list the exams awaiting a report.
 
-![Aba Em Andamento](/images/en/radiologists/report/inserir-modelo-laudo/01-in-progress.jpeg)
+![In Progress tab](/images/en/radiologists/report/inserir-modelo-laudo/01-in-progress.jpeg)
 
-### 3. Selecione o exame
+### 3. Select the exam
 
-Clique sobre o exame no qual deseja inserir o modelo de laudo.
+Click the exam in which you want to insert the report template.
 
-![Selecionar exame](/images/en/radiologists/report/inserir-modelo-laudo/02-select-exam.jpeg)
+![Select exam](/images/en/radiologists/report/inserir-modelo-laudo/02-select-exam.jpeg)
 
-### 4. Clique em "Usar um modelo"
+### 4. Click "Use a template"
 
-Existem duas formas de inserir o modelo de laudo no editor:
+There are two ways to insert a report template into the editor:
 
-**Opção 1: Usando o botão "Usar um modelo"**
+**Option 1: Using the "Use a template" button**
 
-Clique no botão **"Usar um modelo"** para abrir a lista de modelos disponíveis.
+Click the **"Use a template"** button to open the list of available templates.
 
-**Opção 2: Usando o atalho "#"**
+**Option 2: Using the "#" shortcut**
 
-Digite **"#"** seguido do nome do modelo (ex.: `#modelo-raio-x`, `#modelo_ultrassom`) diretamente no editor de laudo. Isso ativa o autocompletar e lista os modelos disponíveis para seleção rápida.
+Type **"#"** followed by the template name (e.g., `#xray-template`, `#ultrasound_template`) directly in the report editor. This activates the autocomplete and lists available templates for quick selection.
 
-![Usar um modelo](/images/en/radiologists/report/inserir-modelo-laudo/03-use-template.jpeg)
+![Use a template](/images/en/radiologists/report/inserir-modelo-laudo/03-use-template.jpeg)
 
-### 5. Selecione o modelo desejado (se clicar em "Usar um modelo")
+### 5. Select the desired template (when using "Use a template")
 
-Escolha o modelo de laudo que deseja aplicar ao exame.
+Choose the report template you want to apply to the exam.
 
-![Selecionar modelo](/images/en/radiologists/report/inserir-modelo-laudo/04-select-template.jpeg)
+![Select template](/images/en/radiologists/report/inserir-modelo-laudo/04-select-template.jpeg)
 
-### 6. Clique em "Inserir"
+### 6. Click "Insert"
 
-Clique em **"Inserir"** para aplicar o modelo ao laudo. O conteúdo será preenchido automaticamente no editor.
+Click **"Insert"** to apply the template to the report. The content will be automatically filled in the editor.
 
-![Inserir modelo](/images/en/radiologists/report/inserir-modelo-laudo/05-inserir.jpeg)
+![Insert template](/images/en/radiologists/report/inserir-modelo-laudo/05-inserir.jpeg)
 
-## Descrição dos campos
+## Field Descriptions
 
-Para entender o significado de cada campo do editor de laudo, consulte [Campos do laudo](/en/radiologists/fields/fields-report).
+To understand the meaning of each field in the report editor, see [Report Fields](/en/radiologists/fields/fields-report).
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/faq) ou entre em contato com o suporte se encontrar problemas ao inserir modelos de laudos.
+Check our [FAQ](/en/faq) or contact support if you have trouble inserting report templates.

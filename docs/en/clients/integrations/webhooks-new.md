@@ -1,52 +1,52 @@
-# How to Cadastrar um Novo Webhook
+# How to Register a New Webhook
 
-Aprenda como configurar um novo webhook na sua conta UniRadio para integrar serviços externos e receber notificações automáticas sobre eventos da plataforma.
+Learn how to configure a new webhook in your UniRadio account to integrate external services and receive automatic notifications about platform events.
 
 ## Step by Step
 
 ### 1. Access the UniRadio platform
 
-Navegue até [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
+Navigate to [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
 
-### 2. Acesse as configurações da conta
+### 2. Access the account settings
 
-Clique no ícone de engrenagem no canto superior direito para acessar as configurações da conta.
+Click the gear icon in the top-right corner to access the account settings.
 
-![Configurações da conta](/images/en/clients/integrations/webhooks/01-menu.jpeg)
+![Account settings](/images/en/clients/integrations/webhooks/01-menu.jpeg)
 
-### 3. Clique em "Integrações"
+### 3. Click "Integrations"
 
-![Integrações](/images/en/clients/integrations/webhooks/02-integrations.jpeg)
+![Integrations](/images/en/clients/integrations/webhooks/02-integrations.jpeg)
 
-### 4. Clique em "Webhooks"
+### 4. Click "Webhooks"
 
 ![Webhooks](/images/en/clients/integrations/webhooks/03-webhooks.jpeg)
 
-### 5. Clique em "Novo Webhook"
+### 5. Click "New Webhook"
 
-![Novo Webhook](/images/en/clients/integrations/webhooks/04-new-webhook.jpeg)
+![New Webhook](/images/en/clients/integrations/webhooks/04-new-webhook.jpeg)
 
-### 6. Preencha os campos e selecione os eventos
+### 6. Fill in the fields and select events
 
-Informe a URL de destino do webhook e selecione os eventos que deseja monitorar.
+Enter the destination URL of the webhook and select the events you want to monitor.
 
-::: tip Eventos disponíveis
-Selecione um ou mais eventos para acionar o webhook automaticamente:
+::: tip Available events
+Select one or more events to trigger the webhook automatically:
 
-- **Exame enviado** — notificado quando um novo exame é enviado à plataforma.
-- **Exame atualizado** — notificado quando os dados de um exame são alterados.
-- **Laudo enviado** — notificado quando um laudo é emitido.
-- **Laudo atualizado** — notificado quando um laudo existente é modificado.
-- **Novo usuário cadastrado** — notificado quando um novo usuário é criado na conta.
-- **Usuário atualizado** — notificado quando os dados de um usuário são alterados.
+- **Exam submitted** — notified when a new exam is submitted to the platform.
+- **Exam updated** — notified when the data of an exam is changed.
+- **Report submitted** — notified when a report is issued.
+- **Report updated** — notified when an existing report is modified.
+- **New user registered** — notified when a new user is created in the account.
+- **User updated** — notified when a user's data is changed.
   :::
 
-![Formulário de webhook](/images/en/clients/integrations/webhooks/05-formulario.jpeg)
+![Webhook form](/images/en/clients/integrations/webhooks/05-formulario.jpeg)
 
-### 7. Clique em "Salvar"
+### 7. Click "Save"
 
-![Salvar webhook](/images/en/clients/integrations/webhooks/06-save.jpeg)
+![Save webhook](/images/en/clients/integrations/webhooks/06-save.jpeg)
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/faq) ou entre em contato com seu radiologista se encontrar problemas.
+Check our [FAQ](/en/faq) or contact your radiologist if you encounter any issues.

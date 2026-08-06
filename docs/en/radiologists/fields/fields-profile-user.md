@@ -1,64 +1,64 @@
-# Campos do perfil do usuário
+# User profile fields
 
-Entenda o que cada campo no formulário de perfil significa.
-
----
-
-## **Dados pessoais**
-
-**Foto de perfil**: Imagem exibida no sistema para identificar o usuário. Formatos aceitos: JPEG, PNG ou GIF.
-
-**Nome** *(obrigatório)*: Nome completo do usuário, exibido nos laudos e no sistema.
-
-**E-mail** *(obrigatório)*: Endereço de e-mail do usuário, utilizado para login e notificações.
-
-**DDD/País + Telefone**: Código do país e número de telefone de contato. Utilizado também como canal de autenticação em dois fatores via WhatsApp.
+Understand what each field in the profile form means.
 
 ---
 
-## **Dados profissionais**
+## **Personal data**
 
-**CRMV**: Número de registro do médico veterinário no Conselho Regional de Medicina Veterinária. Exibido nos laudos gerados.
+**Profile photo**: Image displayed in the system to identify the user. Accepted formats: JPEG, PNG or GIF.
 
----
+**Name** *(required)*: Full name of the user, displayed on reports and in the system.
 
-## **Assinatura digital**
+**Email** *(required)*: User's email address, used for login and notifications.
 
-**Assinatura (campo de desenho)**: Área para desenhar a assinatura digital diretamente na tela, usando o mouse ou tela sensível ao toque. A assinatura é aplicada automaticamente nos laudos.
-
-**Upload de assinatura**: Alternativa ao campo de desenho. Permite fazer upload de uma imagem da assinatura (JPEG, PNG ou GIF). Ao fazer upload, substitui a assinatura desenhada.
+**Country code + Phone**: Country code and contact phone number. Also used as a two-factor authentication channel via WhatsApp.
 
 ---
 
-## **Idioma e fuso horário**
+## **Professional data**
 
-**Idioma**: Define o idioma da interface do sistema para o usuário (ex.: Português, Inglês).
-
-**Fuso horário**: Define o fuso horário utilizado para exibição de datas e horários no sistema. Importante para garantir que os horários dos exames e laudos sejam exibidos corretamente.
+**CRMV**: Veterinarian's registration number at the Regional Council of Veterinary Medicine. Displayed on generated reports.
 
 ---
 
-## **Autenticação em dois fatores**
+## **Digital signature**
 
-Camada adicional de segurança que exige verificação de identidade além da senha no momento do login.
+**Signature (drawing field)**: Area to draw the digital signature directly on screen, using a mouse or touch screen. The signature is automatically applied to reports.
 
-**E-mail**: Envia um código de verificação para o e-mail cadastrado no perfil.
+**Upload signature**: Alternative to the drawing field. Allows uploading a signature image (JPEG, PNG or GIF). When uploaded, it replaces the drawn signature.
 
-**WhatsApp**: Envia um código de verificação via WhatsApp para o número de telefone cadastrado no perfil.
+---
+
+## **Language and time zone**
+
+**Language**: Sets the system interface language for the user (e.g., Portuguese, English).
+
+**Time zone**: Sets the time zone used for displaying dates and times in the system. Important to ensure that exam and report times are displayed correctly.
+
+---
+
+## **Two-factor authentication**
+
+Additional security layer that requires identity verification beyond the password at login.
+
+**Email**: Sends a verification code to the email address registered in the profile.
+
+**WhatsApp**: Sends a verification code via WhatsApp to the phone number registered in the profile.
 
 ::: tip TIP
-É possível ativar múltiplos métodos de autenticação simultaneamente. Recomenda-se habilitar ao menos um método para maior segurança da conta.
+Multiple authentication methods can be enabled simultaneously. It is recommended to enable at least one method for greater account security.
 :::
 
 ::: warning ATTENTION
-Para ativar o método WhatsApp, é necessário ter um número de telefone cadastrado no perfil.
+To enable the WhatsApp method, a phone number must be registered in the profile.
 :::
 
 ---
 
-## **Layout da tela de laudo**
+## **Report screen layout**
 
-Define a disposição visual da tela de elaboração do laudo:
+Defines the visual layout of the report editing screen:
 
-- **Padrão**: Layout em duas colunas lado a lado — editor de laudo à esquerda e painel de imagens/detalhes à direita.
-- **Centralizado**: Layout com o editor de laudo centralizado e o painel lateral recolhível, oferecendo mais espaço para a redação do laudo.
+- **Default**: Two-column side-by-side layout — report editor on the left and image/details panel on the right.
+- **Centered**: Layout with the report editor centered and the collapsible side panel, providing more space for writing the report.

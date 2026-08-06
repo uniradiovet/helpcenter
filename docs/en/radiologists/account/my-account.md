@@ -1,6 +1,6 @@
-# How to Atualizar as Informações da Sua Conta
+# How to Update Your Account Information
 
-Aprenda como acessar e editar as informações do seu perfil na plataforma UniRadio para manter seus dados sempre atualizados.
+Learn how to access and edit your profile information on the UniRadio platform to keep your data up to date.
 
 ## Step by Step
 
@@ -8,30 +8,30 @@ Aprenda como acessar e editar as informações do seu perfil na plataforma UniRa
 
 Sign in to your account and go to [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
 
-### 2. Abra o menu de perfil
+### 2. Open the profile menu
 
-Clique no ícone do seu perfil no canto superior da tela para abrir o menu de opções.
+Click on your profile icon in the top corner of the screen to open the options menu.
 
-![Menu de perfil](/images/en/radiologists/account/my-account/01-menu.jpeg)
+![Profile menu](/images/en/radiologists/account/my-account/01-menu.jpeg)
 
-### 3. Clique em "Conta"
+### 3. Click on "Account"
 
-Selecione a opção **"Conta"** no menu para acessar as configurações da sua conta.
+Select the **"Account"** option from the menu to access your account settings.
 
-![Opção Conta](/images/en/radiologists/account/my-account/02-account.jpeg)
+![Account option](/images/en/radiologists/account/my-account/02-account.jpeg)
 
-### 4. Edite as informações desejadas
+### 4. Edit the desired information
 
-Atualize os campos que deseja alterar, como nome, e-mail ou outras informações do perfil.
+Update the fields you want to change, such as your name, email, or other profile details.
 
-![Editar informações](/images/en/radiologists/account/my-account/03-edit.jpeg)
+![Edit information](/images/en/radiologists/account/my-account/03-edit.jpeg)
 
-### 5. Clique em "Salvar"
+### 5. Click "Save"
 
-Após realizar as alterações, clique no botão **"Salvar"** para confirmar as mudanças.
+After making the changes, click the **"Save"** button to confirm them.
 
-![Salvar alterações](/images/en/radiologists/account/my-account/04-save.jpeg)
+![Save changes](/images/en/radiologists/account/my-account/04-save.jpeg)
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/faq) ou entre em contato com o suporte se encontrar problemas ao atualizar sua conta.
+Check our [FAQ](/en/faq) or contact support if you encounter any issues updating your account.

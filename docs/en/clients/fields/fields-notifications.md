@@ -1,71 +1,71 @@
-# Preferências de notificações (Clínica)
+# Notification Preferences (Clinic)
 
-Entenda o que cada notificação significa e como configurá-la na conta de clínica.
+Understand what each notification means and how to configure it in the clinic account.
 
-## Canais de notificação
+## Notification channels
 
-Cada evento possui dois controles independentes:
+Each event has two independent controls:
 
-- **Notificação** — Alerta exibido dentro do próprio sistema, no sino de notificações (canto superior da tela). Você precisa estar com o sistema aberto para visualizá-la.
-- **Email** — Mensagem enviada para o e-mail cadastrado no perfil do usuário. Útil para receber avisos mesmo quando o sistema estiver fechado.
+- **Notification** — Alert displayed within the system itself, in the notification bell (top corner of the screen). You need to have the system open to see it.
+- **Email** — Message sent to the email address registered in the user's profile. Useful for receiving alerts even when the system is closed.
 
-Os dois canais podem ser ativados ou desativados individualmente para cada evento.
+Both channels can be enabled or disabled individually for each event.
 
 ---
 
-## Notificações para Clínicas
+## Notifications for Clinics
 
-Eventos disponíveis para usuários de contas do tipo clínica:
+Events available for users on clinic-type accounts:
 
-### Laudo do exame criado
+### Exam report created
 
-Disparado quando o radiologista finaliza e envia o laudo de um exame.
+Triggered when the radiologist finalizes and sends the report for an exam.
 
-- **Notificação** — Exibe alerta no sino do sistema.
-- **Email** — Envia e-mail informando que o laudo está disponível.
+- **Notification** — Displays an alert in the system bell.
+- **Email** — Sends an email informing that the report is available.
 
 ::: tip TIP
-Esta é a principal notificação para a clínica. Recomenda-se manter o canal de e-mail sempre ativo.
+This is the main notification for the clinic. It is recommended to keep the email channel always active.
 :::
 
 ---
 
-### Exame rejeitado
+### Exam rejected
 
-Disparado quando o radiologista rejeita um exame enviado pela clínica.
+Triggered when the radiologist rejects an exam submitted by the clinic.
 
-- **Notificação** — Exibe alerta no sino do sistema.
-- **Email** — Envia e-mail indicando que o exame precisa ser revisado ou reenviado.
-
----
-
-### Exame pendente
-
-Disparado quando um exame enviado pela clínica entra ou retorna ao status pendente, aguardando ação do radiologista.
-
-- **Notificação** — Exibe alerta no sino do sistema.
-- **Email** — Envia e-mail com o aviso de status.
+- **Notification** — Displays an alert in the system bell.
+- **Email** — Sends an email indicating that the exam needs to be reviewed or resubmitted.
 
 ---
 
-### Lembrete de exame pendente
+### Exam pending
 
-Lembrete periódico disparado enquanto um exame permanece com status pendente.
+Triggered when an exam submitted by the clinic enters or returns to pending status, awaiting action from the radiologist.
 
-- **Notificação** — Exibe alerta no sino do sistema.
-- **Email** — Envia e-mail de lembrete periódico.
+- **Notification** — Displays an alert in the system bell.
+- **Email** — Sends an email with the status notice.
 
 ---
 
-### Comentário criado
+### Pending exam reminder
 
-Disparado quando o radiologista adiciona um comentário em um exame.
+Periodic reminder triggered while an exam remains in pending status.
 
-- **Notificação** — Exibe alerta no sino do sistema.
-- **Email** — Envia e-mail com o comentário recebido.
+- **Notification** — Displays an alert in the system bell.
+- **Email** — Sends a periodic reminder email.
+
+---
+
+### Comment created
+
+Triggered when the radiologist adds a comment on an exam.
+
+- **Notification** — Displays an alert in the system bell.
+- **Email** — Sends an email with the received comment.
 
 ---
 
 ::: tip TIP
-Recomenda-se manter as notificações por e-mail ativas para os eventos mais críticos (como laudo criado e exame rejeitado), garantindo que você seja avisado mesmo quando não estiver com o sistema aberto.
+It is recommended to keep email notifications active for the most critical events (such as report created and exam rejected), ensuring you are notified even when the system is not open.
 :::

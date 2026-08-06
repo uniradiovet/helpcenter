@@ -1,35 +1,35 @@
-# How to Acessar Meu Perfil
+# How to Access My Profile
 
-Aprenda como atualizar as informações do seu perfil na plataforma UniRadio, incluindo foto de perfil e dados pessoais.
+Learn how to update your profile information on the UniRadio platform, including your profile picture and personal details.
 
 ## Step by Step
 
 ### 1. Access the UniRadio platform
 
-Navegue até [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
+Navigate to [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
 
-### 2. Acesse o menu do usuário
+### 2. Open the user menu
 
-Clique no seu nome ou ícone de usuário no canto superior direito para abrir o menu do usuário.
+Click on your name or user icon in the top-right corner to open the user menu.
 
-![Menu do usuário](/images/en/clients/account/my-profile/01-menu-user.jpeg)
+![User menu](/images/en/clients/account/my-profile/01-menu-user.jpeg)
 
-### 3. Clique em "Meu Perfil"
+### 3. Click "My Profile"
 
-![Meu Perfil](/images/en/clients/account/my-profile/02-my-profile.jpeg)
+![My Profile](/images/en/clients/account/my-profile/02-my-profile.jpeg)
 
-### 4. Edite as informações desejadas
+### 4. Edit the desired information
 
-Atualize os campos que deseja alterar, como foto de perfil, nome ou outras informações pessoais.
+Update the fields you want to change, such as your profile picture, name, or other personal details.
 
-![Editar campos do perfil](/images/en/clients/account/my-profile/03-edit-fields.jpeg)
+![Edit profile fields](/images/en/clients/account/my-profile/03-edit-fields.jpeg)
 
-### 5. Clique em "Salvar"
+### 5. Click "Save"
 
-Após realizar as alterações, clique em "Salvar" para confirmar as alterações.
+After making your changes, click "Save" to confirm them.
 
-![Salvar perfil](/images/en/clients/account/my-profile/04-save.jpeg)
+![Save profile](/images/en/clients/account/my-profile/04-save.jpeg)
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/faq) ou entre em contato com seu radiologista se encontrar problemas.
+Check our [FAQ](/en/faq) or contact your radiologist if you encounter any issues.

@@ -28,6 +28,16 @@ Utilize as informações exibidas (endereço do servidor, porta e AE Title) para
 
 ![Configurações do Servidor PACS](/images/clients/pacs/pacs-settings/03-settings.jpeg)
 
+## Qual software você utiliza?
+
+Após obter as informações de conexão, siga o tutorial do seu software de captura para conectá-lo à UniRadio:
+
+- [Carestream](/clients/pacs/carestream-pacs-config)
+- [Ultramedic](/clients/pacs/ultramedic-pacs-config)
+- [DR Tech](/clients/pacs/drtech-pacs-config)
+- [VXVue](/clients/pacs/vxvue-pacs-config)
+- [Voyance](/clients/pacs/voyance-pacs-config)
+
 ## Precisa de Ajuda?
 
 Confira nossas [Perguntas Frequentes](/faq) ou entre em contato com seu radiologista se encontrar problemas.

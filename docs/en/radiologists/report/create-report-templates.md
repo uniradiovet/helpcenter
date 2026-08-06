@@ -1,6 +1,6 @@
-# How to Criar um Modelo de Laudo
+# How to Create a Report Template
 
-Aprenda como criar modelos de laudos personalizados na plataforma UniRadio para agilizar sua documentação.
+Learn how to create custom report templates on the UniRadio platform to speed up your documentation.
 
 ## Step by Step
 
@@ -8,40 +8,40 @@ Aprenda como criar modelos de laudos personalizados na plataforma UniRadio para 
 
 Sign in to your account and go to [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
 
-### 2. Abra o menu lateral
+### 2. Open the side menu
 
-Clique no ícone do menu lateral para expandir as opções de navegação.
+Click the side menu icon to expand the navigation options.
 
-![Menu lateral](/images/en/radiologists/report/create-report-templates/01-menu.jpeg)
+![Side menu](/images/en/radiologists/report/create-report-templates/01-menu.jpeg)
 
-### 3. Acesse "Modelos de Laudos"
+### 3. Go to "Report Templates"
 
-No menu lateral, clique em **"Modelos de Laudos"** para acessar a listagem de modelos existentes.
+In the side menu, click **"Report Templates"** to access the list of existing templates.
 
-![Modelos de Laudos](/images/en/radiologists/report/create-report-templates/02-templates-reports.jpeg)
+![Report Templates](/images/en/radiologists/report/create-report-templates/02-templates-reports.jpeg)
 
-### 4. Clique em "Novo modelo de laudo"
+### 4. Click "New report template"
 
-Clique no botão **"Novo modelo de laudo"** para iniciar a criação de um novo modelo.
+Click the **"New report template"** button to start creating a new template.
 
-![Novo modelo de laudo](/images/en/radiologists/report/create-report-templates/03-new-template.jpeg)
+![New report template](/images/en/radiologists/report/create-report-templates/03-new-template.jpeg)
 
-### 5. Preencha o formulário
+### 5. Fill in the form
 
-Preencha as informações do modelo, como nome, espécie, modalidade e o conteúdo do laudo.
+Fill in the template information, such as name, species, modality, and report content.
 
-::: tip Nomenclatura do modelo
-É recomendado colocar o nome do modelo **sem espaços**, utilizando hífen (-), underscore (\_) ou até mesmo todo junto. Exemplo: `modelo-raio-x`, `modelo_ultrassom`, `modeloradiografia`. Isso facilita a inserção do modelo no editor de laudo utilizando o atalho **"#"** para autocompletar.
+::: tip Template naming
+It is recommended to name the template **without spaces**, using a hyphen (-), underscore (\_), or all together. Example: `xray-template`, `ultrasound_template`, `radiographytemplate`. This makes it easier to insert the template in the report editor using the **"#"** autocomplete shortcut.
 :::
 
-![Preencher formulário](/images/en/radiologists/report/create-report-templates/04-fill-formulario.jpeg)
+![Fill in form](/images/en/radiologists/report/create-report-templates/04-fill-formulario.jpeg)
 
-### 6. Clique em "Salvar"
+### 6. Click "Save"
 
-Após preencher todas as informações, clique em **"Salvar"** para registrar o novo modelo de laudo.
+After filling in all the information, click **"Save"** to register the new report template.
 
-![Salvar](/images/en/radiologists/report/create-report-templates/05-save.jpeg)
+![Save](/images/en/radiologists/report/create-report-templates/05-save.jpeg)
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/faq) ou entre em contato com o suporte se encontrar problemas ao criar modelos de laudos.
+Check our [FAQ](/en/faq) or contact support if you have trouble creating report templates.

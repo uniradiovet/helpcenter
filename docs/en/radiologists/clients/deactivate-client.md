@@ -1,6 +1,6 @@
-# How to Desativar a Conta de um Cliente
+# How to Deactivate a Client Account
 
-Aprenda como desativar a conta de um cliente na plataforma UniRadio através do painel de administração.
+Learn how to deactivate a client account on the UniRadio platform through the administration panel.
 
 ## Step by Step
 
@@ -8,36 +8,36 @@ Aprenda como desativar a conta de um cliente na plataforma UniRadio através do 
 
 Sign in to your account and go to [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
 
-### 2. Acesse "Clientes"
+### 2. Open "Clients"
 
-No menu lateral, clique em **"Clientes"** para visualizar a lista de clientes cadastrados.
+In the side menu, click **"Clients"** to view the list of registered clients.
 
-![Clientes](/images/en/radiologists/clients/deactivate-client/01-clients.jpeg)
+![Clients](/images/en/radiologists/clients/deactivate-client/01-clients.jpeg)
 
-### 3. Selecione a clínica
+### 3. Select the clinic
 
-Clique sobre o cliente cuja conta deseja desativar.
+Click on the client whose account you want to deactivate.
 
-![Selecionar clínica](/images/en/radiologists/clients/deactivate-client/02-select-clinic.jpeg)
+![Select clinic](/images/en/radiologists/clients/deactivate-client/02-select-clinic.jpeg)
 
-### 4. Clique em "Ações"
+### 4. Click "Actions"
 
-Clique no botão **"Ações"** para abrir o menu de opções disponíveis para o cliente.
+Click the **"Actions"** button to open the options menu available for the client.
 
-![Menu Ações](/images/en/radiologists/clients/deactivate-client/03-acoes.jpeg)
+![Actions menu](/images/en/radiologists/clients/deactivate-client/03-acoes.jpeg)
 
-### 5. Clique em "Desativar Conta"
+### 5. Click "Deactivate Account"
 
-Selecione a opção **"Desativar Conta"** no menu de ações.
+Select the **"Deactivate Account"** option from the actions menu.
 
-![Desativar Conta](/images/en/radiologists/clients/deactivate-client/04-deactivate-account.jpeg)
+![Deactivate Account](/images/en/radiologists/clients/deactivate-client/04-deactivate-account.jpeg)
 
-### 6. Selecione o motivo e confirme
+### 6. Select the reason and confirm
 
-Selecione o motivo da desativação e clique em **"Desativar Conta"** para confirmar. A conta do cliente será desativada imediatamente.
+Select the reason for deactivation and click **"Deactivate Account"** to confirm. The client's account will be deactivated immediately.
 
-![Motivo e confirmação](/images/en/radiologists/clients/deactivate-client/05-reason-confirm.jpeg)
+![Reason and confirmation](/images/en/radiologists/clients/deactivate-client/05-reason-confirm.jpeg)
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/faq) ou entre em contato com o suporte se encontrar problemas ao desativar contas de clientes.
+Check our [FAQ](/en/faq) or contact support if you have issues deactivating client accounts.

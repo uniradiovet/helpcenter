@@ -1,31 +1,31 @@
-# How to Acessar o PDF do Laudo
+# How to Access the Report PDF
 
-Aprenda como localizar e abrir o PDF do laudo de um exame finalizado na plataforma UniRadio.
+Learn how to locate and open the PDF report for a completed exam on the UniRadio platform.
 
 ## Step by Step
 
 ### 1. Access the UniRadio platform
 
-Navegue até [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
+Go to [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
 
-### 2. Selecione os exames com status "Finalizado"
+### 2. Select exams with "Completed" status
 
-Clique na aba "Finalizado" para listar apenas os exames que já possuem laudo disponível.
+Click the "Completed" tab to list only the exams that already have a report available.
 
-![Aba Finalizado](/images/en/radiologists/report/report-access/01-finalizado.jpeg)
+![Completed tab](/images/en/radiologists/report/report-access/01-finalizado.jpeg)
 
-### 3. Selecione o exame
+### 3. Select the exam
 
-Clique sobre o exame cujo laudo deseja acessar.
+Click the exam whose report you want to access.
 
-![Selecionar exame](/images/en/radiologists/report/report-access/02-select-exam.jpeg)
+![Select exam](/images/en/radiologists/report/report-access/02-select-exam.jpeg)
 
-### 4. Abra o PDF do laudo
+### 4. Open the report PDF
 
-Clique no ícone de pdf para abrir o PDF do laudo.
+Click the PDF icon to open the report PDF.
 
-![Abrir PDF do laudo](/images/en/radiologists/report/report-access/03-abrir-pdf.jpeg)
+![Open report PDF](/images/en/radiologists/report/report-access/03-abrir-pdf.jpeg)
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/faq) ou entre em contato com o suporte se encontrar problemas.
+Check our [FAQ](/en/faq) or contact support if you have trouble.

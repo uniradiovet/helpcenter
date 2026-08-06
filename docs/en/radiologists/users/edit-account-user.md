@@ -1,6 +1,6 @@
-# How to Editar um Usuário da Conta
+# How to Edit an Account User
 
-Aprenda como acessar e atualizar as informações de perfil de um usuário da sua conta na plataforma UniRadio.
+Learn how to access and update the profile information of a user in your account on the UniRadio platform.
 
 ## Step by Step
 
@@ -8,36 +8,36 @@ Aprenda como acessar e atualizar as informações de perfil de um usuário da su
 
 Sign in to your account and go to [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
 
-### 2. Acesse o menu de configurações
+### 2. Open the settings menu
 
-No menu lateral, clique no ícone de configurações para abrir as opções da conta.
+In the side menu, click the settings icon to open the account options.
 
-![Menu de configurações](/images/en/radiologists/users/edit-account-user/01-menu.jpeg)
+![Settings menu](/images/en/radiologists/users/edit-account-user/01-menu.jpeg)
 
-### 3. Clique em "Usuários"
+### 3. Click "Users"
 
-No menu de configurações, clique em **"Usuários"** para visualizar os membros da sua conta.
+In the settings menu, click **"Users"** to view the members of your account.
 
-![Usuários](/images/en/radiologists/users/edit-account-user/02-users.jpeg)
+![Users](/images/en/radiologists/users/edit-account-user/02-users.jpeg)
 
-### 4. Selecione o usuário
+### 4. Select the user
 
-Clique sobre o nome do usuário que deseja editar.
+Click the name of the user you want to edit.
 
-![Selecionar usuário](/images/en/radiologists/users/edit-account-user/03-select-user.jpeg)
+![Select user](/images/en/radiologists/users/edit-account-user/03-select-user.jpeg)
 
-### 5. Edite as informações desejadas
+### 5. Edit the desired information
 
-Atualize os campos que deseja modificar, como nome, e-mail ou outras informações do perfil.
+Update the fields you want to modify, such as name, email, or other profile information.
 
-![Editar informações](/images/en/radiologists/users/edit-account-user/04-edit-info.jpeg)
+![Edit information](/images/en/radiologists/users/edit-account-user/04-edit-info.jpeg)
 
-### 6. Clique em "Salvar"
+### 6. Click "Save"
 
-Após realizar as alterações, clique em **"Salvar"** para confirmar as mudanças.
+After making the changes, click **"Save"** to confirm the updates.
 
-![Salvar](/images/en/radiologists/users/edit-account-user/05-save.jpeg)
+![Save](/images/en/radiologists/users/edit-account-user/05-save.jpeg)
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/faq) ou entre em contato com o suporte se encontrar problemas ao editar usuários da conta.
+Check our [FAQ](/en/faq) or contact support if you have trouble editing account users.

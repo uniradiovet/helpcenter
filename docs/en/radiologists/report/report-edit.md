@@ -1,49 +1,49 @@
-# How to Editar um Laudo
+# How to Edit a Report
 
-Aprenda como acessar, modificar e liberar um laudo na plataforma UniRadio.
+Learn how to access, modify, and release a report on the UniRadio platform.
 
 ## Step by Step
 
 ### 1. Access the UniRadio platform
 
-Navegue até [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
+Go to [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
 
-### 2. Selecione os exames com status "Finalizado"
+### 2. Select exams with "Completed" status
 
-Clique na aba "Finalizado" para listar apenas os exames que já possuem laudo disponível.
+Click the "Completed" tab to list only the exams that already have a report available.
 
-![Aba Finalizado](/images/en/radiologists/report/report-edit/01-finalizado.jpeg)
+![Completed tab](/images/en/radiologists/report/report-edit/01-finalizado.jpeg)
 
-### 3. Selecione o exame
+### 3. Select the exam
 
-Clique sobre o exame cujo laudo deseja editar.
+Click the exam whose report you want to edit.
 
-![Selecionar exame](/images/en/radiologists/report/report-edit/02-select-exam.jpeg)
+![Select exam](/images/en/radiologists/report/report-edit/02-select-exam.jpeg)
 
-### 4. Clique em "Editar Laudo"
+### 4. Click "Edit Report"
 
-![Editar Laudo](/images/en/radiologists/report/report-edit/03-edit-report.jpeg)
+![Edit Report](/images/en/radiologists/report/report-edit/03-edit-report.jpeg)
 
-### 5. Edite as informações do laudo
+### 5. Edit the report information
 
-Realize as alterações desejadas no conteúdo do laudo.
+Make the desired changes to the report content.
 
-![Editor de laudo](/images/en/radiologists/report/report-edit/04-editor.jpeg)
+![Report editor](/images/en/radiologists/report/report-edit/04-editor.jpeg)
 
-### 6. Clique em "Salvar e enviar"
+### 6. Click "Save and send"
 
-Após concluir as edições, clique em **"Salvar e enviar"** para preparar o laudo para liberação.
+After completing the edits, click **"Save and send"** to prepare the report for release.
 
-![Salvar e enviar](/images/en/radiologists/report/report-edit/05-save-send.jpeg)
+![Save and send](/images/en/radiologists/report/report-edit/05-save-send.jpeg)
 
-### 7. Clique em "Sim, salvar e liberar" para confirmar
+### 7. Click "Yes, save and release" to confirm
 
-![Confirmar liberação](/images/en/radiologists/report/report-edit/06-confirm.jpeg)
+![Confirm release](/images/en/radiologists/report/report-edit/06-confirm.jpeg)
 
-## Descrição dos campos
+## Field Descriptions
 
-Para entender o significado de cada campo do editor de laudo, consulte [Campos do laudo](/en/radiologists/fields/fields-report).
+To understand the meaning of each field in the report editor, see [Report Fields](/en/radiologists/fields/fields-report).
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/faq) ou entre em contato com seu radiologista se encontrar problemas.
+Check our [FAQ](/en/faq) or contact support if you have trouble.

@@ -1,39 +1,39 @@
-# How to Editar Usuários da Conta
+# How to Edit Account Users
 
-Aprenda como acessar e editar os usuários vinculados à sua conta na plataforma UniRadio.
+Learn how to access and edit users linked to your account on the UniRadio platform.
 
 ## Step by Step
 
 ### 1. Access the UniRadio platform
 
-Navegue até [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
+Navigate to [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
 
-### 2. Acesse o menu do usuário
+### 2. Open the user menu
 
-Clique no seu nome ou ícone de usuário no canto superior direito para abrir o menu do usuário.
+Click on your name or user icon in the top-right corner to open the user menu.
 
-![Menu do usuário](/images/en/clients/users/users-edit/01-menu.jpeg)
+![User menu](/images/en/clients/users/users-edit/01-menu.jpeg)
 
-### 3. Clique em "Usuários"
+### 3. Click "Users"
 
-![Usuários](/images/en/clients/users/users-edit/02-users.jpeg)
+![Users](/images/en/clients/users/users-edit/02-users.jpeg)
 
-### 4. Selecione o usuário que deseja editar
+### 4. Select the user you want to edit
 
-Clique sobre o usuário na lista.
+Click on the user in the list.
 
-![Selecionar usuário](/images/en/clients/users/users-edit/03-select-user.jpeg)
+![Select user](/images/en/clients/users/users-edit/03-select-user.jpeg)
 
-### 5. Edite as informações desejadas
+### 5. Edit the desired information
 
-Altere os campos que deseja atualizar, como nome, e-mail ou permissões.
+Change the fields you want to update, such as name, email, or permissions.
 
-![Editar campos do usuário](/images/en/clients/users/users-edit/04-edit-fields.jpeg)
+![Edit user fields](/images/en/clients/users/users-edit/04-edit-fields.jpeg)
 
-### 6. Clique em "Salvar" para confirmar
+### 6. Click "Save" to confirm
 
-![Salvar alterações](/images/en/clients/users/users-edit/05-submit.jpeg)
+![Save changes](/images/en/clients/users/users-edit/05-submit.jpeg)
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/faq) ou entre em contato com seu radiologista se encontrar problemas.
+Check our [FAQ](/en/faq) or contact your radiologist if you encounter any issues.

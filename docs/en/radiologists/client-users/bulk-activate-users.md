@@ -1,6 +1,6 @@
-# How to Ativar Usuários em Massa
+# How to Bulk Activate Users
 
-Aprenda como reativar o acesso de múltiplos usuários de uma clínica de uma só vez na plataforma UniRadio.
+Learn how to reactivate access for multiple clinic users at once on the UniRadio platform.
 
 ## Step by Step
 
@@ -8,48 +8,48 @@ Aprenda como reativar o acesso de múltiplos usuários de uma clínica de uma s�
 
 Sign in to your account and go to [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
 
-### 2. Acesse a lista de clientes
+### 2. Access the client list
 
-No menu lateral, clique em **"Clientes"** para visualizar as clínicas cadastradas.
+In the side menu, click on **"Clients"** to view the registered clinics.
 
-![Clientes](/images/en/radiologists/client-users/bulk-activate-users/01-clients.jpeg)
+![Clients](/images/en/radiologists/client-users/bulk-activate-users/01-clients.jpeg)
 
-### 3. Selecione a clínica
+### 3. Select the clinic
 
-Clique na clínica cujos usuários deseja gerenciar.
+Click on the clinic whose users you want to manage.
 
-![Selecionar clínica](/images/en/radiologists/client-users/bulk-activate-users/02-select-clinic.jpeg)
+![Select clinic](/images/en/radiologists/client-users/bulk-activate-users/02-select-clinic.jpeg)
 
-### 4. Acesse os usuários da conta
+### 4. Access the account users
 
-Dentro da clínica, clique na aba de usuários para visualizar os usuários cadastrados.
+Inside the clinic, click on the users tab to view the registered users.
 
-![Usuários da conta](/images/en/radiologists/client-users/bulk-activate-users/03-users-account.jpeg)
+![Account users](/images/en/radiologists/client-users/bulk-activate-users/03-users-account.jpeg)
 
-### 5. Selecione os usuários desejados
+### 5. Select the desired users
 
-Marque as caixas de seleção dos usuários que deseja ativar.
+Check the selection boxes of the users you want to activate.
 
-![Selecionar usuários](/images/en/radiologists/client-users/bulk-activate-users/04-select-users.jpeg)
+![Select users](/images/en/radiologists/client-users/bulk-activate-users/04-select-users.jpeg)
 
-### 6. Clique no dropdown de ações
+### 6. Click the actions dropdown
 
-Com os usuários selecionados, clique no menu suspenso de ações em massa.
+With the users selected, click the bulk actions dropdown menu.
 
-![Dropdown de ações](/images/en/radiologists/client-users/bulk-activate-users/05-dropdown.jpeg)
+![Actions dropdown](/images/en/radiologists/client-users/bulk-activate-users/05-dropdown.jpeg)
 
-### 7. Selecione "Ativar Usuários Selecionados"
+### 7. Select "Activate Selected Users"
 
-No menu, escolha a opção **"Ativar Usuários Selecionados"**.
+In the menu, choose the **"Activate Selected Users"** option.
 
-![Ativar usuários](/images/en/radiologists/client-users/bulk-activate-users/06-activate-users.jpeg)
+![Activate users](/images/en/radiologists/client-users/bulk-activate-users/06-activate-users.jpeg)
 
-### 8. Clique em "Executar Ação"
+### 8. Click "Execute Action"
 
-Confirme a operação clicando em **"Executar Ação"** para reativar o acesso dos usuários selecionados.
+Confirm the operation by clicking **"Execute Action"** to reactivate access for the selected users.
 
-![Executar ação](/images/en/radiologists/client-users/bulk-activate-users/07-executar-acao.jpeg)
+![Execute action](/images/en/radiologists/client-users/bulk-activate-users/07-executar-acao.jpeg)
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/faq) ou entre em contato com o suporte se encontrar problemas ao ativar usuários em massa.
+Check our [FAQ](/en/faq) or contact support if you encounter any issues bulk activating users.

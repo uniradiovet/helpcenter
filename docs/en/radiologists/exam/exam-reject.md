@@ -1,6 +1,6 @@
-# How to Rejeitar um Exame
+# How to Reject an Exam
 
-Aprenda como rejeitar um exame na plataforma UniRadio diretamente pelo menu de ações.
+Learn how to reject an exam in the UniRadio platform directly from the actions menu.
 
 ## Step by Step
 
@@ -8,34 +8,34 @@ Aprenda como rejeitar um exame na plataforma UniRadio diretamente pelo menu de a
 
 Sign in to your account and go to [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
 
-### 2. Clique em "Em Andamento"
+### 2. Click on "In Progress"
 
-Filtre os exames pelo status **"Em Andamento"** para localizar o exame que deseja rejeitar.
+Filter exams by the **"In Progress"** status to locate the exam you want to reject.
 
-![Em Andamento](/images/en/radiologists/exam/exam-reject/01-in-progress.jpeg)
+![In Progress](/images/en/radiologists/exam/exam-reject/01-in-progress.jpeg)
 
-### 3. Selecione o exame desejado
+### 3. Select the desired exam
 
-Clique sobre o exame que deseja rejeitar.
+Click on the exam you want to reject.
 
-![Selecionar exame](/images/en/radiologists/exam/exam-reject/02-select-exam.jpeg)
+![Select exam](/images/en/radiologists/exam/exam-reject/02-select-exam.jpeg)
 
-### 4. Clique em "Ações"
+### 4. Click on "Actions"
 
-Abra o menu de ações disponíveis para o exame.
+Open the actions menu available for the exam.
 
-![Menu de ações](/images/en/radiologists/exam/exam-reject/03-acoes.jpeg)
+![Actions menu](/images/en/radiologists/exam/exam-reject/03-acoes.jpeg)
 
-### 5. Clique em "Rejeitar"
+### 5. Click on "Reject"
 
-Selecione a opção **"Rejeitar"** no menu de ações.
+Select the **"Reject"** option from the actions menu.
 
-![Rejeitar exame](/images/en/radiologists/exam/exam-reject/04-reject.jpeg)
+![Reject exam](/images/en/radiologists/exam/exam-reject/04-reject.jpeg)
 
-### 6. Clique em "Continuar" para confirmar
+### 6. Click "Continue" to confirm
 
-![Confirmar rejeição](/images/en/radiologists/exam/exam-reject/05-continue.jpeg)
+![Confirm rejection](/images/en/radiologists/exam/exam-reject/05-continue.jpeg)
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/faq) ou entre em contato com o suporte se encontrar problemas ao rejeitar um exame.
+Check our [FAQ](/en/faq) or contact support if you encounter any issues when rejecting an exam.

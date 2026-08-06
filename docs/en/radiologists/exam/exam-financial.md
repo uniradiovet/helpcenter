@@ -1,6 +1,6 @@
-# How to Gerenciar o Financeiro de um Exame
+# How to Manage the Financial Information of an Exam
 
-Aprenda como acessar e atualizar as informações financeiras de um exame na plataforma UniRadio, incluindo métodos de pagamento e dados de faturamento.
+Learn how to access and update the financial information of an exam in the UniRadio platform, including payment methods and billing data.
 
 ## Step by Step
 
@@ -8,30 +8,30 @@ Aprenda como acessar e atualizar as informações financeiras de um exame na pla
 
 Sign in to your account and go to [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
 
-### 2. Clique em "Em Andamento"
+### 2. Click on "In Progress"
 
-Filtre os exames pelo status **"Em Andamento"** para localizar o exame desejado.
+Filter exams by the **"In Progress"** status to locate the desired exam.
 
-![Em Andamento](/images/en/radiologists/exam/exam-financial/01-in-progress.jpeg)
+![In Progress](/images/en/radiologists/exam/exam-financial/01-in-progress.jpeg)
 
-### 3. Selecione o exame desejado
+### 3. Select the desired exam
 
-Clique sobre o exame cujas informações financeiras deseja gerenciar.
+Click on the exam whose financial information you want to manage.
 
-![Selecionar exame](/images/en/radiologists/exam/exam-financial/02-select-exam.jpeg)
+![Select exam](/images/en/radiologists/exam/exam-financial/02-select-exam.jpeg)
 
-### 4. Clique em "Financeiro"
+### 4. Click on "Financial"
 
-Acesse a aba financeira do exame.
+Access the financial tab of the exam.
 
-![Financeiro](/images/en/radiologists/exam/exam-financial/03-financeiro.jpeg)
+![Financial](/images/en/radiologists/exam/exam-financial/03-financeiro.jpeg)
 
-### 5. Atualize as informações necessárias
+### 5. Update the required information
 
-Edite os dados financeiros do exame, como método de pagamento e informações de cobrança, conforme necessário.
+Edit the financial data of the exam, such as payment method and billing information, as needed.
 
-![Atualizar informações financeiras](/images/en/radiologists/exam/exam-financial/04-update.jpeg)
+![Update financial information](/images/en/radiologists/exam/exam-financial/04-update.jpeg)
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/faq) ou entre em contato com o suporte se encontrar problemas ao gerenciar o financeiro de um exame.
+Check our [FAQ](/en/faq) or contact support if you encounter any issues when managing the financial information of an exam.

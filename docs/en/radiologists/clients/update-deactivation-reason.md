@@ -1,6 +1,6 @@
-# How to Atualizar o Motivo de Desativação de um Cliente
+# How to Update the Deactivation Reason for a Client
 
-Aprenda como alterar o motivo registrado para a desativação de uma conta de cliente na plataforma UniRadio.
+Learn how to change the recorded reason for the deactivation of a client account on the UniRadio platform.
 
 ## Step by Step
 
@@ -8,42 +8,42 @@ Aprenda como alterar o motivo registrado para a desativação de uma conta de cl
 
 Sign in to your account and go to [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
 
-### 2. Acesse "Clientes"
+### 2. Open "Clients"
 
-No menu lateral, clique em **"Clientes"** para visualizar a lista de clientes cadastrados.
+In the side menu, click **"Clients"** to view the list of registered clients.
 
-![Clientes](/images/en/radiologists/clients/update-deactivation-reason/01-clients.jpeg)
+![Clients](/images/en/radiologists/clients/update-deactivation-reason/01-clients.jpeg)
 
-### 3. Clique na aba "Inativos"
+### 3. Click the "Inactive" tab
 
-Clique na aba **"Inativos"** para listar apenas as contas desativadas.
+Click the **"Inactive"** tab to list only the deactivated accounts.
 
-![Inativos](/images/en/radiologists/clients/update-deactivation-reason/02-inativos.jpeg)
+![Inactive](/images/en/radiologists/clients/update-deactivation-reason/02-inativos.jpeg)
 
-### 4. Selecione o cliente
+### 4. Select the client
 
-Clique sobre o cliente cujo motivo de desativação deseja atualizar.
+Click on the client whose deactivation reason you want to update.
 
-![Selecionar cliente](/images/en/radiologists/clients/update-deactivation-reason/03-select-client.jpeg)
+![Select client](/images/en/radiologists/clients/update-deactivation-reason/03-select-client.jpeg)
 
-### 5. Clique em "Atualizar motivo da desativação"
+### 5. Click "Update deactivation reason"
 
-Clique no botão **"Atualizar motivo da desativação"** para abrir o formulário de atualização.
+Click the **"Update deactivation reason"** button to open the update form.
 
-![Atualizar motivo](/images/en/radiologists/clients/update-deactivation-reason/04-update-reason.jpeg)
+![Update reason](/images/en/radiologists/clients/update-deactivation-reason/04-update-reason.jpeg)
 
-### 6. Selecione o novo motivo
+### 6. Select the new reason
 
-Escolha o motivo adequado para a desativação, como **"Conta duplicada"** ou outra opção disponível.
+Choose the appropriate reason for the deactivation, such as **"Duplicate account"** or another available option.
 
-![Selecionar motivo](/images/en/radiologists/clients/update-deactivation-reason/05-select-reason.jpeg)
+![Select reason](/images/en/radiologists/clients/update-deactivation-reason/05-select-reason.jpeg)
 
-### 7. Clique em "Confirmar" para salvar
+### 7. Click "Confirm" to save
 
-Clique em **"Confirmar"** para registrar o novo motivo de desativação.
+Click **"Confirm"** to record the new deactivation reason.
 
-![Confirmar](/images/en/radiologists/clients/update-deactivation-reason/06-confirm.jpeg)
+![Confirm](/images/en/radiologists/clients/update-deactivation-reason/06-confirm.jpeg)
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/faq) ou entre em contato com o suporte se encontrar problemas ao atualizar o motivo de desativação.
+Check our [FAQ](/en/faq) or contact support if you have issues updating the deactivation reason.

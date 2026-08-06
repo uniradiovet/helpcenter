@@ -1,31 +1,31 @@
-# How to Excluir um Exame
+# How to Delete an Exam
 
-Aprenda como localizar e excluir um exame na plataforma UniRadio.
+Learn how to find and delete an exam on the UniRadio platform.
 
 ## Step by Step
 
-### 1. Acesse a página de Exames
+### 1. Access the Exams page
 
-Navegue até [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
+Navigate to [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
 
-### 2. Selecione o exame
+### 2. Select the exam
 
-Clique sobre o exame que deseja excluir na lista.
+Click on the exam you want to delete in the list.
 
-> **Atenção:** Só é possível excluir exames com status **"aguardando"**. Se o exame estiver em outro status, solicite a exclusão ao radiologista.
+> **Warning:** You can only delete exams with the status **"waiting"**. If the exam has a different status, ask your radiologist to delete it.
 
-![Selecionar exame](/images/en/clients/exam/exam-delete/01-select-exam.jpeg)
+![Select exam](/images/en/clients/exam/exam-delete/01-select-exam.jpeg)
 
-### 3. Clique no ícone de lixeira para excluir
+### 3. Click the trash icon to delete
 
-![Botão excluir](/images/en/clients/exam/exam-delete/02-delete.jpeg)
+![Delete button](/images/en/clients/exam/exam-delete/02-delete.jpeg)
 
-### 4. Confirme a exclusão
+### 4. Confirm the deletion
 
-Clique em "Continuar" para confirmar que deseja excluir o exame.
+Click "Continue" to confirm that you want to delete the exam.
 
-![Confirmar exclusão](/images/en/clients/exam/exam-delete/03-confirm.jpeg)
+![Confirm deletion](/images/en/clients/exam/exam-delete/03-confirm.jpeg)
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/faq) ou entre em contato com seu radiologista se encontrar problemas.
+Check our [FAQ](/en/faq) or contact your radiologist if you encounter any issues.

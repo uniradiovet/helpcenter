@@ -1,6 +1,6 @@
-# How to Reenviar Convite para Usuários em Massa
+# How to Bulk Resend Invitations to Users
 
-Aprenda como reenviar convites pendentes para múltiplos usuários de uma clínica de uma só vez na plataforma UniRadio.
+Learn how to resend pending invitations to multiple clinic users at once on the UniRadio platform.
 
 ## Step by Step
 
@@ -8,48 +8,48 @@ Aprenda como reenviar convites pendentes para múltiplos usuários de uma clíni
 
 Sign in to your account and go to [app.uniradio.vet.br/exams](https://app.uniradio.vet.br/exams)
 
-### 2. Acesse a lista de clientes
+### 2. Access the client list
 
-No menu lateral, clique em **"Clientes"** para visualizar as clínicas cadastradas.
+In the side menu, click on **"Clients"** to view the registered clinics.
 
-![Clientes](/images/en/radiologists/client-users/bulk-resend-invitation/01-clients.jpeg)
+![Clients](/images/en/radiologists/client-users/bulk-resend-invitation/01-clients.jpeg)
 
-### 3. Selecione a clínica
+### 3. Select the clinic
 
-Clique na clínica cujos usuários deseja gerenciar.
+Click on the clinic whose users you want to manage.
 
-![Selecionar clínica](/images/en/radiologists/client-users/bulk-resend-invitation/02-select-clinic.jpeg)
+![Select clinic](/images/en/radiologists/client-users/bulk-resend-invitation/02-select-clinic.jpeg)
 
-### 4. Acesse os usuários da conta
+### 4. Access the account users
 
-Dentro da clínica, clique na aba de usuários para visualizar os usuários cadastrados.
+Inside the clinic, click on the users tab to view the registered users.
 
-![Usuários da conta](/images/en/radiologists/client-users/bulk-resend-invitation/03-users-account.jpeg)
+![Account users](/images/en/radiologists/client-users/bulk-resend-invitation/03-users-account.jpeg)
 
-### 5. Selecione os usuários desejados
+### 5. Select the desired users
 
-Marque as caixas de seleção dos usuários para os quais deseja reenviar o convite.
+Check the selection boxes of the users to whom you want to resend the invitation.
 
-![Selecionar usuários](/images/en/radiologists/client-users/bulk-resend-invitation/04-select-users.jpeg)
+![Select users](/images/en/radiologists/client-users/bulk-resend-invitation/04-select-users.jpeg)
 
-### 6. Clique no dropdown de ações
+### 6. Click the actions dropdown
 
-Com os usuários selecionados, clique no menu suspenso de ações em massa.
+With the users selected, click the bulk actions dropdown menu.
 
-![Dropdown de ações](/images/en/radiologists/client-users/bulk-resend-invitation/05-dropdown.jpeg)
+![Actions dropdown](/images/en/radiologists/client-users/bulk-resend-invitation/05-dropdown.jpeg)
 
-### 7. Selecione "Reenviar Convite Para Usuários Selecionados"
+### 7. Select "Resend Invitation to Selected Users"
 
-No menu, escolha a opção **"Reenviar Convite Para Usuários Selecionados"**.
+In the menu, choose the **"Resend Invitation to Selected Users"** option.
 
-![Reenviar convite](/images/en/radiologists/client-users/bulk-resend-invitation/06-resend-invite.jpeg)
+![Resend invitation](/images/en/radiologists/client-users/bulk-resend-invitation/06-resend-invite.jpeg)
 
-### 8. Clique em "Executar Ação"
+### 8. Click "Execute Action"
 
-Confirme a operação clicando em **"Executar Ação"** para reenviar os convites aos usuários selecionados.
+Confirm the operation by clicking **"Execute Action"** to resend the invitations to the selected users.
 
-![Executar ação](/images/en/radiologists/client-users/bulk-resend-invitation/07-executar-acao.jpeg)
+![Execute action](/images/en/radiologists/client-users/bulk-resend-invitation/07-executar-acao.jpeg)
 
 ## Need Help?
 
-Confira nossas [FAQ](/en/faq) ou entre em contato com o suporte se encontrar problemas ao reenviar convites em massa.
+Check our [FAQ](/en/faq) or contact support if you encounter any issues bulk resending invitations.
