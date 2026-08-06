@@ -45,6 +45,7 @@ export default defineConfig({
                 { text: 'Rejeitar laudo', link: '/radiologists/exam/exam-reject' },
                 { text: 'Acessar laudo', link: '/radiologists/report/report-access' },
                 { text: 'Compartilhar', link: '/radiologists/report/report-share' },
+                { text: 'Compartilhar via WhatsApp', link: '/radiologists/report/report-share-whatsapp' },
                 { text: 'Filtrar Laudos', link: '/radiologists/report/report-filter' },
                 { text: 'Versões do Laudo', link: '/radiologists/report/report-restore-version' },
                 { text: 'Comentário', link: '/radiologists/exam/exam-comment-new' }
@@ -122,7 +123,8 @@ export default defineConfig({
                 { text: 'Configurar laudos', link: '/radiologists/report/report-settings' },
                 { text: 'Configurar exames', link: '/radiologists/exam/exam-settings' },
                 { text: 'Pesquisa NPS', link: '/radiologists/settings/nps-settings' },
-                { text: 'Notificações conta', link: '/radiologists/account/account-notifications' }
+                { text: 'Notificações conta', link: '/radiologists/account/account-notifications' },
+                { text: 'Conectar WhatsApp', link: '/radiologists/settings/connect-whatsapp' }
               ]
             },
             {
@@ -426,6 +428,7 @@ export default defineConfig({
                 { text: 'Mark as Pending', link: '/en/radiologists/report/mark-as-pending' },
                 { text: 'Access Reports', link: '/en/radiologists/report/report-access' },
                 { text: 'Share Reports', link: '/en/radiologists/report/report-share' },
+                { text: 'Share via WhatsApp', link: '/en/radiologists/report/report-share-whatsapp' },
                 { text: 'Generate Reports', link: '/en/radiologists/report/reports-generate' }
               ]
             },
@@ -451,6 +454,7 @@ export default defineConfig({
                 { text: 'Exam Settings', link: '/en/radiologists/exam/exam-settings' },
                 { text: 'Report Settings', link: '/en/radiologists/report/report-settings' },
                 { text: 'NPS Survey', link: '/en/radiologists/settings/nps-settings' },
+                { text: 'Connect WhatsApp', link: '/en/radiologists/settings/connect-whatsapp' },
                 { text: 'Financial Management', link: '/en/radiologists/settings/financial-settings' },
                 { text: 'Register Webhook', link: '/en/radiologists/integrations/webhooks-new' },
                 { text: 'Edit Webhook', link: '/en/radiologists/integrations/webhooks-edit' },
