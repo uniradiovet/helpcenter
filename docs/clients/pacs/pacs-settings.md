@@ -37,6 +37,7 @@ Após obter as informações de conexão, siga o tutorial do seu software de cap
 - [DR Tech](/clients/pacs/drtech-pacs-config)
 - [VXVue](/clients/pacs/vxvue-pacs-config)
 - [Voyance](/clients/pacs/voyance-pacs-config)
+- [ZView](/clients/pacs/zview-pacs-config)
 
 ## Precisa de Ajuda?
 

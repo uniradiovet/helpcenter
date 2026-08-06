@@ -37,6 +37,7 @@ After obtaining the connection details, follow the tutorial for your imaging sof
 - [DR Tech](/en/clients/pacs/drtech-pacs-config)
 - [VXVue](/en/clients/pacs/vxvue-pacs-config)
 - [Voyance](/en/clients/pacs/voyance-pacs-config)
+- [ZView](/en/clients/pacs/zview-pacs-config)
 
 ## Need Help?
 

@@ -47,6 +47,7 @@ Após configurar o servidor PACS na plataforma, siga o tutorial do seu software 
 - [DR Tech](/radiologists/pacs/drtech-pacs-config)
 - [VXVue](/radiologists/pacs/vxvue-pacs-config)
 - [Voyance](/radiologists/pacs/voyance-pacs-config)
+- [ZView](/radiologists/pacs/zview-pacs-config)
 
 ## Precisa de Ajuda?
 

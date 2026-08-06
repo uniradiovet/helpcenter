@@ -143,7 +143,8 @@ export default defineConfig({
                 { text: 'Integração Dr.Tech', link: '/radiologists/pacs/drtech-pacs-config' },
                 { text: 'Integração Ultramedic', link: '/radiologists/pacs/ultramedic-pacs-config' },
                 { text: 'Integração VXVue', link: '/radiologists/pacs/vxvue-pacs-config' },
-                { text: 'Integração Voyance', link: '/radiologists/pacs/voyance-pacs-config' }
+                { text: 'Integração Voyance', link: '/radiologists/pacs/voyance-pacs-config' },
+                { text: 'Integração ZView', link: '/radiologists/pacs/zview-pacs-config' }
 
               ]
             },
@@ -255,7 +256,8 @@ export default defineConfig({
                 { text: 'Integração Dr.Tech', link: '/clients/pacs/drtech-pacs-config' },
                 { text: 'Integração Ultramedic', link: '/clients/pacs/ultramedic-pacs-config' },
                 { text: 'Integração VXVue', link: '/clients/pacs/vxvue-pacs-config' },
-                { text: 'Integração Voyance', link: '/clients/pacs/voyance-pacs-config' }
+                { text: 'Integração Voyance', link: '/clients/pacs/voyance-pacs-config' },
+                { text: 'Integração ZView', link: '/clients/pacs/zview-pacs-config' }
               ]
             },
             {
@@ -445,7 +447,8 @@ export default defineConfig({
                 { text: 'DR Tech Integration', link: '/en/radiologists/pacs/drtech-pacs-config' },
                 { text: 'Ultramedic Integration', link: '/en/radiologists/pacs/ultramedic-pacs-config' },
                 { text: 'VXVue Integration', link: '/en/radiologists/pacs/vxvue-pacs-config' },
-                { text: 'Voyance Integration', link: '/en/radiologists/pacs/voyance-pacs-config' }
+                { text: 'Voyance Integration', link: '/en/radiologists/pacs/voyance-pacs-config' },
+                { text: 'ZView Integration', link: '/en/radiologists/pacs/zview-pacs-config' }
               ]
             },
             {
@@ -538,7 +541,8 @@ export default defineConfig({
                 { text: 'DR Tech Integration', link: '/en/clients/pacs/drtech-pacs-config' },
                 { text: 'Ultramedic Integration', link: '/en/clients/pacs/ultramedic-pacs-config' },
                 { text: 'VXVue Integration', link: '/en/clients/pacs/vxvue-pacs-config' },
-                { text: 'Voyance Integration', link: '/en/clients/pacs/voyance-pacs-config' }
+                { text: 'Voyance Integration', link: '/en/clients/pacs/voyance-pacs-config' },
+                { text: 'ZView Integration', link: '/en/clients/pacs/zview-pacs-config' }
               ]
             },
             {
