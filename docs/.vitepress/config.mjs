@@ -61,6 +61,12 @@ export default defineConfig({
               ]
             },
             {
+              text: 'Assistente de IA',
+              items: [
+                { text: 'Assistente de Laudo', link: '/radiologists/ai-assistant/report-ai-assistant' }
+              ]
+            },
+            {
               text: 'Clientes',
               items: [
                 { text: 'Cadastrar Cliente', link: '/radiologists/clients/register-client' },
