@@ -39,6 +39,7 @@ export default defineConfig({
               items: [
                 { text: 'Emitir Laudo', link: '/radiologists/report/issue-reports' },
                 { text: 'Editar Laudo', link: '/radiologists/report/report-edit' },
+                { text: 'Ditar Laudo', link: '/radiologists/report/report-dictate' },
                 { text: 'Anexar estudo PACS', link: '/radiologists/exam/exam-pacs-attach' },
                 { text: 'Anexar imagens', link: '/radiologists/exam/exam-upload-images' },
                 { text: 'Marcar pendente', link: '/radiologists/report/mark-as-pending' },
@@ -437,6 +438,7 @@ export default defineConfig({
                 { text: 'Apply Report Template', link: '/en/radiologists/report/insert-report-template' },
                 { text: 'Issue Reports', link: '/en/radiologists/report/issue-reports' },
                 { text: 'Edit Reports', link: '/en/radiologists/report/report-edit' },
+                { text: 'Dictate Report', link: '/en/radiologists/report/report-dictate' },
                 { text: 'Restore Report Version', link: '/en/radiologists/report/report-restore-version' },
                 { text: 'Mark as Pending', link: '/en/radiologists/report/mark-as-pending' },
                 { text: 'Access Reports', link: '/en/radiologists/report/report-access' },
